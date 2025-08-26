@@ -6,7 +6,7 @@ import type { Game } from "./types/game";
 import tagsData from "./assets/tags.json";
 import type { Tag } from "./types/tag";
 
-function App() {
+export const App = () => {
   const [selectedTag, setSelectedTag] = useState("");
 
   const games = gamesData as Game[];
@@ -54,6 +54,4 @@ function App() {
       </div>
     </div>
   );
-}
-
-export default App;
+};
