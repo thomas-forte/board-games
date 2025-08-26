@@ -2,13 +2,15 @@ import { useState } from "react";
 import { ChevronDownIcon } from "@heroicons/react/16/solid";
 import { GameCard, type Game } from "./GameCard";
 import data from "./assets/data.json";
+import tagsData from "./assets/tags.json";
+import type { Tag } from "./types/tag";
 
 function App() {
   const [selectedTag, setSelectedTag] = useState("");
 
   const games = data as Game[];
 
-  const tags = [...new Set(games.flatMap((game) => game.tags))];
+  const tags = (tagsData as Tag[]).sort((a, b) => a.priority - b.priority);
 
   const getGames = () =>
     games.filter((game) =>
@@ -32,8 +34,8 @@ function App() {
               onChange={(e) => setSelectedTag(e.target.value)}
             >
               {tags.map((tag) => (
-                <option key={tag} value={tag}>
-                  {formatTag(tag)}
+                <option key={tag.tag} value={tag.tag}>
+                  {formatTag(tag.name)}
                 </option>
               ))}
             </select>

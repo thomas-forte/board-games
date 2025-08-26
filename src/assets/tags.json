@@ -1,0 +1,62 @@
+[
+  {
+    "priority": 1,
+    "name": "Top Games",
+    "tag": "top_games"
+  },
+  {
+    "priority": 2,
+    "name": "Ancient",
+    "tag": "ancient"
+  },
+  {
+    "priority": 3,
+    "name": "Age of Sail",
+    "tag": "age_of_sail"
+  },
+  {
+    "priority": 4,
+    "name": "American Revolution",
+    "tag": "american_revolution"
+  },
+  {
+    "priority": 5,
+    "name": "Napoleonic",
+    "tag": "napoleonic"
+  },
+  {
+    "priority": 6,
+    "name": "American Civil War",
+    "tag": "american_civil_war"
+  },
+  {
+    "priority": 7,
+    "name": "WWI",
+    "tag": "wwi"
+  },
+  {
+    "priority": 8,
+    "name": "WWII",
+    "tag": "wwii"
+  },
+  {
+    "priority": 9,
+    "name": "Vietnam",
+    "tag": "vietnam"
+  },
+  {
+    "priority": 10,
+    "name": "Modern",
+    "tag": "modern"
+  },
+  {
+    "priority": 11,
+    "name": "Solo",
+    "tag": "solo"
+  },
+  {
+    "priority": 12,
+    "name": "3 Player",
+    "tag": "3_player"
+  }
+]
