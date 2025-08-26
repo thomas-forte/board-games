@@ -1,14 +1,15 @@
 import { useState } from "react";
 import { ChevronDownIcon } from "@heroicons/react/16/solid";
-import { GameCard, type Game } from "./GameCard";
-import data from "./assets/data.json";
+import { GameCard } from "./GameCard";
+import gamesData from "./assets/data.json";
+import type { Game } from "./types/game";
 import tagsData from "./assets/tags.json";
 import type { Tag } from "./types/tag";
 
 function App() {
   const [selectedTag, setSelectedTag] = useState("");
 
-  const games = data as Game[];
+  const games = gamesData as Game[];
 
   const tags = (tagsData as Tag[]).sort((a, b) => a.priority - b.priority);
 
