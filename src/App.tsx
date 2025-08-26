@@ -1,10 +1,12 @@
 import { useState } from "react";
 import { ChevronDownIcon } from "@heroicons/react/16/solid";
+
 import { GameCard } from "./GameCard";
-import gamesData from "./assets/data.json";
 import type { Game } from "./types/game";
-import tagsData from "./assets/tags.json";
 import type { Tag } from "./types/tag";
+
+import gamesData from "./assets/scraped.json";
+import tagsData from "./assets/tags.json";
 
 export const App = () => {
   const [selectedTag, setSelectedTag] = useState("");
@@ -18,12 +20,6 @@ export const App = () => {
       selectedTag ? game.tags.includes(selectedTag) : game
     );
 
-  const formatTag = (tag: string) => {
-    return tag
-      .replace(/_/g, " ")
-      .replace(/\b\w/g, (char) => char.toUpperCase());
-  };
-
   return (
     <div className="p-4 bg-gray-100">
       <div>
@@ -36,7 +32,7 @@ export const App = () => {
             >
               {tags.map((tag) => (
                 <option key={tag.tag} value={tag.tag}>
-                  {formatTag(tag.name)}
+                  {tag.name}
                 </option>
               ))}
             </select>

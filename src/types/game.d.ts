@@ -1,18 +1,18 @@
 export interface Game {
   name: string;
-  publisher: string;
+  publishers: string[];
   releaseYear: number;
-  averageRating: number;
-  players: string;
-  playtime: string;
+  bggRating: number;
+  players: {
+    min: number;
+    max: number;
+    best: string;
+  };
+  playtime: {
+    min: number;
+    max: number;
+  };
   complexityRating: number;
-  type: string;
-  nobleKnightPrice: number;
-  nobleKnightCondition: string;
-  numberOfCounters: number;
-  numberOfMaps: number;
-  extraScenarios: number;
-  nobleKnight?: string;
-  boardGameGeek: string;
+  bggUrl: string;
   tags: string[];
 }

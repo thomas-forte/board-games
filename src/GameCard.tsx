@@ -9,7 +9,7 @@ export const GameCard = (game: Game) => {
           {game.name || "N/A"}
         </h3>
         <p className="max-w-2xl text-sm/6 text-gray-500 dark:text-gray-300">
-          {game.publisher || "N/A"}
+          {game.publishers?.join(", ") || "N/A"}
         </p>
       </div>
       <div className="border-t border-gray-100 dark:border-white/5">
@@ -19,7 +19,7 @@ export const GameCard = (game: Game) => {
               Release Year
             </dt>
             <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              {game.releaseYear || "N/A"}
+              {game.releaseYear}
             </dd>
           </div>
           <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
@@ -29,12 +29,12 @@ export const GameCard = (game: Game) => {
             <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
               <div className="overflow-hidden rounded-full bg-gray-200 dark:bg-white/10">
                 <div
-                  style={{ width: `${game.averageRating * 10}%` }}
+                  style={{ width: `${game.bggRating * 10}%` }}
                   className="h-2 rounded-full bg-yellow-500 dark:bg-yellow-500"
                 />
               </div>
               <small className="text-gray-500">
-                {game.averageRating || "N/A"}
+                {game.bggRating.toFixed(2)}
               </small>
             </dd>
           </div>
@@ -43,7 +43,8 @@ export const GameCard = (game: Game) => {
               Players
             </dt>
             <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              {game.players || "N/A"}
+              {game.players.min} - {game.players.max} (Best: {game.players.best}
+              )
             </dd>
           </div>
           <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
@@ -51,7 +52,7 @@ export const GameCard = (game: Game) => {
               Playtime
             </dt>
             <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              {game.playtime || "N/A"}
+              {game.playtime.min} - {game.playtime.max}
             </dd>
           </div>
           <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
@@ -72,7 +73,7 @@ export const GameCard = (game: Game) => {
                     />
                   ))}
                   <small className="ml-2 text-gray-500">
-                    {game.complexityRating} of 5
+                    {game.complexityRating.toFixed(2)} of 5
                   </small>
                 </div>
               ) : (
@@ -80,15 +81,15 @@ export const GameCard = (game: Game) => {
               )}
             </dd>
           </div>
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
+          {/* <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
             <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
               Type
             </dt>
             <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
               {game.type || "N/A"}
             </dd>
-          </div>
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
+          </div> */}
+          {/* <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
             <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
               Noble Knight Price
             </dt>
@@ -144,18 +145,14 @@ export const GameCard = (game: Game) => {
                 {game.nobleKnight || "N/A"}
               </a>
             </dd>
-          </div>
+          </div> */}
           <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
             <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
               Board Game Geek
             </dt>
             <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              <a
-                href={game.boardGameGeek || "#"}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {game.boardGameGeek || "N/A"}
+              <a href={game.bggUrl} target="_blank" rel="noopener noreferrer">
+                {game.bggUrl}
               </a>
             </dd>
           </div>
