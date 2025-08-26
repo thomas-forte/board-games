@@ -1,5 +1,9 @@
-import { StarIcon } from "@heroicons/react/24/solid";
 import type { Game } from "./types/game";
+
+import { DataList } from "./components/DataList";
+import { DataRow } from "./components/DataRow";
+import { ProgressBar } from "./components/ProgressBar";
+import { StarRating } from "./components/StarRating";
 
 export const GameCard = (game: Game) => {
   return (
@@ -13,74 +17,29 @@ export const GameCard = (game: Game) => {
         </p>
       </div>
       <div className="border-t border-gray-100 dark:border-white/5">
-        <dl className="divide-y divide-gray-100 dark:divide-white/5">
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
-            <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
-              Release Year
-            </dt>
-            <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              {game.releaseYear}
-            </dd>
-          </div>
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
-            <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
-              Average Rating
-            </dt>
-            <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              <div className="overflow-hidden rounded-full bg-gray-200 dark:bg-white/10">
-                <div
-                  style={{ width: `${game.bggRating * 10}%` }}
-                  className="h-2 rounded-full bg-yellow-500 dark:bg-yellow-500"
-                />
-              </div>
-              <small className="text-gray-500">
-                {game.bggRating.toFixed(2)}
-              </small>
-            </dd>
-          </div>
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
-            <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
-              Players
-            </dt>
-            <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              {game.players.min} - {game.players.max} (Best: {game.players.best}
-              )
-            </dd>
-          </div>
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
-            <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
-              Playtime
-            </dt>
-            <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              {game.playtime.min} - {game.playtime.max}
-            </dd>
-          </div>
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
-            <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
-              Complexity Rating
-            </dt>
-            <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
-              {game.complexityRating ? (
-                <div className="flex items-center">
-                  {Array.from({ length: 5 }, (_, i) => (
-                    <StarIcon
-                      key={i}
-                      className={`w-4 h-4 ${
-                        game.complexityRating + 0.5 > i + 1
-                          ? "text-yellow-500"
-                          : "text-gray-300"
-                      }`}
-                    />
-                  ))}
-                  <small className="ml-2 text-gray-500">
-                    {game.complexityRating.toFixed(2)} of 5
-                  </small>
-                </div>
-              ) : (
-                "N/A"
-              )}
-            </dd>
-          </div>
+        <DataList>
+          <DataRow labelNode="Release Year" valueNode={game.releaseYear} />
+          <DataRow
+            labelNode="Average Rating"
+            valueNode={
+              <ProgressBar
+                percentage={game.bggRating * 10}
+                displayValue={game.bggRating.toFixed(2)}
+              />
+            }
+          />
+          <DataRow
+            labelNode="Players"
+            valueNode={`${game.players.min} - ${game.players.max} (Best: ${game.players.best})`}
+          />
+          <DataRow
+            labelNode="Playtime"
+            valueNode={`${game.playtime.min} - ${game.playtime.max}`}
+          />
+          <DataRow
+            labelNode="Complexity Rating"
+            valueNode={<StarRating rating={game.complexityRating} />}
+          />
           {/* <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
             <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
               Type
@@ -146,17 +105,15 @@ export const GameCard = (game: Game) => {
               </a>
             </dd>
           </div> */}
-          <div className="p-3 sm:grid sm:grid-cols-3 sm:gap-4">
-            <dt className="text-sm font-medium text-gray-900 dark:text-gray-100">
-              Board Game Geek
-            </dt>
-            <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
+          <DataRow
+            labelNode="Board Game Geek"
+            valueNode={
               <a href={game.bggUrl} target="_blank" rel="noopener noreferrer">
                 {game.bggUrl}
               </a>
-            </dd>
-          </div>
-        </dl>
+            }
+          />
+        </DataList>
       </div>
     </div>
   );
