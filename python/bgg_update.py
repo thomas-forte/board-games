@@ -4,20 +4,13 @@ from datetime import datetime
 
 """
 This script updates the bggLastUpdate field in the scrape_list.json file.
-
-Format:
-{
-    "nobleKnightId": "2147841575",
-    "boardGameGeekId": "322197",
-    "bggLastUpdate": "<ISO 8601 datetime>",
-    "tags": ["top_games"]
-}
 """
 
-# Gather tags from tags.json and format them for src/assets/tags.json
+# Gather tags from tags.json
 with open("tags.json", "r") as file:
     tags = json.load(file)
 
+# Format tags
 tags_data = []
 for index, tag in enumerate(tags):
     tags_data.append({
@@ -26,30 +19,37 @@ for index, tag in enumerate(tags):
         "tag": tag.lower().replace(" ", "_")
     })
 
-with open("src/assets/tags.json", "w") as file:
+# Write tags to src/assets/tags.json
+with open("../src/assets/tags.json", "w") as file:
     json.dump(tags_data, file)
 
 
-
+# Gather scrape_list.json
 with open("scrape_list.json", "r") as file:
     scrape_list = json.load(file)
 
+# Break scrape_list.json into chunks as needed for BGG API
+CHUNK_SIZE = 20
+bgg_chunks = [scrape_list[i : i + CHUNK_SIZE] for i in range(0, len(scrape_list), CHUNK_SIZE)]
 
-chunk_size = 20
-bgg_chunks = [scrape_list[i : i + chunk_size] for i in range(0, len(scrape_list), chunk_size)]
-
+# Initialize variables
 bgg = BGGClient()
-
 data = []
-
 now = datetime.now()
 
+# Loop through chunks and format data
 for bgg_chunk in bgg_chunks:
     game_list = [game.get("boardGameGeekId") for game in bgg_chunk if game.get("boardGameGeekId")]
     games = bgg.game_list(game_list)
     for game in games:
+
+        # find the index of the game in scrape_list.json
         scrape_list_index = next(i for i, item in enumerate(scrape_list) if item.get("boardGameGeekId") == str(game.id))
+        
+        # update the bggLastUpdate field for updating the scrape_list.json
         scrape_list[scrape_list_index]["bggLastUpdate"] = now.isoformat()
+        
+        # format data for src/assets/scraped.json
         suggested_players={ k:i.get("best_rating") for k,i in game.suggested_players.get("results").items()}
         data.append({
             "name": game.name,
@@ -71,10 +71,12 @@ for bgg_chunk in bgg_chunks:
             "tags": scrape_list[scrape_list_index].get("tags")
         })
 
+# Write scrape_list.json
 with open("scrape_list.json", "w") as file:
     json.dump(scrape_list, file, indent=2)
 
-with open("bgg_data.json", "w") as file:
-    json.dump(data, file, indent=2)
+# Write scraped.json
+with open("../src/assets/scraped.json", "w") as file:
+    json.dump(data, file)
 
 

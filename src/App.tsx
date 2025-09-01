@@ -32,7 +32,7 @@ export const App = () => {
             >
               <option value="">All</option>
               {tags.map((tag) => (
-                <option key={tag.tag} value={tag.tag}>
+                <option key={tag.tag} value={tag.name}>
                   {tag.name}
                 </option>
               ))}

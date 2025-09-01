@@ -5,6 +5,39 @@ import { DataRow } from "./components/DataRow";
 import { ProgressBar } from "./components/ProgressBar";
 import { StarRating } from "./components/StarRating";
 
+const formatPlayers = (players: Game["players"]) => {
+  let basePlayers = "";
+  if (players.min === players.max) {
+    basePlayers = `${players.min} players`;
+  } else if (players.min && players.max) {
+    basePlayers = `${players.min} - ${players.max} players`;
+  } else if (players.min) {
+    basePlayers = `${players.min} players`;
+  } else if (players.max) {
+    basePlayers = `${players.max} players`;
+  }
+
+  if (players.best) {
+    return `${basePlayers} (Best: ${players.best})`;
+  } else {
+    return basePlayers;
+  }
+};
+
+const formatPlaytime = (playtime: Game["playtime"]) => {
+  if (playtime.min === playtime.max) {
+    return `${playtime.min} minutes`;
+  } else if (playtime.min && playtime.max) {
+    return `${playtime.min} - ${playtime.max} minutes`;
+  } else if (playtime.min) {
+    return `${playtime.min} minutes`;
+  } else if (playtime.max) {
+    return `${playtime.max} minutes`;
+  } else {
+    return "N/A";
+  }
+};
+
 export const GameCard = (game: Game) => {
   return (
     <div className="overflow-hidden bg-white shadow-sm sm:rounded-lg dark:bg-gray-800/50 dark:shadow-none dark:inset-ring dark:inset-ring-white/10">
@@ -30,11 +63,11 @@ export const GameCard = (game: Game) => {
           />
           <DataRow
             labelNode="Players"
-            valueNode={`${game.players.min} - ${game.players.max} (Best: ${game.players.best})`}
+            valueNode={formatPlayers(game.players)}
           />
           <DataRow
             labelNode="Playtime"
-            valueNode={`${game.playtime.min} - ${game.playtime.max}`}
+            valueNode={formatPlaytime(game.playtime)}
           />
           <DataRow
             labelNode="Complexity Rating"
@@ -132,9 +165,9 @@ export const GameCard = (game: Game) => {
                 {game.tags.map((tag) => (
                   <span
                     key={tag}
-                    className="bg-gray-100 rounded-md px-2 py-1 text-sm"
+                    className="bg-blue-100 rounded-md px-2 py-1 text-xs text-blue-700"
                   >
-                    {tag.replaceAll("_", " ").toUpperCase()}
+                    {tag}
                   </span>
                 ))}
               </div>

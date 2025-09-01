@@ -3,5 +3,8 @@
   "editor.formatOnSave": true,
   "files.associations": {
     "*.css": "tailwindcss"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
   }
 }
