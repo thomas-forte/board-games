@@ -8,13 +8,13 @@ import { StarRating } from "./components/StarRating";
 const formatPlayers = (players: Game["players"]) => {
   let basePlayers = "";
   if (players.min === players.max) {
-    basePlayers = `${players.min} players`;
+    basePlayers = `${players.min} player${players.min === 1 ? "" : "s"}`;
   } else if (players.min && players.max) {
     basePlayers = `${players.min} - ${players.max} players`;
   } else if (players.min) {
-    basePlayers = `${players.min} players`;
+    basePlayers = `${players.min} player${players.min === 1 ? "" : "s"}`;
   } else if (players.max) {
-    basePlayers = `${players.max} players`;
+    basePlayers = `${players.max} player${players.max === 1 ? "" : "s"}`;
   }
 
   if (players.best) {
