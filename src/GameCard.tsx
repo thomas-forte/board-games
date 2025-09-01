@@ -5,6 +5,9 @@ import { DataRow } from "./components/DataRow";
 import { ProgressBar } from "./components/ProgressBar";
 import { StarRating } from "./components/StarRating";
 
+import bggLogo from "./assets/bgg_logo.svg";
+import nkLogo from "./assets/nk_logo.png";
+
 const formatPlayers = (players: Game["players"]) => {
   let basePlayers = "";
   if (players.min === players.max) {
@@ -139,23 +142,26 @@ export const GameCard = (game: Game) => {
             </dd>
           </div> */}
           <DataRow
-            labelNode="Board Game Geek"
+            labelNode="Links"
             valueNode={
-              <a href={game.bggUrl} target="_blank" rel="noopener noreferrer">
-                {game.bggUrl}
-              </a>
-            }
-          />
-          <DataRow
-            labelNode="Noble Knight"
-            valueNode={
-              <a
-                href={game.nobleKnightUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {game.nobleKnightUrl}
-              </a>
+              <div className="flex gap-2">
+                <a
+                  className="hover:opacity-75"
+                  href={game.bggUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img className="h-8" src={bggLogo} alt="Board Game Geek" />
+                </a>
+                <a
+                  className="hover:opacity-75"
+                  href={game.nobleKnightUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img className="h-8" src={nkLogo} alt="Noble Knight" />
+                </a>
+              </div>
             }
           />
           <DataRow
