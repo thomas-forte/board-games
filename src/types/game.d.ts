@@ -14,5 +14,6 @@ export interface Game {
   };
   complexityRating: number;
   bggUrl: string;
+  nobleKnightUrl: string;
   tags: string[];
 }

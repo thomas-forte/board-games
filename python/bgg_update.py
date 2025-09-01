@@ -7,7 +7,7 @@ This script updates the bggLastUpdate field in the scrape_list.json file.
 
 Format:
 {
-    "nobleKnight": "2147841575",
+    "nobleKnightId": "2147841575",
     "boardGameGeekId": "322197",
     "bggLastUpdate": "<ISO 8601 datetime>",
     "tags": ["top_games"]
@@ -49,6 +49,7 @@ for bgg_chunk in bgg_chunks:
             },
             "complexityRating": game.rating_average_weight,
             "bggUrl": f"https://boardgamegeek.com/boardgame/{game.id}",
+            "nobleKnightUrl": f"https://www.nobleknight.com/P/{scrape_list[scrape_list_index].get('nobleKnightId')}",
             "tags": scrape_list[scrape_list_index].get("tags")
         })
 
