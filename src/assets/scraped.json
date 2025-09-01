@@ -1,11 +1,9 @@
 [
   {
     "name": "Brothers at War: 1862",
-    "publishers": [
-      "Compass Games"
-    ],
+    "publishers": ["Compass Games"],
     "releaseYear": 2022,
-    "bggRating": 8.08514,
+    "bggRating": 8.084,
     "players": {
       "min": 1,
       "max": 2,
@@ -17,17 +15,14 @@
     },
     "complexityRating": 2.8333,
     "bggUrl": "https://boardgamegeek.com/boardgame/322197",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147841575",
+    "tags": ["top_games", "american_civil_war"]
   },
   {
     "name": "The Day Was Ours: First Bull Run (July 21, 1861)",
-    "publishers": [
-      "Revolution Games (II)"
-    ],
+    "publishers": ["Revolution Games (II)"],
     "releaseYear": 2021,
-    "bggRating": 8.06039,
+    "bggRating": 8.08268,
     "players": {
       "min": 1,
       "max": 2,
@@ -39,15 +34,12 @@
     },
     "complexityRating": 3.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/344194",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147935128",
+    "tags": ["top_games", "american_civil_war"]
   },
   {
     "name": "Clash of Giants: Civil War",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2016,
     "bggRating": 7.16872,
     "players": {
@@ -61,15 +53,12 @@
     },
     "complexityRating": 2.25,
     "bggUrl": "https://boardgamegeek.com/boardgame/149794",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147654429",
+    "tags": ["top_games", "american_civil_war"]
   },
   {
     "name": "Ardennes II",
-    "publishers": [
-      "Multi-Man Publishing"
-    ],
+    "publishers": ["Multi-Man Publishing"],
     "releaseYear": 2023,
     "bggRating": 8.02381,
     "players": {
@@ -83,15 +72,12 @@
     },
     "complexityRating": 2.8571,
     "bggUrl": "https://boardgamegeek.com/boardgame/377898",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148062679",
+    "tags": ["top_games"]
   },
   {
     "name": "Traces of War",
-    "publishers": [
-      "VUCA Simulations"
-    ],
+    "publishers": ["VUCA Simulations"],
     "releaseYear": 2023,
     "bggRating": 7.81028,
     "players": {
@@ -105,9 +91,8 @@
     },
     "complexityRating": 2.5455,
     "bggUrl": "https://boardgamegeek.com/boardgame/378475",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148047339",
+    "tags": ["top_games", "wwii"]
   },
   {
     "name": "Holland '44: Operation Market-Garden",
@@ -118,7 +103,7 @@
       "NAC Wargames"
     ],
     "releaseYear": 2017,
-    "bggRating": 8.27284,
+    "bggRating": 8.27303,
     "players": {
       "min": 2,
       "max": 2,
@@ -130,9 +115,8 @@
     },
     "complexityRating": 3.8657,
     "bggUrl": "https://boardgamegeek.com/boardgame/207572",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148218554",
+    "tags": ["top_games", "wwii"]
   },
   {
     "name": "Battle for Germany: Deluxe Edition",
@@ -154,15 +138,12 @@
     },
     "complexityRating": 2.2222,
     "bggUrl": "https://boardgamegeek.com/boardgame/310880",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147855034",
+    "tags": ["top_games", "wwii"]
   },
   {
     "name": "Second World War at Sea: Eastern Fleet",
-    "publishers": [
-      "Avalanche Press Ltd."
-    ],
+    "publishers": ["Avalanche Press Ltd."],
     "releaseYear": 2001,
     "bggRating": 7.2181,
     "players": {
@@ -176,15 +157,12 @@
     },
     "complexityRating": 2.7333,
     "bggUrl": "https://boardgamegeek.com/boardgame/5702",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148134627",
+    "tags": ["top_games", "wwii"]
   },
   {
     "name": "The Fall Of The Third Reich",
-    "publishers": [
-      "Compass Games"
-    ],
+    "publishers": ["Compass Games"],
     "releaseYear": 2016,
     "bggRating": 7.90417,
     "players": {
@@ -198,18 +176,14 @@
     },
     "complexityRating": 3.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/209863",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147658886",
+    "tags": ["top_games", "wwii", "3_player"]
   },
   {
     "name": "Commands & Colors: Napoleonics",
-    "publishers": [
-      "Doit Games",
-      "GMT Games"
-    ],
+    "publishers": ["Doit Games", "GMT Games"],
     "releaseYear": 2010,
-    "bggRating": 8.051,
+    "bggRating": 8.0513,
     "players": {
       "min": 2,
       "max": 2,
@@ -221,9 +195,8 @@
     },
     "complexityRating": 2.7455,
     "bggUrl": "https://boardgamegeek.com/boardgame/62222",
-    "tags": [
-      "napoleonic"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148086945",
+    "tags": ["napoleonic"]
   },
   {
     "name": "Napoleon's Last Battles",
@@ -248,17 +221,14 @@
     },
     "complexityRating": 2.3678,
     "bggUrl": "https://boardgamegeek.com/boardgame/4230",
-    "tags": [
-      "napoleonic"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147591624",
+    "tags": ["napoleonic"]
   },
   {
     "name": "Quatre Bras 1815: Last Eagles",
-    "publishers": [
-      "Hexasim"
-    ],
+    "publishers": ["Hexasim"],
     "releaseYear": 2019,
-    "bggRating": 8.12397,
+    "bggRating": 8.11849,
     "players": {
       "min": 2,
       "max": 4,
@@ -270,9 +240,8 @@
     },
     "complexityRating": 3.4545,
     "bggUrl": "https://boardgamegeek.com/boardgame/254239",
-    "tags": [
-      "napoleonic"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147761360",
+    "tags": ["napoleonic"]
   },
   {
     "name": "Napoleon at Waterloo",
@@ -282,7 +251,7 @@
       "SPI (Simulations Publications, Inc.)"
     ],
     "releaseYear": 1971,
-    "bggRating": 6.67541,
+    "bggRating": 6.67172,
     "players": {
       "min": 1,
       "max": 2,
@@ -294,15 +263,12 @@
     },
     "complexityRating": 1.8657,
     "bggUrl": "https://boardgamegeek.com/boardgame/3573",
-    "tags": [
-      "napoleonic"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/13675",
+    "tags": ["napoleonic"]
   },
   {
     "name": "Rivoli 1797",
-    "publishers": [
-      "SIMTAC"
-    ],
+    "publishers": ["SIMTAC"],
     "releaseYear": 1997,
     "bggRating": 8.13284,
     "players": {
@@ -316,39 +282,14 @@
     },
     "complexityRating": 3.4,
     "bggUrl": "https://boardgamegeek.com/boardgame/16197",
-    "tags": [
-      "napoleonic"
-    ]
-  },
-  {
-    "name": "Brothers at War: 1862",
-    "publishers": [
-      "Compass Games"
-    ],
-    "releaseYear": 2022,
-    "bggRating": 8.08514,
-    "players": {
-      "min": 1,
-      "max": 2,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 60,
-      "max": 240
-    },
-    "complexityRating": 2.8333,
-    "bggUrl": "https://boardgamegeek.com/boardgame/322197",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147347135",
+    "tags": ["napoleonic"]
   },
   {
     "name": "The U.S. Civil War",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2015,
-    "bggRating": 8.31473,
+    "bggRating": 8.31307,
     "players": {
       "min": 2,
       "max": 2,
@@ -360,17 +301,14 @@
     },
     "complexityRating": 3.8636,
     "bggUrl": "https://boardgamegeek.com/boardgame/162009",
-    "tags": [
-      "american_civil_war"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147925222",
+    "tags": ["american_civil_war"]
   },
   {
     "name": "The Civil War 1861-1865",
-    "publishers": [
-      "Victory Games (I)"
-    ],
+    "publishers": ["Victory Games (I)"],
     "releaseYear": 1983,
-    "bggRating": 7.73124,
+    "bggRating": 7.73145,
     "players": {
       "min": 1,
       "max": 2,
@@ -382,18 +320,14 @@
     },
     "complexityRating": 3.7884,
     "bggUrl": "https://boardgamegeek.com/boardgame/2081",
-    "tags": [
-      "american_civil_war"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/10564",
+    "tags": ["american_civil_war"]
   },
   {
     "name": "A Most Fearful Sacrifice: The Three Days of Gettysburg",
-    "publishers": [
-      "Flying Pig Games",
-      "Tiny Battle Publishing"
-    ],
+    "publishers": ["Flying Pig Games", "Tiny Battle Publishing"],
     "releaseYear": 2022,
-    "bggRating": 8.64686,
+    "bggRating": 8.6546,
     "players": {
       "min": 2,
       "max": 4,
@@ -405,37 +339,12 @@
     },
     "complexityRating": 3.1053,
     "bggUrl": "https://boardgamegeek.com/boardgame/329089",
-    "tags": [
-      "american_civil_war"
-    ]
-  },
-  {
-    "name": "The Day Was Ours: First Bull Run (July 21, 1861)",
-    "publishers": [
-      "Revolution Games (II)"
-    ],
-    "releaseYear": 2021,
-    "bggRating": 8.06039,
-    "players": {
-      "min": 1,
-      "max": 2,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 240,
-      "max": 640
-    },
-    "complexityRating": 3.0,
-    "bggUrl": "https://boardgamegeek.com/boardgame/344194",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147979579",
+    "tags": ["american_civil_war"]
   },
   {
     "name": "Shiloh: April Glory",
-    "publishers": [
-      "Columbia Games"
-    ],
+    "publishers": ["Columbia Games"],
     "releaseYear": 2010,
     "bggRating": 7.11314,
     "players": {
@@ -449,37 +358,12 @@
     },
     "complexityRating": 2.5,
     "bggUrl": "https://boardgamegeek.com/boardgame/19902",
-    "tags": [
-      "american_civil_war"
-    ]
-  },
-  {
-    "name": "Clash of Giants: Civil War",
-    "publishers": [
-      "GMT Games"
-    ],
-    "releaseYear": 2016,
-    "bggRating": 7.16872,
-    "players": {
-      "min": 2,
-      "max": 2,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 180,
-      "max": 420
-    },
-    "complexityRating": 2.25,
-    "bggUrl": "https://boardgamegeek.com/boardgame/149794",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147441397",
+    "tags": ["american_civil_war"]
   },
   {
     "name": "Balance of Powers",
-    "publishers": [
-      "Compass Games"
-    ],
+    "publishers": ["Compass Games"],
     "releaseYear": 2015,
     "bggRating": 7.71402,
     "players": {
@@ -493,15 +377,12 @@
     },
     "complexityRating": 3.6364,
     "bggUrl": "https://boardgamegeek.com/boardgame/156843",
-    "tags": [
-      "wwi"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147580364",
+    "tags": ["wwi"]
   },
   {
     "name": "Death in the Trenches: The Great War 1914-1918 (Second Edition)",
-    "publishers": [
-      "Compass Games"
-    ],
+    "publishers": ["Compass Games"],
     "releaseYear": 2022,
     "bggRating": 7.61304,
     "players": {
@@ -515,15 +396,12 @@
     },
     "complexityRating": 3.6667,
     "bggUrl": "https://boardgamegeek.com/boardgame/320061",
-    "tags": [
-      "wwi"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147859951",
+    "tags": ["wwi"]
   },
   {
     "name": "The Great War in Europe: Deluxe Edition",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2007,
     "bggRating": 7.03018,
     "players": {
@@ -537,19 +415,14 @@
     },
     "complexityRating": 3.62,
     "bggUrl": "https://boardgamegeek.com/boardgame/30216",
-    "tags": [
-      "wwi"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147375414",
+    "tags": ["wwi"]
   },
   {
     "name": "The Great War",
-    "publishers": [
-      "PSC Games",
-      "Maldito Games",
-      "Nuts! Publishing"
-    ],
+    "publishers": ["PSC Games", "Maldito Games", "Nuts! Publishing"],
     "releaseYear": 2015,
-    "bggRating": 7.72637,
+    "bggRating": 7.72369,
     "players": {
       "min": 2,
       "max": 2,
@@ -561,15 +434,12 @@
     },
     "complexityRating": 2.6792,
     "bggUrl": "https://boardgamegeek.com/boardgame/173105",
-    "tags": [
-      "wwi"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147596715",
+    "tags": ["wwi"]
   },
   {
     "name": "Clash of Giants II: 1st Ypres & Galicia 1914",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2006,
     "bggRating": 7.14893,
     "players": {
@@ -583,15 +453,12 @@
     },
     "complexityRating": 2.3607,
     "bggUrl": "https://boardgamegeek.com/boardgame/13709",
-    "tags": [
-      "wwi"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147367662",
+    "tags": ["wwi"]
   },
   {
     "name": "The Eastern Front: 1914-1917",
-    "publishers": [
-      "SPW (Schroeder Publishing & Wargames)"
-    ],
+    "publishers": ["SPW (Schroeder Publishing & Wargames)"],
     "releaseYear": 2012,
     "bggRating": 8.37059,
     "players": {
@@ -605,37 +472,12 @@
     },
     "complexityRating": 3.2857,
     "bggUrl": "https://boardgamegeek.com/boardgame/135193",
-    "tags": [
-      "wwi"
-    ]
-  },
-  {
-    "name": "Traces of War",
-    "publishers": [
-      "VUCA Simulations"
-    ],
-    "releaseYear": 2023,
-    "bggRating": 7.81028,
-    "players": {
-      "min": 1,
-      "max": 2,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 180,
-      "max": 360
-    },
-    "complexityRating": 2.5455,
-    "bggUrl": "https://boardgamegeek.com/boardgame/378475",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147487695",
+    "tags": ["wwi"]
   },
   {
     "name": "Assault Red Horizon 41",
-    "publishers": [
-      "Assault Games"
-    ],
+    "publishers": ["Assault Games"],
     "releaseYear": 2021,
     "bggRating": 8.48264,
     "players": {
@@ -649,17 +491,14 @@
     },
     "complexityRating": 3.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/225603",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147976272",
+    "tags": ["wwii"]
   },
   {
     "name": "Salerno '43",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2022,
-    "bggRating": 8.02,
+    "bggRating": 8.01801,
     "players": {
       "min": 2,
       "max": 2,
@@ -671,17 +510,14 @@
     },
     "complexityRating": 3.4118,
     "bggUrl": "https://boardgamegeek.com/boardgame/313073",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147922940",
+    "tags": ["wwii"]
   },
   {
     "name": "Arracourt",
-    "publishers": [
-      "Multi-Man Publishing"
-    ],
+    "publishers": ["Multi-Man Publishing"],
     "releaseYear": 2022,
-    "bggRating": 8.38745,
+    "bggRating": 8.38041,
     "players": {
       "min": 2,
       "max": 2,
@@ -693,17 +529,14 @@
     },
     "complexityRating": 3.75,
     "bggUrl": "https://boardgamegeek.com/boardgame/347161",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147948148",
+    "tags": ["wwii"]
   },
   {
     "name": "Donnerschlag: Escape from Stalingrad",
-    "publishers": [
-      "VUCA Simulations"
-    ],
+    "publishers": ["VUCA Simulations"],
     "releaseYear": 2022,
-    "bggRating": 7.95528,
+    "bggRating": 7.96285,
     "players": {
       "min": 2,
       "max": 2,
@@ -715,15 +548,12 @@
     },
     "complexityRating": 2.8182,
     "bggUrl": "https://boardgamegeek.com/boardgame/363242",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147992508",
+    "tags": ["wwii"]
   },
   {
     "name": "Old School Tactical: Volume 3 \u2013 Pacific 1942/45",
-    "publishers": [
-      "Flying Pig Games"
-    ],
+    "publishers": ["Flying Pig Games"],
     "releaseYear": 2020,
     "bggRating": 8.75495,
     "players": {
@@ -737,17 +567,14 @@
     },
     "complexityRating": 3.3333,
     "bggUrl": "https://boardgamegeek.com/boardgame/281945",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147794880",
+    "tags": ["wwii"]
   },
   {
     "name": "Stalingrad '42: Southern Russia, June-December, 1942",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2019,
-    "bggRating": 8.41109,
+    "bggRating": 8.41028,
     "players": {
       "min": 2,
       "max": 4,
@@ -759,15 +586,12 @@
     },
     "complexityRating": 3.4878,
     "bggUrl": "https://boardgamegeek.com/boardgame/255393",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147769226",
+    "tags": ["wwii"]
   },
   {
     "name": "The Dark Sands: War in North Africa, 1940-42",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2018,
     "bggRating": 7.51908,
     "players": {
@@ -781,40 +605,12 @@
     },
     "complexityRating": 2.9259,
     "bggUrl": "https://boardgamegeek.com/boardgame/165292",
-    "tags": [
-      "wwii"
-    ]
-  },
-  {
-    "name": "Holland '44: Operation Market-Garden",
-    "publishers": [
-      "GMT Games",
-      "Chrononauts Games",
-      "Ediciones MasQueOca",
-      "NAC Wargames"
-    ],
-    "releaseYear": 2017,
-    "bggRating": 8.27284,
-    "players": {
-      "min": 2,
-      "max": 2,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 240,
-      "max": 900
-    },
-    "complexityRating": 3.8657,
-    "bggUrl": "https://boardgamegeek.com/boardgame/207572",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147741130",
+    "tags": ["wwii"]
   },
   {
     "name": "Demyansk Shield: the Frozen Fortress, February-May 1942",
-    "publishers": [
-      "Legion Wargames LLC"
-    ],
+    "publishers": ["Legion Wargames LLC"],
     "releaseYear": 2017,
     "bggRating": 7.56301,
     "players": {
@@ -828,15 +624,12 @@
     },
     "complexityRating": 2.9,
     "bggUrl": "https://boardgamegeek.com/boardgame/192023",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147670430",
+    "tags": ["wwii"]
   },
   {
     "name": "Saipan: The Bloody Rock",
-    "publishers": [
-      "Compass Games"
-    ],
+    "publishers": ["Compass Games"],
     "releaseYear": 2017,
     "bggRating": 8.04537,
     "players": {
@@ -850,16 +643,12 @@
     },
     "complexityRating": 4.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/220331",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148122512",
+    "tags": ["wwii"]
   },
   {
     "name": "The Scheldt Campaign",
-    "publishers": [
-      "Hollandspiele",
-      "Microgame Design Group"
-    ],
+    "publishers": ["Hollandspiele", "Microgame Design Group"],
     "releaseYear": 2012,
     "bggRating": 7.41047,
     "players": {
@@ -873,18 +662,14 @@
     },
     "complexityRating": 2.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/125416",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147683279",
+    "tags": ["wwii"]
   },
   {
     "name": "Combat Commander: Europe",
-    "publishers": [
-      "GMT Games",
-      "Devir"
-    ],
+    "publishers": ["GMT Games", "Devir"],
     "releaseYear": 2006,
-    "bggRating": 7.95662,
+    "bggRating": 7.95608,
     "players": {
       "min": 2,
       "max": 2,
@@ -896,41 +681,14 @@
     },
     "complexityRating": 3.2599,
     "bggUrl": "https://boardgamegeek.com/boardgame/21050",
-    "tags": [
-      "wwii"
-    ]
-  },
-  {
-    "name": "Battle for Germany: Deluxe Edition",
-    "publishers": [
-      "Decision Games (I)",
-      "Kilovolt Design",
-      "SPI (Simulations Publications, Inc.)"
-    ],
-    "releaseYear": 2021,
-    "bggRating": 7.94348,
-    "players": {
-      "min": 2,
-      "max": 4,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 180,
-      "max": 240
-    },
-    "complexityRating": 2.2222,
-    "bggUrl": "https://boardgamegeek.com/boardgame/310880",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147746554",
+    "tags": ["wwii"]
   },
   {
     "name": "Unconditional Surrender! World War 2 in Europe",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2014,
-    "bggRating": 7.99577,
+    "bggRating": 7.99672,
     "players": {
       "min": 2,
       "max": 4,
@@ -942,18 +700,14 @@
     },
     "complexityRating": 3.7928,
     "bggUrl": "https://boardgamegeek.com/boardgame/61487",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147679753",
+    "tags": ["wwii"]
   },
   {
     "name": "Empire of the Sun: The Pacific War 1941-1945",
-    "publishers": [
-      "GMT Games",
-      "Devir"
-    ],
+    "publishers": ["GMT Games", "Devir"],
     "releaseYear": 2005,
-    "bggRating": 8.26544,
+    "bggRating": 8.2679,
     "players": {
       "min": 1,
       "max": 2,
@@ -963,39 +717,14 @@
       "min": 360,
       "max": 360
     },
-    "complexityRating": 4.3894,
+    "complexityRating": 4.3882,
     "bggUrl": "https://boardgamegeek.com/boardgame/11825",
-    "tags": [
-      "wwii"
-    ]
-  },
-  {
-    "name": "Second World War at Sea: Eastern Fleet",
-    "publishers": [
-      "Avalanche Press Ltd."
-    ],
-    "releaseYear": 2001,
-    "bggRating": 7.2181,
-    "players": {
-      "min": 2,
-      "max": 2,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 120,
-      "max": 120
-    },
-    "complexityRating": 2.7333,
-    "bggUrl": "https://boardgamegeek.com/boardgame/5702",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147925223",
+    "tags": ["wwii"]
   },
   {
     "name": "Streets of Stalingrad (Third Edition)",
-    "publishers": [
-      "L2 Design Group"
-    ],
+    "publishers": ["L2 Design Group"],
     "releaseYear": 2003,
     "bggRating": 7.4451,
     "players": {
@@ -1009,16 +738,12 @@
     },
     "complexityRating": 4.1667,
     "bggUrl": "https://boardgamegeek.com/boardgame/12055",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/1736263893",
+    "tags": ["wwii"]
   },
   {
     "name": "Nations at War: White Star Rising",
-    "publishers": [
-      "Lock 'n Load Publishing, LLC.",
-      "Spielworxx"
-    ],
+    "publishers": ["Lock 'n Load Publishing, LLC.", "Spielworxx"],
     "releaseYear": 2010,
     "bggRating": 7.33086,
     "players": {
@@ -1032,15 +757,12 @@
     },
     "complexityRating": 2.6,
     "bggUrl": "https://boardgamegeek.com/boardgame/35400",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147677908",
+    "tags": ["wwii"]
   },
   {
     "name": "Ardennes '44: The Battle of the Bulge",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2003,
     "bggRating": 7.99763,
     "players": {
@@ -1054,18 +776,14 @@
     },
     "complexityRating": 3.6842,
     "bggUrl": "https://boardgamegeek.com/boardgame/7858",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147473615",
+    "tags": ["wwii"]
   },
   {
     "name": "Rise and Decline of the Third Reich",
-    "publishers": [
-      "The Avalon Hill Game Co",
-      "Hobby Japan"
-    ],
+    "publishers": ["The Avalon Hill Game Co", "Hobby Japan"],
     "releaseYear": 1974,
-    "bggRating": 6.97675,
+    "bggRating": 6.97588,
     "players": {
       "min": 2,
       "max": 6,
@@ -1077,15 +795,12 @@
     },
     "complexityRating": 4.3375,
     "bggUrl": "https://boardgamegeek.com/boardgame/1563",
-    "tags": [
-      "wwii"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147427474",
+    "tags": ["wwii"]
   },
   {
     "name": "The Greatest Day: Sword, Juno, and Gold Beaches",
-    "publishers": [
-      "Multi-Man Publishing"
-    ],
+    "publishers": ["Multi-Man Publishing"],
     "releaseYear": 2015,
     "bggRating": 8.55747,
     "players": {
@@ -1099,37 +814,12 @@
     },
     "complexityRating": 4.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/173504",
-    "tags": [
-      "wwii"
-    ]
-  },
-  {
-    "name": "The Fall Of The Third Reich",
-    "publishers": [
-      "Compass Games"
-    ],
-    "releaseYear": 2016,
-    "bggRating": 7.90417,
-    "players": {
-      "min": 1,
-      "max": 4,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 360,
-      "max": 600
-    },
-    "complexityRating": 3.0,
-    "bggUrl": "https://boardgamegeek.com/boardgame/209863",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147597492",
+    "tags": ["wwii"]
   },
   {
     "name": "Front Toward Enemy",
-    "publishers": [
-      "Multi-Man Publishing"
-    ],
+    "publishers": ["Multi-Man Publishing"],
     "releaseYear": 2019,
     "bggRating": 7.60476,
     "players": {
@@ -1143,15 +833,12 @@
     },
     "complexityRating": 2.75,
     "bggUrl": "https://boardgamegeek.com/boardgame/187808",
-    "tags": [
-      "vietnam"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147764043",
+    "tags": ["vietnam"]
   },
   {
     "name": "Vietnam: 1965-1975 (2nd Edition)",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2022,
     "bggRating": 8.75513,
     "players": {
@@ -1165,16 +852,12 @@
     },
     "complexityRating": 4.375,
     "bggUrl": "https://boardgamegeek.com/boardgame/332402",
-    "tags": [
-      "vietnam"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147948136",
+    "tags": ["vietnam"]
   },
   {
     "name": "Armageddon War: Platoon Level Combat in the End War",
-    "publishers": [
-      "Banana Games",
-      "Flying Pig Games"
-    ],
+    "publishers": ["Banana Games", "Flying Pig Games"],
     "releaseYear": 2018,
     "bggRating": 7.98333,
     "players": {
@@ -1188,17 +871,14 @@
     },
     "complexityRating": 3.0909,
     "bggUrl": "https://boardgamegeek.com/boardgame/225759",
-    "tags": [
-      "modern"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147705929",
+    "tags": ["modern"]
   },
   {
     "name": "Combat! Volume 1",
-    "publishers": [
-      "Compass Games"
-    ],
+    "publishers": ["Compass Games"],
     "releaseYear": 2019,
-    "bggRating": 8.36588,
+    "bggRating": 8.36619,
     "players": {
       "min": 1,
       "max": 1,
@@ -1210,17 +890,14 @@
     },
     "complexityRating": 3.4902,
     "bggUrl": "https://boardgamegeek.com/boardgame/253652",
-    "tags": [
-      "solo"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148061445",
+    "tags": ["solo"]
   },
   {
     "name": "D-Day at Omaha Beach",
-    "publishers": [
-      "Decision Games (I)"
-    ],
+    "publishers": ["Decision Games (I)"],
     "releaseYear": 2009,
-    "bggRating": 8.3042,
+    "bggRating": 8.30454,
     "players": {
       "min": 1,
       "max": 1,
@@ -1232,15 +909,12 @@
     },
     "complexityRating": 3.4826,
     "bggUrl": "https://boardgamegeek.com/boardgame/29603",
-    "tags": [
-      "solo"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148064895",
+    "tags": ["solo"]
   },
   {
     "name": "D-Day at Tarawa",
-    "publishers": [
-      "Decision Games (I)"
-    ],
+    "publishers": ["Decision Games (I)"],
     "releaseYear": 2014,
     "bggRating": 8.22272,
     "players": {
@@ -1254,15 +928,12 @@
     },
     "complexityRating": 3.717,
     "bggUrl": "https://boardgamegeek.com/boardgame/67600",
-    "tags": [
-      "solo"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147675123",
+    "tags": ["solo"]
   },
   {
     "name": "Tokyo Express: The Guadalcanal Naval Campaign \u2013 1942",
-    "publishers": [
-      "Victory Games (I)"
-    ],
+    "publishers": ["Victory Games (I)"],
     "releaseYear": 1988,
     "bggRating": 7.29869,
     "players": {
@@ -1276,15 +947,12 @@
     },
     "complexityRating": 4.0328,
     "bggUrl": "https://boardgamegeek.com/boardgame/1681",
-    "tags": [
-      "solo"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/821415085",
+    "tags": ["solo"]
   },
   {
     "name": "Raid on St. Nazaire",
-    "publishers": [
-      "The Avalon Hill Game Co"
-    ],
+    "publishers": ["The Avalon Hill Game Co"],
     "releaseYear": 1987,
     "bggRating": 7.26526,
     "players": {
@@ -1298,18 +966,14 @@
     },
     "complexityRating": 3.0198,
     "bggUrl": "https://boardgamegeek.com/boardgame/1425",
-    "tags": [
-      "solo"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147429522",
+    "tags": ["solo"]
   },
   {
     "name": "Stalingrad: Advance to the Volga, 1942",
-    "publishers": [
-      "Revolution Games (II)",
-      "Take Aim Designs"
-    ],
+    "publishers": ["Revolution Games (II)", "Take Aim Designs"],
     "releaseYear": 2023,
-    "bggRating": 7.71716,
+    "bggRating": 7.70817,
     "players": {
       "min": 1,
       "max": 1,
@@ -1321,15 +985,12 @@
     },
     "complexityRating": 1.9697,
     "bggUrl": "https://boardgamegeek.com/boardgame/374926",
-    "tags": [
-      "solo"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148039207",
+    "tags": ["solo"]
   },
   {
     "name": "The MOG: Mogadishu 1993",
-    "publishers": [
-      "White Dog Games"
-    ],
+    "publishers": ["White Dog Games"],
     "releaseYear": 2023,
     "bggRating": 8.05403,
     "players": {
@@ -1343,19 +1004,14 @@
     },
     "complexityRating": 2.1429,
     "bggUrl": "https://boardgamegeek.com/boardgame/380325",
-    "tags": [
-      "solo"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148039799",
+    "tags": ["solo"]
   },
   {
     "name": "Brotherhood & Unity",
-    "publishers": [
-      "Compass Games",
-      "Ediciones MasQueOca",
-      "NAC Wargames"
-    ],
+    "publishers": ["Compass Games", "Ediciones MasQueOca", "NAC Wargames"],
     "releaseYear": 2020,
-    "bggRating": 8.01032,
+    "bggRating": 8.0007,
     "players": {
       "min": 2,
       "max": 3,
@@ -1367,9 +1023,8 @@
     },
     "complexityRating": 3.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/255570",
-    "tags": [
-      "3_player"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147816385",
+    "tags": ["3_player"]
   },
   {
     "name": "Churchill",
@@ -1381,7 +1036,7 @@
       "Rawstone"
     ],
     "releaseYear": 2015,
-    "bggRating": 7.67429,
+    "bggRating": 7.67444,
     "players": {
       "min": 1,
       "max": 3,
@@ -1393,15 +1048,12 @@
     },
     "complexityRating": 3.3852,
     "bggUrl": "https://boardgamegeek.com/boardgame/132018",
-    "tags": [
-      "3_player"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147993914",
+    "tags": ["3_player"]
   },
   {
     "name": "Cataclysm: A Second World War",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2018,
     "bggRating": 7.52474,
     "players": {
@@ -1415,17 +1067,14 @@
     },
     "complexityRating": 3.9459,
     "bggUrl": "https://boardgamegeek.com/boardgame/125977",
-    "tags": [
-      "3_player"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147691673",
+    "tags": ["3_player"]
   },
   {
     "name": "Conquest & Consequence",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2021,
-    "bggRating": 7.89576,
+    "bggRating": 7.8965,
     "players": {
       "min": 2,
       "max": 3,
@@ -1437,39 +1086,14 @@
     },
     "complexityRating": 3.8077,
     "bggUrl": "https://boardgamegeek.com/boardgame/300323",
-    "tags": [
-      "3_player"
-    ]
-  },
-  {
-    "name": "The Fall Of The Third Reich",
-    "publishers": [
-      "Compass Games"
-    ],
-    "releaseYear": 2016,
-    "bggRating": 7.90417,
-    "players": {
-      "min": 1,
-      "max": 4,
-      "best": "2"
-    },
-    "playtime": {
-      "min": 360,
-      "max": 600
-    },
-    "complexityRating": 3.0,
-    "bggUrl": "https://boardgamegeek.com/boardgame/209863",
-    "tags": [
-      "top_games"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147922942",
+    "tags": ["3_player"]
   },
   {
     "name": "Triumph & Tragedy: European Balance of Power 1936-1945",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2015,
-    "bggRating": 8.14639,
+    "bggRating": 8.14673,
     "players": {
       "min": 2,
       "max": 3,
@@ -1481,15 +1105,12 @@
     },
     "complexityRating": 3.4127,
     "bggUrl": "https://boardgamegeek.com/boardgame/130960",
-    "tags": [
-      "3_player"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147922941",
+    "tags": ["3_player"]
   },
   {
     "name": "The Battle of Monmouth",
-    "publishers": [
-      "Clash of Arms Games"
-    ],
+    "publishers": ["Clash of Arms Games"],
     "releaseYear": 2008,
     "bggRating": 7.84646,
     "players": {
@@ -1503,15 +1124,12 @@
     },
     "complexityRating": 3.8667,
     "bggUrl": "https://boardgamegeek.com/boardgame/19903",
-    "tags": [
-      "american_revolution"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147383273",
+    "tags": ["american_revolution"]
   },
   {
     "name": "End of Empire: 1744-1782",
-    "publishers": [
-      "Compass Games"
-    ],
+    "publishers": ["Compass Games"],
     "releaseYear": 2014,
     "bggRating": 7.72174,
     "players": {
@@ -1525,15 +1143,12 @@
     },
     "complexityRating": 2.7692,
     "bggUrl": "https://boardgamegeek.com/boardgame/145390",
-    "tags": [
-      "american_revolution"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147552462",
+    "tags": ["american_revolution"]
   },
   {
     "name": "Washington's Crossing",
-    "publishers": [
-      "Revolution Games (II)"
-    ],
+    "publishers": ["Revolution Games (II)"],
     "releaseYear": 2012,
     "bggRating": 7.57895,
     "players": {
@@ -1547,17 +1162,14 @@
     },
     "complexityRating": 3.0,
     "bggUrl": "https://boardgamegeek.com/boardgame/109635",
-    "tags": [
-      "american_revolution"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147472500",
+    "tags": ["american_revolution"]
   },
   {
     "name": "Liberty: The American Revolution 1775-83",
-    "publishers": [
-      "Columbia Games"
-    ],
+    "publishers": ["Columbia Games"],
     "releaseYear": 2003,
-    "bggRating": 7.17454,
+    "bggRating": 7.17226,
     "players": {
       "min": 2,
       "max": 2,
@@ -1569,16 +1181,12 @@
     },
     "complexityRating": 2.6508,
     "bggUrl": "https://boardgamegeek.com/boardgame/6719",
-    "tags": [
-      "american_revolution"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147354206",
+    "tags": ["american_revolution"]
   },
   {
     "name": "Wooden Ships & Iron Men",
-    "publishers": [
-      "The Avalon Hill Game Co",
-      "Battleline"
-    ],
+    "publishers": ["The Avalon Hill Game Co", "Battleline"],
     "releaseYear": 1974,
     "bggRating": 7.08724,
     "players": {
@@ -1592,17 +1200,14 @@
     },
     "complexityRating": 3.085,
     "bggUrl": "https://boardgamegeek.com/boardgame/237",
-    "tags": [
-      "age_of_sail"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147430463",
+    "tags": ["age_of_sail"]
   },
   {
     "name": "Captain's Sea",
-    "publishers": [
-      "Legion Wargames LLC"
-    ],
+    "publishers": ["Legion Wargames LLC"],
     "releaseYear": 2021,
-    "bggRating": 7.44043,
+    "bggRating": 7.45208,
     "players": {
       "min": 2,
       "max": 2,
@@ -1614,15 +1219,12 @@
     },
     "complexityRating": 3.2,
     "bggUrl": "https://boardgamegeek.com/boardgame/155257",
-    "tags": [
-      "age_of_sail"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147922302",
+    "tags": ["age_of_sail"]
   },
   {
     "name": "The Great Battles of Alexander: Deluxe Edition",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 1995,
     "bggRating": 7.7051,
     "players": {
@@ -1636,17 +1238,14 @@
     },
     "complexityRating": 3.5726,
     "bggUrl": "https://boardgamegeek.com/boardgame/11057",
-    "tags": [
-      "ancient"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2148094778",
+    "tags": ["ancient"]
   },
   {
     "name": "SPQR (Deluxe Edition)",
-    "publishers": [
-      "GMT Games"
-    ],
+    "publishers": ["GMT Games"],
     "releaseYear": 2008,
-    "bggRating": 8.03588,
+    "bggRating": 8.03584,
     "players": {
       "min": 1,
       "max": 4,
@@ -1658,16 +1257,12 @@
     },
     "complexityRating": 3.9167,
     "bggUrl": "https://boardgamegeek.com/boardgame/21551",
-    "tags": [
-      "ancient"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/2147741053",
+    "tags": ["ancient"]
   },
   {
     "name": "Iliad: The Siege of Troy",
-    "publishers": [
-      "Conflict Games",
-      "Game Designers' Workshop (GDW Games)"
-    ],
+    "publishers": ["Conflict Games", "Game Designers' Workshop (GDW Games)"],
     "releaseYear": 1978,
     "bggRating": 7.30213,
     "players": {
@@ -1681,8 +1276,7 @@
     },
     "complexityRating": 2.7778,
     "bggUrl": "https://boardgamegeek.com/boardgame/4265",
-    "tags": [
-      "ancient"
-    ]
+    "nobleKnightUrl": "https://www.nobleknight.com/P/16826",
+    "tags": ["ancient"]
   }
 ]

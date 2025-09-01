@@ -113,6 +113,33 @@ export const GameCard = (game: Game) => {
               </a>
             }
           />
+          <DataRow
+            labelNode="Noble Knight"
+            valueNode={
+              <a
+                href={game.nobleKnightUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {game.nobleKnightUrl}
+              </a>
+            }
+          />
+          <DataRow
+            labelNode="Tags"
+            valueNode={
+              <div className="flex flex-wrap gap-2">
+                {game.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="bg-gray-100 rounded-md px-2 py-1 text-sm"
+                  >
+                    {tag.replaceAll("_", " ").toUpperCase()}
+                  </span>
+                ))}
+              </div>
+            }
+          />
         </DataList>
       </div>
     </div>
