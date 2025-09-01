@@ -30,6 +30,7 @@ export const App = () => {
               className="col-start-1 row-start-1 w-full appearance-none rounded-md bg-white py-2 pr-8 pl-3 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 dark:bg-white/5 dark:text-gray-100 dark:outline-white/10 dark:*:bg-gray-800 dark:focus:outline-indigo-500"
               onChange={(e) => setSelectedTag(e.target.value)}
             >
+              <option value="">All</option>
               {tags.map((tag) => (
                 <option key={tag.tag} value={tag.tag}>
                   {tag.name}
