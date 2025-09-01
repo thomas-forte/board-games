@@ -13,7 +13,7 @@ export const App = () => {
 
   const games = gamesData as Game[];
 
-  const tags = (tagsData as Tag[]).sort((a, b) => a.priority - b.priority);
+  const tags = (tagsData as Tag[]).sort((a, b) => a.position - b.position);
 
   const getGames = () =>
     games.filter((game) =>

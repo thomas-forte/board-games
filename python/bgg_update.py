@@ -13,6 +13,24 @@ Format:
     "tags": ["top_games"]
 }
 """
+
+# Gather tags from tags.json and format them for src/assets/tags.json
+with open("tags.json", "r") as file:
+    tags = json.load(file)
+
+tags_data = []
+for index, tag in enumerate(tags):
+    tags_data.append({
+        "position": index,
+        "name": tag,
+        "tag": tag.lower().replace(" ", "_")
+    })
+
+with open("src/assets/tags.json", "w") as file:
+    json.dump(tags_data, file)
+
+
+
 with open("scrape_list.json", "r") as file:
     scrape_list = json.load(file)
 

@@ -1,5 +1,5 @@
 export interface Tag {
-  priority: number;
+  position: number;
   name: string;
   tag: string;
 }
