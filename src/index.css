@@ -1,1 +1,42 @@
 @import "tailwindcss";
+
+@theme {
+  --font-lato: "Lato", sans-serif;
+  --font-oswald: "Oswald", sans-serif;
+
+  --color-primary: #800020;
+  --color-primary-hover: oklch(0.38 0.1523 18.62 / 25%);
+  --color-background: #f1f1f1;
+  --color-primary-neutral: #2d3234;
+  --color-secondary-neutral: #a9b2b5;
+  --color-positive-accent: #028f76;
+  --color-warning-accent: #f0a202;
+  --color-alert-accent: #e06b4e;
+
+  --spacing-edge: 38px;
+}
+
+@layer components {
+  .app-container {
+    padding: var(--spacing-edge);
+    color: var(--color-primary-neutral);
+  }
+
+  .search-bar {
+    input {
+      box-shadow: 5px 5px 10px 0px #a6a6a6 inset;
+      box-shadow: -5px -5px 10px 0px #ffffff inset;
+    }
+  }
+
+  .circle-button {
+    button {
+      box-shadow: 5px 5px 10px 0px #a6a6a6 inset;
+      box-shadow: -5px -5px 10px 0px #ffffff inset;
+
+      &:hover {
+        background-color: var(--color-primary-hover);
+      }
+    }
+  }
+}

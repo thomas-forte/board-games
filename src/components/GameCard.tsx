@@ -1,12 +1,12 @@
-import type { Game } from "./types/game";
+import type { Game } from "../types/game";
 
-import { DataList } from "./components/DataList";
-import { DataRow } from "./components/DataRow";
-import { ProgressBar } from "./components/ProgressBar";
-import { StarRating } from "./components/StarRating";
+import { DataList } from "./DataList";
+import { DataRow } from "./DataRow";
+import { ProgressBar } from "./ProgressBar";
+import { StarRating } from "./StarRating";
 
-import bggLogo from "./assets/bgg_logo.svg";
-import nkLogo from "./assets/nk_logo.png";
+import bggLogo from "../assets/bgg_logo.svg";
+import nkLogo from "../assets/nk_logo.png";
 
 const formatPlayers = (players: Game["players"]) => {
   let basePlayers = "";

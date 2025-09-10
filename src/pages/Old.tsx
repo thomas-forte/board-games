@@ -1,14 +1,14 @@
 import { useState } from "react";
 import { ChevronDownIcon } from "@heroicons/react/16/solid";
 
-import { GameCard } from "./GameCard";
-import type { Game } from "./types/game";
-import type { Tag } from "./types/tag";
+import { GameCard } from "../components/GameCard";
+import type { Game } from "../types/game";
+import type { Tag } from "../types/tag";
 
-import gamesData from "./assets/scraped.json";
-import tagsData from "./assets/tags.json";
+import gamesData from "../assets/scraped.json";
+import tagsData from "../assets/tags.json";
 
-export const App = () => {
+export const Old = () => {
   const [selectedTag, setSelectedTag] = useState("");
 
   const games = gamesData as Game[];

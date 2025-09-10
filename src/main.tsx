@@ -1,10 +1,28 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
+import { HashRouter, Routes, Route } from "react-router";
+
+import "@fontsource/lato/300.css";
+import "@fontsource/lato/400.css";
+import "@fontsource/oswald/600.css";
 import "./index.css";
-import { App } from "./App.tsx";
+
+import { Layout } from "./components/Layout.tsx";
+
+import { Home } from "./pages/Home.tsx";
+import { Game } from "./pages/Game.tsx";
+import { Old } from "./pages/Old.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <App />
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="/game/:id" element={<Game />} />
+        </Route>
+        <Route path="/old" element={<Old />} />
+      </Routes>
+    </HashRouter>
   </StrictMode>
 );
