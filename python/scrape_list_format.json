@@ -1,0 +1,21 @@
+[
+  {
+    "nobleKnightId": "found in the noble knight url",
+    "boardGameGeekId": "found in the board game geek url",
+    "bggLastUpdate": "populated when updated, use blank string for initial creation",
+    "tags": [
+      "a list of tags should match tags in tags.json"
+    ],
+    "manual_data": {
+      "name": "temporary name for helping input manual data",
+      "counters": {
+        "total": "number of counters, ommit if not applicable",
+        "single": "number of single counters, ommit if not applicable"
+      },
+      "numberOfMaps": "number of maps, ommit if not applicable",
+      "numberOfScenarios": "number of scenarios, ommit if not applicable",
+      "officialUrl": "official url, ommit if not applicable",
+      "rulesUrl": "rules url, ommit if not applicable"
+    }
+  }
+]
