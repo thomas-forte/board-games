@@ -10,7 +10,7 @@
       "name": "temporary name for helping input manual data",
       "counters": {
         "total": "number of counters, ommit if not applicable",
-        "single": "number of single counters, ommit if not applicable"
+        "size": "size of the counters, ommit if not applicable"
       },
       "numberOfMaps": "number of maps, ommit if not applicable",
       "numberOfScenarios": "number of scenarios, ommit if not applicable",
