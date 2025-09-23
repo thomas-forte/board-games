@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import {
   ArrowsPointingOutIcon,
@@ -20,10 +21,17 @@ import nkLogo from "../assets/nk_logo.png";
 
 export const Game = () => {
   const { gameId } = useParams();
+  const [complexityRating, setComplexityRating] = useState<
+    "good" | "medium" | "bad" | undefined
+  >(undefined);
 
   const game: GameType | undefined = gamesData.find(
     (game) => game.id === gameId
   );
+
+  useEffect(() => {
+    setComplexityRating(determineComplexityRating(game));
+  }, []);
 
   if (!game) {
     return <div>Game not found</div>;
@@ -62,6 +70,18 @@ export const Game = () => {
     }
   };
 
+  const determineComplexityRating = (game: GameType) => {
+    if (!game) {
+      return undefined;
+    } else if (game.complexityRating < 3) {
+      return "good";
+    } else if (game.complexityRating >= 3 && game.complexityRating < 4) {
+      return "medium";
+    } else {
+      return "bad";
+    }
+  };
+
   return (
     <>
       <h1 className="text-[2rem] font-semibold font-oswald text-primary uppercase text-center mt-8">
@@ -86,24 +106,36 @@ export const Game = () => {
         <p>{game.bggRating}</p>
 
         <div className="w-full flex justify-center items-center gap-4 mb-[2rem]">
-          <div className="bg-good-accent rounded-full h-7 flex-grow border-1 border-background">
-            {game.complexityRating < 3 && (
+          <div
+            className={`bg-good-accent rounded-full  flex-grow border-1 border-background ${
+              complexityRating === "good" ? "h-7" : "h-4"
+            }`}
+          >
+            {complexityRating === "good" && (
               <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
                 {game.complexityRating.toFixed(2)}
                 <span className="text-[.625rem] leading-[.625rem]">/5</span>
               </div>
             )}
           </div>
-          <div className="bg-medium-accent rounded-full h-4 flex-grow border-1 border-background">
-            {game.complexityRating >= 3 && game.complexityRating < 4 && (
+          <div
+            className={`bg-medium-accent rounded-full flex-grow border-1 border-background ${
+              complexityRating === "medium" ? "h-7" : "h-4"
+            }`}
+          >
+            {complexityRating === "medium" && (
               <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
                 {game.complexityRating.toFixed(2)}
                 <span className="text-[.625rem] leading-[.625rem]">/5</span>
               </div>
             )}
           </div>
-          <div className="bg-bad-accent rounded-full h-4 flex-grow border-1 border-background">
-            {game.complexityRating >= 4 && (
+          <div
+            className={`bg-bad-accent rounded-full flex-grow border-1 border-background ${
+              complexityRating === "bad" ? "h-7" : "h-4"
+            }`}
+          >
+            {complexityRating === "bad" && (
               <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
                 {game.complexityRating.toFixed(2)}
                 <span className="text-[.625rem] leading-[.625rem]">/5</span>
