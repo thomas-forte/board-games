@@ -24,7 +24,7 @@ export const Game = () => {
         {game.name}
       </h1>
 
-      {game.publishers.length > 1 && (
+      {game.publishers.length > 0 && (
         <h2 className="text-[1.5rem] font-lato text-primary-neutral uppercase text-center mt-4">
           {game.publishers[0]}
         </h2>
