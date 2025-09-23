@@ -4,6 +4,7 @@ import type { Tag } from "../types/tag";
 import type { Game } from "../types/game";
 
 import { Card } from "../components/Card";
+import { CircleButton } from "../components/CircleButton";
 
 import gamesData from "../assets/scraped.json";
 import tagsData from "../assets/tags.json";
@@ -25,7 +26,9 @@ export const Category = () => {
         {games
           .filter((game) => game.tags.includes(tag?.name || ""))
           .map((game) => (
-            <Card key={game.id} text={game.name} to={`./${game.id}`} />
+            <Card key={game.id}>
+              <CircleButton text={game.name} to={`./${game.id}`} />
+            </Card>
           ))}
       </div>
     </>

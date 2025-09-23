@@ -1,17 +1,15 @@
-import { CircleButton } from "./CircleButton";
+import type { ReactNode } from "react";
 
 export const Card = ({
   className,
-  text,
-  to,
+  children,
 }: {
   className?: string;
-  text: string;
-  to?: string;
+  children: ReactNode;
 }) => {
   return (
     <div className={`flex flex-col items-center rounded-lg card ${className}`}>
-      <CircleButton text={text} to={to} />
+      {children}
     </div>
   );
 };
