@@ -11,7 +11,17 @@
   --color-secondary-neutral: #a9b2b5;
 
   --color-good-accent: #028f76;
+  --color-good-accent-light: #02a488;
+  --color-good-accent-dark: #027a64;
+
   --color-medium-accent: #f0a202;
+  --color-medium-accent-light: #ffba02;
+  --color-medium-accent-dark: #cc8a02;
+
+  --color-bad-accent: #e65100;
+  --color-bad-accent-light: #ff7b5a;
+  --color-bad-accent-dark: #be5b42;
+
   --color-bad-accent: #e06b4e;
 
   --spacing-edge: 38px;
