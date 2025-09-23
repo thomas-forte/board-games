@@ -9,9 +9,10 @@
   --color-background: #f1f1f1;
   --color-primary-neutral: #2d3234;
   --color-secondary-neutral: #a9b2b5;
-  --color-positive-accent: #028f76;
-  --color-warning-accent: #f0a202;
-  --color-alert-accent: #e06b4e;
+
+  --color-good-accent: #028f76;
+  --color-medium-accent: #f0a202;
+  --color-bad-accent: #e06b4e;
 
   --spacing-edge: 38px;
 }
