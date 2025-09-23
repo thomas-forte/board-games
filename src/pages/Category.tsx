@@ -25,7 +25,7 @@ export const Category = () => {
         {games
           .filter((game) => game.tags.includes(tag?.name || ""))
           .map((game) => (
-            <Card key={game.id} text={game.name} to={`/game/${game.id}`} />
+            <Card key={game.id} text={game.name} to={`./${game.id}`} />
           ))}
       </div>
     </>
