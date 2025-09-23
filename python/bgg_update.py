@@ -1,6 +1,8 @@
 import json
-from boardgamegeek import BGGClient
+import uuid
 from datetime import datetime
+
+from boardgamegeek import BGGClient
 
 """
 This script updates the bggLastUpdate field in the scrape_list.json file.
@@ -71,6 +73,7 @@ for bgg_chunk in bgg_chunks:
         }
         data.append(
             {
+                "id": str(uuid.uuid1(node=game.id)),
                 "name": game.name,
                 "publishers": game.publishers,
                 "releaseYear": game.year,
