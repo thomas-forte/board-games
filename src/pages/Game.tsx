@@ -86,7 +86,7 @@ export const Game = () => {
         <p>{game.bggRating}</p>
 
         <div className="w-full flex justify-center items-center gap-4 mb-[2rem]">
-          <div className="bg-positive-accent rounded-full h-7 flex-grow border-1 border-background">
+          <div className="bg-good-accent rounded-full h-7 flex-grow border-1 border-background">
             {game.complexityRating < 3 && (
               <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
                 {game.complexityRating.toFixed(2)}
@@ -94,7 +94,7 @@ export const Game = () => {
               </div>
             )}
           </div>
-          <div className="bg-warning-accent rounded-full h-4 flex-grow border-1 border-background">
+          <div className="bg-medium-accent rounded-full h-4 flex-grow border-1 border-background">
             {game.complexityRating >= 3 && game.complexityRating < 4 && (
               <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
                 {game.complexityRating.toFixed(2)}
@@ -102,7 +102,7 @@ export const Game = () => {
               </div>
             )}
           </div>
-          <div className="bg-alert-accent rounded-full h-4 flex-grow border-1 border-background">
+          <div className="bg-bad-accent rounded-full h-4 flex-grow border-1 border-background">
             {game.complexityRating >= 4 && (
               <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
                 {game.complexityRating.toFixed(2)}
