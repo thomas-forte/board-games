@@ -9,13 +9,19 @@
     "manual_data": {
       "name": "temporary name for helping input manual data",
       "counters": {
-        "total": "number of counters, ommit if not applicable",
-        "size": "size of the counters, ommit if not applicable"
+        "total": 126,
+        "size": "3/4\""
       },
-      "numberOfMaps": "number of maps, ommit if not applicable",
-      "numberOfScenarios": "number of scenarios, ommit if not applicable",
-      "officialUrl": "official url, ommit if not applicable",
-      "rulesUrl": "rules url, ommit if not applicable"
+      "numberOfMaps": {
+        "number": 
+          [2, 1],
+        "dimensions": 
+          ["11\"x22\"", "8\"x22\""]
+      },
+      "numberOfScenarios": 10,
+      "officialUrl": "https://www.officialurl.com",
+      "rulesUrl": "https://www.rules.com",
+      "warfareLevel": "tactical"
     }
   }
 ]
