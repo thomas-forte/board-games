@@ -8,6 +8,9 @@ import type { Tag } from "../types/tag";
 import gamesData from "../assets/scraped.json";
 import tagsData from "../assets/tags.json";
 
+/**
+ * @deprecated This page is no longer used.
+ */
 export const Old = () => {
   const [selectedTag, setSelectedTag] = useState("");
 

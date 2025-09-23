@@ -2,12 +2,10 @@ import { useNavigate } from "react-router";
 
 export const CircleButton = ({
   className,
-  key,
   text,
   to,
 }: {
   className?: string;
-  key?: string;
   text: string;
   to?: string;
 }) => {
@@ -15,7 +13,6 @@ export const CircleButton = ({
 
   return (
     <div
-      key={key}
       className={`p-4 flex flex-col items-center circle-button ${className}`}
     >
       <button

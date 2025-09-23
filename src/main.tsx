@@ -10,7 +10,9 @@ import "./index.css";
 import { Layout } from "./components/Layout.tsx";
 
 import { Home } from "./pages/Home.tsx";
+import { Category } from "./pages/Category.tsx";
 import { Game } from "./pages/Game.tsx";
+
 import { Old } from "./pages/Old.tsx";
 
 createRoot(document.getElementById("root")!).render(
@@ -19,7 +21,8 @@ createRoot(document.getElementById("root")!).render(
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="/game/:id" element={<Game />} />
+          <Route path="/category/:tagId" element={<Category />} />
+          <Route path="/game/:gameId" element={<Game />} />
         </Route>
         <Route path="/old" element={<Old />} />
       </Routes>

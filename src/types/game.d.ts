@@ -1,4 +1,5 @@
 export interface Game {
+  id: uuid;
   name: string;
   publishers: string[];
   releaseYear: number;

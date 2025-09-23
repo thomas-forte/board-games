@@ -1,7 +1,9 @@
 import type { Tag } from "../types/tag";
+
 import { SearchBar } from "../components/SearchBar";
-import tagsData from "../assets/tags.json";
 import { CircleButton } from "../components/CircleButton";
+
+import tagsData from "../assets/tags.json";
 
 export const Home = () => {
   const tags = (tagsData as Tag[]).sort((a, b) => a.position - b.position);
@@ -16,7 +18,11 @@ export const Home = () => {
 
       <div className="grid grid-cols-3 gap-4 mt-8">
         {tags.map((tag) => (
-          <CircleButton key={tag.tag} text={tag.name} />
+          <CircleButton
+            key={tag.tag}
+            text={tag.name}
+            to={`/category/${tag.tag}`}
+          />
         ))}
       </div>
     </>
