@@ -7,8 +7,8 @@ import { GameTitle } from "./GameTitle";
 import { GameRating } from "./GameRating";
 import { GameDetails } from "./GameDetails";
 
-import bggLogo from "/assets/bgg_logo.svg";
-import nkLogo from "/assets/nk_logo.png";
+import bggLogo from "../../assets/bgg_logo.svg";
+import nkLogo from "../../assets/nk_logo.png";
 
 export const Game = ({ game }: { game: GameType }) => {
   if (!game) {

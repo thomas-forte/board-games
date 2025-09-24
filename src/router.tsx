@@ -1,6 +1,6 @@
 import { HashRouter, Routes, Route } from "react-router";
 
-import { Layout } from "./components/Layout.tsx";
+import { Layout } from "./layout/Layout.tsx";
 
 import { HomePage } from "./pages/HomePage.tsx";
 import { CategoryPage } from "./pages/CategoryPage.tsx";

@@ -15,11 +15,75 @@ export const CircleButton = ({
     <div
       className={`p-4 flex flex-col items-center circle-button ${className}`}
     >
-      <button
-        className="rounded-full size-22 cursor-pointer hover:outline-1 hover:-outline-offset-1 hover:outline-gray-300"
+      <svg
+        width="88"
+        height="88"
+        viewBox="0 0 88 88"
+        className="cursor-pointer"
         onClick={() => to && navigate(to)}
-      ></button>
-      <span className="text-sm font-lato font-normal text-center">{text}</span>
+      >
+        <g filter="url(#filter0_ii_46_851)">
+          <circle cx="44" cy="44" r="44" fill="#F1F1F1" />
+        </g>
+        <defs>
+          <filter
+            id="filter0_ii_46_851"
+            x="-5"
+            y="-5"
+            width="98"
+            height="98"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB"
+          >
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feColorMatrix
+              in="SourceAlpha"
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+              result="hardAlpha"
+            />
+            <feOffset dx="5" dy="5" />
+            <feGaussianBlur stdDeviation="5" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix
+              type="matrix"
+              values="0 0 0 0 0.65098 0 0 0 0 0.65098 0 0 0 0 0.65098 0 0 0 1 0"
+            />
+            <feBlend
+              mode="normal"
+              in2="shape"
+              result="effect1_innerShadow_46_851"
+            />
+            <feColorMatrix
+              in="SourceAlpha"
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+              result="hardAlpha"
+            />
+            <feOffset dx="-5" dy="-5" />
+            <feGaussianBlur stdDeviation="5" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix
+              type="matrix"
+              values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+            />
+            <feBlend
+              mode="normal"
+              in2="effect1_innerShadow_46_851"
+              result="effect2_innerShadow_46_851"
+            />
+          </filter>
+        </defs>
+      </svg>
+      <span className="mt-2 text-sm font-lato font-normal text-center">
+        {text}
+      </span>
     </div>
   );
 };
