@@ -41,7 +41,7 @@ const formatPlayers = (game: Game) => {
   }
 
   if (players.best) {
-    return `${basePlayers} (Best: ${players.best})`;
+    return `${basePlayers} (👍 ${players.best})`;
   } else {
     return basePlayers;
   }
