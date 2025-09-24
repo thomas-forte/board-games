@@ -5,7 +5,7 @@ import { CircleButton } from "../components/CircleButton";
 
 import tagsData from "../assets/tags.json";
 
-export const Home = () => {
+export const HomePage = () => {
   const tags = (tagsData as Tag[]).sort((a, b) => a.position - b.position);
 
   return (

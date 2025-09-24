@@ -24,13 +24,7 @@ export const Layout = () => {
         </Link>
       );
     } else {
-      return (
-        <Link to="/old">
-          <div className="inline-flex items-center gap-2">
-            <LifebuoyIcon className="size-6" /> Old
-          </div>
-        </Link>
-      );
+      return <div></div>;
     }
   };
 

@@ -5,16 +5,29 @@ export interface Game {
   releaseYear: number;
   bggRating: number;
   players: {
-    min: number;
-    max: number;
-    best: string;
+    min?: number;
+    max?: number;
+    best?: string;
   };
   playtime: {
-    min: number;
-    max: number;
+    min?: number;
+    max?: number;
   };
   complexityRating: number;
   bggUrl: string;
   nobleKnightUrl: string;
   tags: string[];
+  // manual data
+  warfareLevel?: "tactical" | "strategic" | "operational";
+  officialUrl?: string;
+  rulesUrl?: string;
+  counters?: {
+    total?: number;
+    size?: string;
+  };
+  maps?: {
+    length: number;
+    width: number;
+  }[];
+  scenarios?: number;
 }

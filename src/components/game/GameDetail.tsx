@@ -1,0 +1,28 @@
+export const GameDetail = ({
+  Icon,
+  value,
+  label,
+}: {
+  Icon: React.ForwardRefExoticComponent<
+    React.PropsWithoutRef<React.SVGProps<SVGSVGElement>> & {
+      title?: string;
+      titleId?: string;
+    } & React.RefAttributes<SVGSVGElement>
+  >;
+  value: string;
+  label: string;
+}) => {
+  return (
+    <div className="flex justify-center items-center gap-4">
+      <Icon className="size-8 text-primary" />
+      <div className="flex flex-col items-center">
+        <div className="text-[1.25rem] leading-[1.25rem] font-lato text-primary-neutral uppercase">
+          {value}
+        </div>
+        <div className="text-[.75rem] font-lato text-primary-neutral uppercase">
+          {label}
+        </div>
+      </div>
+    </div>
+  );
+};

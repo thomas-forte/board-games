@@ -9,7 +9,7 @@ import { CircleButton } from "../components/CircleButton";
 import gamesData from "../assets/scraped.json";
 import tagsData from "../assets/tags.json";
 
-export const Category = () => {
+export const CategoryPage = () => {
   const { tagId } = useParams();
 
   const games = gamesData as Game[];

@@ -2,23 +2,20 @@ import { HashRouter, Routes, Route } from "react-router";
 
 import { Layout } from "./components/Layout.tsx";
 
-import { Home } from "./pages/Home.tsx";
-import { Category } from "./pages/Category.tsx";
-import { Game } from "./pages/Game.tsx";
-
-import { Old } from "./pages/Old.tsx";
+import { HomePage } from "./pages/HomePage.tsx";
+import { CategoryPage } from "./pages/CategoryPage.tsx";
+import { GamePage } from "./pages/GamePage.tsx";
 
 export const Router = () => (
   <HashRouter>
     <Routes>
       <Route path="/" element={<Layout />}>
-        <Route index element={<Home />} />
+        <Route index element={<HomePage />} />
         <Route path="category/:tagId">
-          <Route index element={<Category />} />
-          <Route path=":gameId" element={<Game />} />
+          <Route index element={<CategoryPage />} />
+          <Route path=":gameId" element={<GamePage />} />
         </Route>
       </Route>
-      <Route path="/old" element={<Old />} />
     </Routes>
   </HashRouter>
 );
