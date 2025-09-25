@@ -4,10 +4,12 @@ export const CircleButton = ({
   className,
   text,
   to,
+  imageUrl,
 }: {
   className?: string;
   text: string;
   to?: string;
+  imageUrl?: string;
 }) => {
   const navigate = useNavigate();
 
@@ -25,6 +27,9 @@ export const CircleButton = ({
         <g filter="url(#filter0_ii_46_851)">
           <circle cx="44" cy="44" r="44" fill="#F1F1F1" />
         </g>
+        {imageUrl && (
+          <image href={imageUrl} width="50" height="50" x="19" y="19" />
+        )}
         <defs>
           <filter
             id="filter0_ii_46_851"

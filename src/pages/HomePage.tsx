@@ -22,6 +22,7 @@ export const HomePage = () => {
             key={tag.tag}
             text={tag.name}
             to={`/category/${tag.tag}`}
+            imageUrl={`/tag_icons/${tag.name}.svg`}
           />
         ))}
       </div>
