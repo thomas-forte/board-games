@@ -9,6 +9,20 @@
     ],
     "manual_data": {
       "name": "Brothers at War: 1862"
+      "counters": {
+        "total": 748,
+        "size": "5/8\" & 3/4\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [4],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 10,
+      "officialUrl": "https://www.compassgames.com/product/brothers-at-war-1862/",
+      "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BAW_Rules_02-23-21.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -21,6 +35,20 @@
     ],
     "manual_data": {
       "name": "The Day Was Ours: First Bull Run (July 21, 1861)"
+      "counters": {
+        "total": 176,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 3,
+      "officialUrl": "https://stores.revolutiongames.us/the-day-was-ours-boxed-edition/",
+      "rulesUrl": "https://www.revolutiongames.us/TheDayWasOurs/TDWO_Exclusive_Rules.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -33,6 +61,20 @@
     ],
     "manual_data": {
       "name": "Clash of Giants: Civil War"
+      "counters": {
+        "total": 264,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://www.gmtgames.com/p-463-clash-of-giants-civil-war.aspx",
+      "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/cogcw/CoG_Living-Rules_Apr2018-Final.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -45,6 +87,20 @@
     ],
     "manual_data": {
       "name": "Ardennes II"
+      "counters": {
+        "total": 560,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["34\"x44\""]
+      },
+      "numberOfScenarios": 6,
+      "officialUrl": "https://mmpgamers.com/ardennes-ii-p-377",
+      "rulesUrl": "https://www.mmpgamers.com/support/gamersarchive/scs/ARD2_Rules.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -57,6 +113,20 @@
     ],
     "manual_data": {
       "name": "Traces of War"
+      "counters": {
+        "total": 321,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["40\"x28\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://vucasims.com/products/traces-of-war",
+      "rulesUrl": "https://www.dropbox.com/scl/fi/5xw17wv2i8suhvxuqg18v/ToW_06_Rules.pdf?rlkey=33njzy0435b45qwni517gofce&e=1&dl=0",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -68,7 +138,21 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Holland '44: Operation Market-Garden"
+      "name": "Holland '44: Operation Market-Garden, 2nd Edition"
+      "counters": {
+        "total": 468,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1, 1],
+        "dimensions": 
+          ["22\"x34\"", "8.5\"x22\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "https://www.gmtgames.com/p-938-holland-44-2nd-edition.aspx",
+      "rulesUrl": "https://gamers-hq.de/media/pdf/f3/f9/20/HO44-RULES_2024-Final.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -80,7 +164,21 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Battle for Germany: Deluxe Edition"
+      "name": "Battle for Germany, Deluxe Edition"
+      "counters": {
+        "total": 228,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 3,
+      "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3003",
+      "rulesUrl": "https://gamers-hq.de/media/pdf/86/85/2f/Bx_2020-Battle-For-Germany-Rules-WEB.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -92,7 +190,21 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Second World War at Sea: Eastern Fleet"
+      "name": "Second World War at Sea: Eastern Fleet, Playbook Edition"
+      "counters": {
+        "total": 210,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1, 1],
+        "dimensions": 
+          ["22\"x32\"", "11\"x17\""]
+      },
+      "numberOfScenarios": 30,
+      "officialUrl": "https://www.avalanchepress.com/gameEF.php",
+      "rulesUrl": "https://www.avalanchepress.com/SWWRules.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -106,6 +218,20 @@
     ],
     "manual_data": {
       "name": "The Fall Of The Third Reich"
+      "counters": {
+        "total": 351,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["44\"x34\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "",
+      "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/FotTR_Rules_Final_R.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -117,6 +243,20 @@
     ],
     "manual_data": {
       "name": "Commands & Colors: Napoleonics"
+      "counters": {
+        "total": 340,
+        "size": ""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["42\"x34\""]
+      },
+      "numberOfScenarios": 15,
+      "officialUrl": "https://www.gmtgames.com/p-976-commands-colors-napoleonics-5th-printing.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ccn/CCN-Rules_4thEd_2023.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -128,6 +268,20 @@
     ],
     "manual_data": {
       "name": "Napoleon's Last Battles"
+      "counters": {
+        "total": #,
+        "size": "#/#\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [#],
+        "dimensions": 
+          ["#\"x#\""]
+      },
+      "numberOfScenarios": #,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": ""
     }
   },
   {
