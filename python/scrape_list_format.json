@@ -21,7 +21,22 @@
       "numberOfScenarios": 10,
       "officialUrl": "https://www.officialurl.com",
       "rulesUrl": "https://www.rules.com",
-      "warfareLevel": "tactical"
+      "warfareScale": "tactical"
+
+      "counters": {
+        "total": #,
+        "size": "#/#\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [#],
+        "dimensions": 
+          ["#\"x#\""]
+      },
+      "numberOfScenarios": #,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": ""
     }
   }
 ]
