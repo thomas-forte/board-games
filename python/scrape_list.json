@@ -269,19 +269,19 @@
     "manual_data": {
       "name": "Napoleon's Last Battles"
       "counters": {
-        "total": #,
-        "size": "#/#\""
+        "total": 400,
+        "size": "1/2\""
       },
       "numberOfMaps": {
         "number": 
-          [#],
+          [2],
         "dimensions": 
-          ["#\"x#\""]
+          ["22\"x34\""]
       },
-      "numberOfScenarios": #,
-      "officialUrl": "",
-      "rulesUrl": "",
-      "warfareScale": ""
+      "numberOfScenarios": 4,
+      "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3008",
+      "rulesUrl": "https://gamers-hq.de/media/pdf/7a/98/6b/NLB-Rules-V6F.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -293,17 +293,20 @@
     ],
     "manual_data": {
       "name": "Quatre Bras 1815: Last Eagles"
-    }
-  },
-  {
-    "nobleKnightId": "13675",
-    "boardGameGeekId": "3573",
-    "bggLastUpdate": "2025-09-22T20:45:54.600058",
-    "tags": [
-      "Napoleonic"
-    ],
-    "manual_data": {
-      "name": "Napoleon at Waterloo"
+      "counters": {
+        "total": 700,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2, 2],
+        "dimensions": 
+          ["24\"x33\"", "9\"x33\""]
+      },
+      "numberOfScenarios": 5,
+      "officialUrl": "https://www.gmtgames.com/p-825-quatre-bras-1815-last-eagles.aspx",
+      "rulesUrl": "",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -315,6 +318,20 @@
     ],
     "manual_data": {
       "name": "Rivoli 1797"
+      "counters": {
+        "total": 648,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["27\"x38\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -326,6 +343,20 @@
     ],
     "manual_data": {
       "name": "The U.S. Civil War"
+      "counters": {
+        "total": 576,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["30\"x44\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "https://www.gmtgames.com/p-1165-the-us-civil-war-3rd-printing.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/USCW/TUSCW_RULES_2021-Final.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -337,6 +368,20 @@
     ],
     "manual_data": {
       "name": "The Civil War 1861-1865"
+      "counters": {
+        "total": 520,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2],
+        "dimensions": 
+          ["22\"x64\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "",
+      "rulesUrl": "http://www.wargameacademy.org/archives/CVW/CVW-Rulebook-WGA-3rd-110427.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -348,6 +393,20 @@
     ],
     "manual_data": {
       "name": "A Most Fearful Sacrifice: The Three Days of Gettysburg"
+      "counters": {
+        "total": 528,
+        "size": "5/8\" & 13/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2],
+        "dimensions": 
+          ["60\"x41\""]
+      },
+      "numberOfScenarios": 13,
+      "officialUrl": "https://flyingpiggames.com/shop/ols/products/a-most-fearful-sacrifice-2nd-edition-reprint",
+      "rulesUrl": "https://www.dropbox.com/scl/fi/pq7g8e12wt5szl0ub0ut4/A-Most-Fearful-Sacrifice-Rules_LAST_2ndEd_PNP.pdf?rlkey=4yiehzrbojqirwdsp44a3xhju&e=1&st=d2l7tqeg&dl=0",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -359,6 +418,20 @@
     ],
     "manual_data": {
       "name": "Shiloh: April Glory"
+      "counters": {
+        "total": 100,
+        "size": ""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://www.columbiagames.com/cgi-bin/query/cfg/zoom-retailer.cfg?product_id=3322",
+      "rulesUrl": "https://columbiagames.com/resources/3322/3322-shilohrules.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -370,6 +443,20 @@
     ],
     "manual_data": {
       "name": "Balance of Powers"
+      "counters": {
+        "total": 900,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [3],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 9,
+      "officialUrl": "https://www.compassgames.com/product/balance-of-powers/",
+      "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/BoP_Living_Rules_10_Jan_2017.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -380,7 +467,21 @@
       "WWI"
     ],
     "manual_data": {
-      "name": "Death in the Trenches: The Great War 1914-1918 (Second Edition)"
+      "name": "Death in the Trenches: The Great War 1914-1918, 2nd Edition"
+      "counters": {
+        "total": 400,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1, 1],
+        "dimensions": 
+          ["22\"x34\"", "8.5\"x11\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "https://www.compassgames.com/product/death-in-the-trenches/",
+      "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/DITT+LIVING+RULES.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -392,17 +493,20 @@
     ],
     "manual_data": {
       "name": "The Great War in Europe: Deluxe Edition"
-    }
-  },
-  {
-    "nobleKnightId": "2147596715",
-    "boardGameGeekId": "173105",
-    "bggLastUpdate": "2025-09-22T20:45:54.600058",
-    "tags": [
-      "WWI"
-    ],
-    "manual_data": {
-      "name": "The Great War"
+      "counters": {
+        "total": 1500,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [3],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 5,
+      "officialUrl": "https://www.gmtgames.com/p-113-the-great-war-in-europe-deluxe-edition.aspx",
+      "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/GWiE_rules%283-4-09%29.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -414,6 +518,20 @@
     ],
     "manual_data": {
       "name": "Clash of Giants II: 1st Ypres & Galicia 1914"
+      "counters": {
+        "total": 352,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://www.gmtgames.com/p-68-clash-of-giants-ii.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/living_rules/CoGII_Rules.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -425,6 +543,20 @@
     ],
     "manual_data": {
       "name": "The Eastern Front: 1914-1917"
+      "counters": {
+        "total": 1680,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["55\"x68\""]
+      },
+      "numberOfScenarios": 6,
+      "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=SPW109",
+      "rulesUrl": "",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -436,6 +568,20 @@
     ],
     "manual_data": {
       "name": "Assault Red Horizon 41"
+      "counters": {
+        "total": 600,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [18],
+        "dimensions": 
+          ["11\"x15.5\""]
+      },
+      "numberOfScenarios": 15,
+      "officialUrl": "https://assault-games.com/eastern-front-2/red-horizon-41-2/",
+      "rulesUrl": "https://assault-games.com/wp-content/uploads/2022/12/PN008_Assault_rulebook_v1.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -447,6 +593,20 @@
     ],
     "manual_data": {
       "name": "Salerno '43"
+      "counters": {
+        "total": 192,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x25.5\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://www.gmtgames.com/p-1136-salerno-43-2nd-printing.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Salerno43/SalernoRules-LR_Aug2022.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -458,6 +618,20 @@
     ],
     "manual_data": {
       "name": "Arracourt"
+      "counters": {
+        "total": 352,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 6,
+      "officialUrl": "https://mmpgamers.com/arracourt-p-342",
+      "rulesUrl": "https://mmpgamers.com/support/gamersarchive/bcs/ArracourtRules.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -469,6 +643,20 @@
     ],
     "manual_data": {
       "name": "Donnerschlag: Escape from Stalingrad"
+      "counters": {
+        "total": 184,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "https://vucasimulations.com/products/donnerschlag-escape-from-stalingrad?_pos=2&_psq=donnerschlag&_ss=e&_v=1.0",
+      "rulesUrl": "https://www.dropbox.com/scl/fo/ronelqt1jqhhzx6pphd2j/APfjCCAl3smTMQFHXGyL7gU/DS_Rulebook_July_2023_Living_Rules_E.pdf?rlkey=12otmwy1ljh5m1297bxwe20jx&e=1&dl=0",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -479,7 +667,21 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Old School Tactical: Volume 3 \u2013 Pacific 1942/45"
+      "name": "Old School Tactical Volume 3: The Pacific War 1942/45"
+      "counters": {
+        "total": 432,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["30\"x41\""]
+      },
+      "numberOfScenarios": 16,
+      "officialUrl": "https://flyingpiggames.com/shop/ols/products/old-school-tactical-v3pacific-war-194245",
+      "rulesUrl": "https://gamers-hq.de/media/pdf/9c/ac/1b/OST-Rules-5-6-copy.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -491,6 +693,20 @@
     ],
     "manual_data": {
       "name": "Stalingrad '42: Southern Russia, June-December, 1942"
+      "counters": {
+        "total": 576,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["43.5\"x48\""]
+      },
+      "numberOfScenarios": 5,
+      "officialUrl": "https://www.gmtgames.com/p-1014-stalingrad-42-2nd-edition.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Stalingrad42/Stal42+RULES-FINAL_v2.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -502,6 +718,20 @@
     ],
     "manual_data": {
       "name": "The Dark Sands: War in North Africa, 1940-42"
+      "counters": {
+        "total": 264,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x62\""]
+      },
+      "numberOfScenarios": 5,
+      "officialUrl": "https://www.gmtgames.com/p-509-the-dark-sands.aspx",
+      "rulesUrl": "https://s3.us-west-2.amazonaws.com/gmtwebsiteassets/darksands/DS_Rules_FINAL.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -524,6 +754,20 @@
     ],
     "manual_data": {
       "name": "Saipan: The Bloody Rock"
+      "counters": {
+        "total": 819,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["34\"x44\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   },
   {
