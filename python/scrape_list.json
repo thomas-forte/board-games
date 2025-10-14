@@ -743,6 +743,20 @@
     ],
     "manual_data": {
       "name": "Demyansk Shield: the Frozen Fortress, February-May 1942"
+      "counters": {
+        "total": 352,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 3,
+      "officialUrl": "https://www.legionwargames.com/legion_DMS.html",
+      "rulesUrl": "https://khybergames.com/legionwargames/docs/DMS_rules_final_print_17.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -779,6 +793,20 @@
     ],
     "manual_data": {
       "name": "The Scheldt Campaign"
+      "counters": {
+        "total": 264,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["11\"x25.5\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "https://hollandspiele.com/products/the-scheldt-campaign",
+      "rulesUrl": "",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -790,6 +818,20 @@
     ],
     "manual_data": {
       "name": "Combat Commander: Europe"
+      "counters": {
+        "total": 632,
+        "size": "1/2\" & 5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [12],
+        "dimensions": 
+          ["17\"x22\""]
+      },
+      "numberOfScenarios": 12,
+      "officialUrl": "https://www.gmtgames.com/p-928-combat-commander-europe-5th-printing.aspx",
+      "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/CC_Rulebook_v1.1.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -801,6 +843,20 @@
     ],
     "manual_data": {
       "name": "Unconditional Surrender! World War 2 in Europe"
+      "counters": {
+        "total": 840,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["44\"x34\""]
+      },
+      "numberOfScenarios": 16,
+      "officialUrl": "https://www.gmtgames.com/p-885-unconditional-surrender-3rd-printing.aspx",
+      "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/us/USE2RulebookGMT2017-09.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -812,6 +868,20 @@
     ],
     "manual_data": {
       "name": "Empire of the Sun: The Pacific War 1941-1945"
+      "counters": {
+        "total": 368,
+        "size": "9/16\" & 5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "https://www.gmtgames.com/p-1114-empire-of-the-sun-5th-printing.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/EOTS_Rules-2021-LR.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -823,6 +893,20 @@
     ],
     "manual_data": {
       "name": "Streets of Stalingrad (Third Edition)"
+      "counters": {
+        "total": 2304,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["38\"x72\""]
+      },
+      "numberOfScenarios": 8,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -834,6 +918,20 @@
     ],
     "manual_data": {
       "name": "Nations at War: White Star Rising"
+      "counters": {
+        "total": 350,
+        "size": "3/4\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [4],
+        "dimensions": 
+          ["11\"x17\""]
+      },
+      "numberOfScenarios": 21,
+      "officialUrl": "https://store.lnlpublishing.com/naw-white-star-rising-2nd-edition-upgraded-llp312841",
+      "rulesUrl": "https://library.lnlpublishing.com/books/ggyn/#p=1",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -845,6 +943,20 @@
     ],
     "manual_data": {
       "name": "Ardennes '44: The Battle of the Bulge"
+      "counters": {
+        "total": 570,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["44\"x34\""]
+      },
+      "numberOfScenarios": 3,
+      "officialUrl": "https://www.gmtgames.com/p-987-ardennes-44-4th-edition.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/nna4/A44+Rules-LR-Dec16-2020-1.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -856,6 +968,20 @@
     ],
     "manual_data": {
       "name": "Rise and Decline of the Third Reich"
+      "counters": {
+        "total": 560,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x60\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "",
+      "rulesUrl": "http://www.wargameacademy.org/3R4/3R4-rulebook-070908.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -867,6 +993,20 @@
     ],
     "manual_data": {
       "name": "The Greatest Day: Sword, Juno, and Gold Beaches"
+      "counters": {
+        "total": 2816,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["44\"x68\""]
+      },
+      "numberOfScenarios": 18,
+      "officialUrl": "https://mmpgamers.com/the-greatest-day-sword-juno-and-gold-p-105",
+      "rulesUrl": "https://mmpgamers.com/support/gts/TGD_Exclusive_Rules_2.0.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -878,6 +1018,20 @@
     ],
     "manual_data": {
       "name": "Front Toward Enemy"
+      "counters": {
+        "total": 528,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["44\"x34\""]
+      },
+      "numberOfScenarios": 8,
+      "officialUrl": "https://mmpgamers.com/front-toward-enemy-p-7",
+      "rulesUrl": "https://mmpgamers.com/support/other/FTE_Rules.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -888,7 +1042,21 @@
       "Vietnam"
     ],
     "manual_data": {
-      "name": "Vietnam: 1965-1975 (2nd Edition)"
+      "name": "Vietnam: 1965-1975, GMT Edition"
+      "counters": {
+        "total": 780,
+        "size": "1/2\" & 9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["66\"x40\""]
+      },
+      "numberOfScenarios": 12,
+      "officialUrl": "https://www.gmtgames.com/p-911-vietnam-1965-1975-gmt-edition.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Vietnam/GMT_Vietnam_livingrules_v3.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -900,6 +1068,20 @@
     ],
     "manual_data": {
       "name": "Armageddon War: Platoon Level Combat in the End War"
+      "counters": {
+        "total": 288,
+        "size": "1\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["44\"x33\""]
+      },
+      "numberOfScenarios": 16,
+      "officialUrl": "https://flyingpiggames.com/shop/ols/products/armageddon-war",
+      "rulesUrl": "https://www.dropbox.com/scl/fi/kl5tt5asw7h9zwz7du53r/GeddonWar-2nd-printing.pdf?rlkey=15h1dookld81jh2xiqro9bv0d&e=1&st=87qtsomn&dl=0",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -911,6 +1093,20 @@
     ],
     "manual_data": {
       "name": "Combat! Volume 1"
+      "counters": {
+        "total": 800,
+        "size": "5/8\" & 1\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [4],
+        "dimensions": 
+          ["25\"x38\""]
+      },
+      "numberOfScenarios": 14,
+      "officialUrl": "https://www.compassgames.com/product/combat/",
+      "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/Combat-2nd-Printing-Rules-print-ready-v4a+(1).pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -922,6 +1118,20 @@
     ],
     "manual_data": {
       "name": "D-Day at Omaha Beach"
+      "counters": {
+        "total": 352,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1018%2D23",
+      "rulesUrl": "https://gamers-hq.de/media/pdf/08/a8/e0/DDOB-Rules-Color_V5F.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -933,6 +1143,20 @@
     ],
     "manual_data": {
       "name": "D-Day at Tarawa"
+      "counters": {
+        "total": 352,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1025",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -943,7 +1167,21 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "Tokyo Express: The Guadalcanal Naval Campaign \u2013 1942"
+      "name": "Tokyo Express: The Guadalcanal Naval Campaign: 1942"
+      "counters": {
+        "total": 676,
+        "size": "1/2\" & 3/4\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x32\""]
+      },
+      "numberOfScenarios": 11,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   },
   {
