@@ -70,37 +70,29 @@ export const GameDetails = ({ game }: { game: Game }) => {
         <GameDetail Icon={UserIcon} value={formattedPlayers} label="players" />
       )}
 
-      {game.counters?.total && (
-        <GameDetail
-          Icon={PuzzlePieceIcon}
-          value={game.counters.total.toFixed(0)}
-          label="counters"
-        />
-      )}
+      <GameDetail
+        Icon={PuzzlePieceIcon}
+        value={game.counters?.total?.toFixed(0) || "-"}
+        label="counters"
+      />
 
-      {game.maps?.length && (
-        <GameDetail
-          Icon={MapIcon}
-          value={game.maps.length.toFixed(0)}
-          label="maps"
-        />
-      )}
+      <GameDetail
+        Icon={MapIcon}
+        value={game.maps?.length?.toFixed(0) || "-"}
+        label="maps"
+      />
 
-      {game.counters?.size && (
-        <GameDetail
-          Icon={ArrowsPointingOutIcon}
-          value={game.counters.size}
-          label="counter size"
-        />
-      )}
+      <GameDetail
+        Icon={ArrowsPointingOutIcon}
+        value={game.counters?.size || "-"}
+        label="counter size"
+      />
 
-      {game.scenarios && (
-        <GameDetail
-          Icon={DocumentTextIcon}
-          value={game.scenarios.toFixed(0)}
-          label="scenarios"
-        />
-      )}
+      <GameDetail
+        Icon={DocumentTextIcon}
+        value={game.scenarios?.toFixed(0) || "-"}
+        label="scenarios"
+      />
     </div>
   );
 };
