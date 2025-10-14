@@ -40,18 +40,6 @@
     }
   }
 
-  .circle-button {
-    button {
-      background-color: var(--color-background);
-      box-shadow: 10px 10px 20px 0px #a6a6a6 inset;
-      box-shadow: -10px -10px 20px 0px #ffffff inset;
-
-      &:hover {
-        background-color: var(--color-primary-hover);
-      }
-    }
-  }
-
   .card {
     background-color: var(--color-background);
     box-shadow: 10px 10px 20px 0px #a6a6a6;

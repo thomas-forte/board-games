@@ -14,18 +14,16 @@ export const CircleButton = ({
   const navigate = useNavigate();
 
   return (
-    <div
-      className={`p-4 flex flex-col items-center circle-button ${className}`}
-    >
-      <svg
-        width="88"
-        height="88"
-        viewBox="0 0 88 88"
-        className="cursor-pointer"
-        onClick={() => to && navigate(to)}
-      >
+    <div className={`p-4 flex flex-col items-center ${className}`}>
+      <svg width="88" height="88" viewBox="0 0 88 88">
         <g filter="url(#filter0_ii_46_851)">
-          <circle cx="44" cy="44" r="44" fill="#F1F1F1" />
+          <circle
+            cx="44"
+            cy="44"
+            r="44"
+            className="cursor-pointer fill-background hover:fill-primary-hover"
+            onClick={() => to && navigate(to)}
+          />
         </g>
         {imageUrl && (
           <image href={imageUrl} width="50" height="50" x="19" y="19" />
@@ -86,7 +84,10 @@ export const CircleButton = ({
           </filter>
         </defs>
       </svg>
-      <span className="mt-2 text-sm font-lato font-normal text-center">
+      <span
+        onClick={() => to && navigate(to)}
+        className="mt-2 text-sm font-lato font-normal text-center cursor-pointer"
+      >
         {text}
       </span>
     </div>
