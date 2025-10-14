@@ -25,6 +25,10 @@ export interface Game {
     total?: number;
     size?: string;
   };
+  cost?: {
+    min?: number;
+    max?: number;
+  };
   maps?: {
     length: number;
     width: number;

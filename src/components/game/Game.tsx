@@ -10,6 +10,22 @@ import { GameDetails } from "./GameDetails";
 import bggLogo from "../../assets/bgg_logo.svg";
 import nkLogo from "../../assets/nk_logo.png";
 
+const formatCost = (game: GameType) => {
+  const cost = game.cost;
+  if (!cost) {
+    return "Out of stock";
+  }
+  if (cost.min && cost.max) {
+    return `${cost.min} - ${cost.max}`;
+  } else if (cost.min) {
+    return `${cost.min}`;
+  } else if (cost.max) {
+    return `${cost.max}`;
+  } else {
+    return "Out of stock";
+  }
+};
+
 export const Game = ({ game }: { game: GameType }) => {
   if (!game) {
     return <div>Game not found</div>;
@@ -27,7 +43,7 @@ export const Game = ({ game }: { game: GameType }) => {
         <CurrencyDollarIcon className="size-12 text-primary" />
         <div className="flex flex-col items-center">
           <div className="text-[1.5rem] leading-[1.5rem] font-lato text-primary-neutral uppercase">
-            "TBD"
+            {formatCost(game)}
           </div>
           <div className="text-[1rem] font-lato text-primary-neutral uppercase">
             Cost
