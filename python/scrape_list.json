@@ -1193,6 +1193,20 @@
     ],
     "manual_data": {
       "name": "Raid on St. Nazaire"
+      "counters": {
+        "total": 260,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["16\"x33\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -1204,6 +1218,20 @@
     ],
     "manual_data": {
       "name": "Stalingrad: Advance to the Volga, 1942"
+      "counters": {
+        "total": 176,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["17\"x22\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://www.revolutiongames.us/Stalingrad.html",
+      "rulesUrl": "https://www.revolutiongames.us/Stalingrad_ATV/Stalingrad_Rules_reduced_size.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -1215,6 +1243,20 @@
     ],
     "manual_data": {
       "name": "The MOG: Mogadishu 1993"
+      "counters": {
+        "total": 88,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["17\"x22\""]
+      },
+      "numberOfScenarios": 6,
+      "officialUrl": "https://www.whitedoggames.com/mogadishu",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -1226,6 +1268,20 @@
     ],
     "manual_data": {
       "name": "Brotherhood & Unity"
+      "counters": {
+        "total": 260,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://www.compassgames.com/product/brotherhood-unity/",
+      "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BrotherhoodUnity_rulebook.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -1237,6 +1293,20 @@
     ],
     "manual_data": {
       "name": "Churchill"
+      "counters": {
+        "total": 176,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 3,
+      "officialUrl": "https://www.gmtgames.com/p-719-churchill-3rd-printing.aspx",
+      "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/churchill/Churchill_Rules2ndEd.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -1248,6 +1318,20 @@
     ],
     "manual_data": {
       "name": "Cataclysm: A Second World War"
+      "counters": {
+        "total": 456,
+        "size": "9/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2],
+        "dimensions": 
+          ["17\"x22\""]
+      },
+      "numberOfScenarios": 5,
+      "officialUrl": "https://www.gmtgames.com/p-902-cataclysm.aspx",
+      "rulesUrl": "https://www.goblins.net/files/downloads/cataclysm_rulebook_04-2022_eng.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -1259,6 +1343,20 @@
     ],
     "manual_data": {
       "name": "Conquest & Consequence"
+      "counters": {
+        "total": 352,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "https://www.gmtgames.com/p-840-conquest-and-consequence.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ConquestAndConsequence/Conquest%26Consequence_Rulebook_v1.1e.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -1270,6 +1368,20 @@
     ],
     "manual_data": {
       "name": "Triumph & Tragedy: European Balance of Power 1936-1945"
+      "counters": {
+        "total": 208,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "https://www.gmtgames.com/p-722-triumph-and-tragedy-3rd-printing.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/triumphtragedy/TnT3rdEdRulesFinal.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -1281,6 +1393,20 @@
     ],
     "manual_data": {
       "name": "The Battle of Monmouth"
+      "counters": {
+        "total": 176,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "https://www.gmtgames.com/p-110-monmouth.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/armonm/Monmouth_playbook.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -1292,6 +1418,20 @@
     ],
     "manual_data": {
       "name": "End of Empire: 1744-1782"
+      "counters": {
+        "total": 792,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x68\""]
+      },
+      "numberOfScenarios": 15,
+      "officialUrl": "https://www.compassgames.com/product/end-of-empire-1744-1782-deluxe-edition-pay-later/",
+      "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/EoE-Rules.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -1303,6 +1443,20 @@
     ],
     "manual_data": {
       "name": "Washington's Crossing"
+      "counters": {
+        "total": 200,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 2,
+      "officialUrl": "https://www.revolutiongames.us/WC_info.html",
+      "rulesUrl": "https://www.revolutiongames.us/WC/Washingtons_Crossing_Rules_final.pdf",
+      "warfareScale": "Operational"
     }
   },
   {
@@ -1314,6 +1468,20 @@
     ],
     "manual_data": {
       "name": "Liberty: The American Revolution 1775-83"
+      "counters": {
+        "total": 50,
+        "size": "13/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["11\"x34\""]
+      },
+      "numberOfScenarios": 4,
+      "officialUrl": "https://columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=3021",
+      "rulesUrl": "https://columbiagames.com/resources/3021/libertyrules1.02.pdf",
+      "warfareScale": "Strategic"
     }
   },
   {
@@ -1325,6 +1493,20 @@
     ],
     "manual_data": {
       "name": "Wooden Ships & Iron Men"
+      "counters": {
+        "total": 180,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [2],
+        "dimensions": 
+          ["22\"x28\""]
+      },
+      "numberOfScenarios": 23,
+      "officialUrl": "",
+      "rulesUrl": "https://www.scribd.com/document/339876561/Wooden-Ship-and-Iron-Men-Manual",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -1336,6 +1518,20 @@
     ],
     "manual_data": {
       "name": "Captain's Sea"
+      "counters": {
+        "total": 84,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 10,
+      "officialUrl": "https://legion-wargames2.mybigcommerce.com/captains-sea/",
+      "rulesUrl": "https://khybergames.com/legionwargames/docs/Cap%20Rules%20Booklet%2016pp%20PRINT.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -1346,7 +1542,21 @@
       "Ancient"
     ],
     "manual_data": {
-      "name": "The Great Battles of Alexander: Deluxe Edition"
+      "name": "The Great Battles of Alexander, Deluxe Edition"
+      "counters": {
+        "total": 763,
+        "size": "1/2\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [3],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 3,
+      "officialUrl": "https://www.gmtgames.com/p-770-great-battles-of-alexander-expanded-deluxe-edition-2nd-printing.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbad/Deluxe_Alexander_6th_Edition_Rules.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -1357,7 +1567,21 @@
       "Ancient"
     ],
     "manual_data": {
-      "name": "SPQR (Deluxe Edition)"
+      "name": "SPQR, Deluxe 5th Edition"
+      "counters": {
+        "total": 968,
+        "size": "5/8\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [6],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 14,
+      "officialUrl": "https://www.gmtgames.com/p-1118-spqr-deluxe-5th-edition.aspx",
+      "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbsp/SPQR_4thEdition_Living_Rules_Draft_Oct2022.pdf",
+      "warfareScale": "Tactical"
     }
   },
   {
@@ -1369,6 +1593,20 @@
     ],
     "manual_data": {
       "name": "Iliad: The Siege of Troy"
+      "counters": {
+        "total": 51,
+        "size": "5/16\""
+      },
+      "numberOfMaps": {
+        "number": 
+          [1],
+        "dimensions": 
+          ["22\"x34\""]
+      },
+      "numberOfScenarios": 1,
+      "officialUrl": "",
+      "rulesUrl": "",
+      "warfareScale": "Tactical"
     }
   }
 ]
