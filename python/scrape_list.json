@@ -201,7 +201,6 @@
         "size": "1/2\""
       },
       "numberOfScenarios": 1,
-      "officialUrl": "",
       "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/FotTR_Rules_Final_R.pdf",
       "warfareScale": "Operational",
       "maps": {
@@ -219,8 +218,7 @@
     "manual_data": {
       "name": "Commands & Colors: Napoleonics",
       "counters": {
-        "total": 340,
-        "size": ""
+        "total": 340
       },
       "numberOfScenarios": 15,
       "officialUrl": "https://www.gmtgames.com/p-976-commands-colors-napoleonics-5th-printing.aspx",
@@ -268,7 +266,6 @@
       },
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-825-quatre-bras-1815-last-eagles.aspx",
-      "rulesUrl": "",
       "warfareScale": "Operational",
       "maps": {
         "24\"x33\"": 2,
@@ -290,8 +287,6 @@
         "size": "1/2\""
       },
       "numberOfScenarios": 1,
-      "officialUrl": "",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "27\"x38\"": 1
@@ -334,7 +329,6 @@
         "size": "1/2\""
       },
       "numberOfScenarios": 4,
-      "officialUrl": "",
       "rulesUrl": "http://www.wargameacademy.org/archives/CVW/CVW-Rulebook-WGA-3rd-110427.pdf",
       "warfareScale": "Strategic",
       "maps": {
@@ -374,8 +368,7 @@
     "manual_data": {
       "name": "Shiloh: April Glory",
       "counters": {
-        "total": 100,
-        "size": ""
+        "total": 100
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.columbiagames.com/cgi-bin/query/cfg/zoom-retailer.cfg?product_id=3322",
@@ -490,7 +483,6 @@
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=SPW109",
-      "rulesUrl": "",
       "warfareScale": "Operational",
       "maps": {
         "55\"x68\"": 1
@@ -687,8 +679,6 @@
         "size": "5/8\""
       },
       "numberOfScenarios": 4,
-      "officialUrl": "",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "34\"x44\"": 1
@@ -710,7 +700,6 @@
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://hollandspiele.com/products/the-scheldt-campaign",
-      "rulesUrl": "",
       "warfareScale": "Operational",
       "maps": {
         "11\"x25.5\"": 1
@@ -797,8 +786,6 @@
         "size": "5/8\""
       },
       "numberOfScenarios": 8,
-      "officialUrl": "",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "38\"x72\"": 1
@@ -863,7 +850,6 @@
         "size": "1/2\""
       },
       "numberOfScenarios": 4,
-      "officialUrl": "",
       "rulesUrl": "http://www.wargameacademy.org/3R4/3R4-rulebook-070908.pdf",
       "warfareScale": "Strategic",
       "maps": {
@@ -1018,7 +1004,6 @@
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1025",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "22\"x34\"": 1
@@ -1039,8 +1024,6 @@
         "size": "1/2\" & 3/4\""
       },
       "numberOfScenarios": 11,
-      "officialUrl": "",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "22\"x32\"": 1
@@ -1061,8 +1044,6 @@
         "size": "1/2\""
       },
       "numberOfScenarios": 1,
-      "officialUrl": "",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "16\"x33\"": 1
@@ -1106,7 +1087,6 @@
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://www.whitedoggames.com/mogadishu",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "17\"x22\"": 1
@@ -1325,7 +1305,6 @@
         "size": "5/8\""
       },
       "numberOfScenarios": 23,
-      "officialUrl": "",
       "rulesUrl": "https://www.scribd.com/document/339876561/Wooden-Ship-and-Iron-Men-Manual",
       "warfareScale": "Tactical",
       "maps": {
@@ -1413,8 +1392,6 @@
         "size": "5/16\""
       },
       "numberOfScenarios": 1,
-      "officialUrl": "",
-      "rulesUrl": "",
       "warfareScale": "Tactical",
       "maps": {
         "22\"x34\"": 1
