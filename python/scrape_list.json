@@ -8,16 +8,18 @@
       "American Civil War"
     ],
     "manual_data": {
-      "name": "Brothers at War: 1862"
+      "name": "Brothers at War: 1862",
       "counters": {
         "total": 748,
         "size": "5/8\" & 3/4\""
       },
       "numberOfMaps": {
-        "number": 
-          [4],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          4
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 10,
       "officialUrl": "https://www.compassgames.com/product/brothers-at-war-1862/",
@@ -34,16 +36,18 @@
       "American Civil War"
     ],
     "manual_data": {
-      "name": "The Day Was Ours: First Bull Run (July 21, 1861)"
+      "name": "The Day Was Ours: First Bull Run (July 21, 1861)",
       "counters": {
         "total": 176,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 3,
       "officialUrl": "https://stores.revolutiongames.us/the-day-was-ours-boxed-edition/",
@@ -60,16 +64,18 @@
       "American Civil War"
     ],
     "manual_data": {
-      "name": "Clash of Giants: Civil War"
+      "name": "Clash of Giants: Civil War",
       "counters": {
         "total": 264,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.gmtgames.com/p-463-clash-of-giants-civil-war.aspx",
@@ -86,16 +92,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Ardennes II"
+      "name": "Ardennes II",
       "counters": {
         "total": 560,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["34\"x44\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "34\"x44\""
+        ]
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://mmpgamers.com/ardennes-ii-p-377",
@@ -112,16 +120,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Traces of War"
+      "name": "Traces of War",
       "counters": {
         "total": 321,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["40\"x28\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "40\"x28\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://vucasims.com/products/traces-of-war",
@@ -138,16 +148,20 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Holland '44: Operation Market-Garden, 2nd Edition"
+      "name": "Holland '44: Operation Market-Garden, 2nd Edition",
       "counters": {
         "total": 468,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1, 1],
-        "dimensions": 
-          ["22\"x34\"", "8.5\"x22\""]
+        "number": [
+          1,
+          1
+        ],
+        "dimensions": [
+          "22\"x34\"",
+          "8.5\"x22\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://www.gmtgames.com/p-938-holland-44-2nd-edition.aspx",
@@ -164,16 +178,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Battle for Germany, Deluxe Edition"
+      "name": "Battle for Germany, Deluxe Edition",
       "counters": {
         "total": 228,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 3,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3003",
@@ -190,16 +206,20 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Second World War at Sea: Eastern Fleet, Playbook Edition"
+      "name": "Second World War at Sea: Eastern Fleet, Playbook Edition",
       "counters": {
         "total": 210,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1, 1],
-        "dimensions": 
-          ["22\"x32\"", "11\"x17\""]
+        "number": [
+          1,
+          1
+        ],
+        "dimensions": [
+          "22\"x32\"",
+          "11\"x17\""
+        ]
       },
       "numberOfScenarios": 30,
       "officialUrl": "https://www.avalanchepress.com/gameEF.php",
@@ -217,16 +237,18 @@
       "3 Player"
     ],
     "manual_data": {
-      "name": "The Fall Of The Third Reich"
+      "name": "The Fall Of The Third Reich",
       "counters": {
         "total": 351,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["44\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "44\"x34\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "",
@@ -242,16 +264,18 @@
       "Napoleonic"
     ],
     "manual_data": {
-      "name": "Commands & Colors: Napoleonics"
+      "name": "Commands & Colors: Napoleonics",
       "counters": {
         "total": 340,
         "size": ""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["42\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "42\"x34\""
+        ]
       },
       "numberOfScenarios": 15,
       "officialUrl": "https://www.gmtgames.com/p-976-commands-colors-napoleonics-5th-printing.aspx",
@@ -267,16 +291,18 @@
       "Napoleonic"
     ],
     "manual_data": {
-      "name": "Napoleon's Last Battles"
+      "name": "Napoleon's Last Battles",
       "counters": {
         "total": 400,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3008",
@@ -292,16 +318,20 @@
       "Napoleonic"
     ],
     "manual_data": {
-      "name": "Quatre Bras 1815: Last Eagles"
+      "name": "Quatre Bras 1815: Last Eagles",
       "counters": {
         "total": 700,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [2, 2],
-        "dimensions": 
-          ["24\"x33\"", "9\"x33\""]
+        "number": [
+          2,
+          2
+        ],
+        "dimensions": [
+          "24\"x33\"",
+          "9\"x33\""
+        ]
       },
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-825-quatre-bras-1815-last-eagles.aspx",
@@ -317,16 +347,18 @@
       "Napoleonic"
     ],
     "manual_data": {
-      "name": "Rivoli 1797"
+      "name": "Rivoli 1797",
       "counters": {
         "total": 648,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["27\"x38\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "27\"x38\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "",
@@ -342,16 +374,18 @@
       "American Civil War"
     ],
     "manual_data": {
-      "name": "The U.S. Civil War"
+      "name": "The U.S. Civil War",
       "counters": {
         "total": 576,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["30\"x44\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "30\"x44\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://www.gmtgames.com/p-1165-the-us-civil-war-3rd-printing.aspx",
@@ -367,16 +401,18 @@
       "American Civil War"
     ],
     "manual_data": {
-      "name": "The Civil War 1861-1865"
+      "name": "The Civil War 1861-1865",
       "counters": {
         "total": 520,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["22\"x64\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "22\"x64\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "",
@@ -392,16 +428,18 @@
       "American Civil War"
     ],
     "manual_data": {
-      "name": "A Most Fearful Sacrifice: The Three Days of Gettysburg"
+      "name": "A Most Fearful Sacrifice: The Three Days of Gettysburg",
       "counters": {
         "total": 528,
         "size": "5/8\" & 13/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["60\"x41\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "60\"x41\""
+        ]
       },
       "numberOfScenarios": 13,
       "officialUrl": "https://flyingpiggames.com/shop/ols/products/a-most-fearful-sacrifice-2nd-edition-reprint",
@@ -417,16 +455,18 @@
       "American Civil War"
     ],
     "manual_data": {
-      "name": "Shiloh: April Glory"
+      "name": "Shiloh: April Glory",
       "counters": {
         "total": 100,
         "size": ""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.columbiagames.com/cgi-bin/query/cfg/zoom-retailer.cfg?product_id=3322",
@@ -442,16 +482,18 @@
       "WWI"
     ],
     "manual_data": {
-      "name": "Balance of Powers"
+      "name": "Balance of Powers",
       "counters": {
         "total": 900,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [3],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          3
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 9,
       "officialUrl": "https://www.compassgames.com/product/balance-of-powers/",
@@ -467,16 +509,20 @@
       "WWI"
     ],
     "manual_data": {
-      "name": "Death in the Trenches: The Great War 1914-1918, 2nd Edition"
+      "name": "Death in the Trenches: The Great War 1914-1918, 2nd Edition",
       "counters": {
         "total": 400,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1, 1],
-        "dimensions": 
-          ["22\"x34\"", "8.5\"x11\""]
+        "number": [
+          1,
+          1
+        ],
+        "dimensions": [
+          "22\"x34\"",
+          "8.5\"x11\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://www.compassgames.com/product/death-in-the-trenches/",
@@ -492,16 +538,18 @@
       "WWI"
     ],
     "manual_data": {
-      "name": "The Great War in Europe: Deluxe Edition"
+      "name": "The Great War in Europe: Deluxe Edition",
       "counters": {
         "total": 1500,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [3],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          3
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-113-the-great-war-in-europe-deluxe-edition.aspx",
@@ -517,16 +565,18 @@
       "WWI"
     ],
     "manual_data": {
-      "name": "Clash of Giants II: 1st Ypres & Galicia 1914"
+      "name": "Clash of Giants II: 1st Ypres & Galicia 1914",
       "counters": {
         "total": 352,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.gmtgames.com/p-68-clash-of-giants-ii.aspx",
@@ -542,16 +592,18 @@
       "WWI"
     ],
     "manual_data": {
-      "name": "The Eastern Front: 1914-1917"
+      "name": "The Eastern Front: 1914-1917",
       "counters": {
         "total": 1680,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["55\"x68\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "55\"x68\""
+        ]
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=SPW109",
@@ -567,16 +619,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Assault Red Horizon 41"
+      "name": "Assault Red Horizon 41",
       "counters": {
         "total": 600,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [18],
-        "dimensions": 
-          ["11\"x15.5\""]
+        "number": [
+          18
+        ],
+        "dimensions": [
+          "11\"x15.5\""
+        ]
       },
       "numberOfScenarios": 15,
       "officialUrl": "https://assault-games.com/eastern-front-2/red-horizon-41-2/",
@@ -592,16 +646,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Salerno '43"
+      "name": "Salerno '43",
       "counters": {
         "total": 192,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x25.5\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x25.5\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.gmtgames.com/p-1136-salerno-43-2nd-printing.aspx",
@@ -617,16 +673,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Arracourt"
+      "name": "Arracourt",
       "counters": {
         "total": 352,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://mmpgamers.com/arracourt-p-342",
@@ -642,16 +700,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Donnerschlag: Escape from Stalingrad"
+      "name": "Donnerschlag: Escape from Stalingrad",
       "counters": {
         "total": 184,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://vucasimulations.com/products/donnerschlag-escape-from-stalingrad?_pos=2&_psq=donnerschlag&_ss=e&_v=1.0",
@@ -667,16 +727,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Old School Tactical Volume 3: The Pacific War 1942/45"
+      "name": "Old School Tactical Volume 3: The Pacific War 1942/45",
       "counters": {
         "total": 432,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["30\"x41\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "30\"x41\""
+        ]
       },
       "numberOfScenarios": 16,
       "officialUrl": "https://flyingpiggames.com/shop/ols/products/old-school-tactical-v3pacific-war-194245",
@@ -692,16 +754,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Stalingrad '42: Southern Russia, June-December, 1942"
+      "name": "Stalingrad '42: Southern Russia, June-December, 1942",
       "counters": {
         "total": 576,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["43.5\"x48\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "43.5\"x48\""
+        ]
       },
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-1014-stalingrad-42-2nd-edition.aspx",
@@ -717,16 +781,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "The Dark Sands: War in North Africa, 1940-42"
+      "name": "The Dark Sands: War in North Africa, 1940-42",
       "counters": {
         "total": 264,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x62\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x62\""
+        ]
       },
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-509-the-dark-sands.aspx",
@@ -742,16 +808,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Demyansk Shield: the Frozen Fortress, February-May 1942"
+      "name": "Demyansk Shield: the Frozen Fortress, February-May 1942",
       "counters": {
         "total": 352,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 3,
       "officialUrl": "https://www.legionwargames.com/legion_DMS.html",
@@ -767,16 +835,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Saipan: The Bloody Rock"
+      "name": "Saipan: The Bloody Rock",
       "counters": {
         "total": 819,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["34\"x44\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "34\"x44\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "",
@@ -792,16 +862,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "The Scheldt Campaign"
+      "name": "The Scheldt Campaign",
       "counters": {
         "total": 264,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["11\"x25.5\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "11\"x25.5\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://hollandspiele.com/products/the-scheldt-campaign",
@@ -817,16 +889,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Combat Commander: Europe"
+      "name": "Combat Commander: Europe",
       "counters": {
         "total": 632,
         "size": "1/2\" & 5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [12],
-        "dimensions": 
-          ["17\"x22\""]
+        "number": [
+          12
+        ],
+        "dimensions": [
+          "17\"x22\""
+        ]
       },
       "numberOfScenarios": 12,
       "officialUrl": "https://www.gmtgames.com/p-928-combat-commander-europe-5th-printing.aspx",
@@ -842,16 +916,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Unconditional Surrender! World War 2 in Europe"
+      "name": "Unconditional Surrender! World War 2 in Europe",
       "counters": {
         "total": 840,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["44\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "44\"x34\""
+        ]
       },
       "numberOfScenarios": 16,
       "officialUrl": "https://www.gmtgames.com/p-885-unconditional-surrender-3rd-printing.aspx",
@@ -867,16 +943,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Empire of the Sun: The Pacific War 1941-1945"
+      "name": "Empire of the Sun: The Pacific War 1941-1945",
       "counters": {
         "total": 368,
         "size": "9/16\" & 5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://www.gmtgames.com/p-1114-empire-of-the-sun-5th-printing.aspx",
@@ -892,16 +970,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Streets of Stalingrad (Third Edition)"
+      "name": "Streets of Stalingrad (Third Edition)",
       "counters": {
         "total": 2304,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["38\"x72\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "38\"x72\""
+        ]
       },
       "numberOfScenarios": 8,
       "officialUrl": "",
@@ -917,16 +997,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Nations at War: White Star Rising"
+      "name": "Nations at War: White Star Rising",
       "counters": {
         "total": 350,
         "size": "3/4\""
       },
       "numberOfMaps": {
-        "number": 
-          [4],
-        "dimensions": 
-          ["11\"x17\""]
+        "number": [
+          4
+        ],
+        "dimensions": [
+          "11\"x17\""
+        ]
       },
       "numberOfScenarios": 21,
       "officialUrl": "https://store.lnlpublishing.com/naw-white-star-rising-2nd-edition-upgraded-llp312841",
@@ -942,16 +1024,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Ardennes '44: The Battle of the Bulge"
+      "name": "Ardennes '44: The Battle of the Bulge",
       "counters": {
         "total": 570,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["44\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "44\"x34\""
+        ]
       },
       "numberOfScenarios": 3,
       "officialUrl": "https://www.gmtgames.com/p-987-ardennes-44-4th-edition.aspx",
@@ -967,16 +1051,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Rise and Decline of the Third Reich"
+      "name": "Rise and Decline of the Third Reich",
       "counters": {
         "total": 560,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x60\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x60\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "",
@@ -992,16 +1078,18 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "The Greatest Day: Sword, Juno, and Gold Beaches"
+      "name": "The Greatest Day: Sword, Juno, and Gold Beaches",
       "counters": {
         "total": 2816,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["44\"x68\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "44\"x68\""
+        ]
       },
       "numberOfScenarios": 18,
       "officialUrl": "https://mmpgamers.com/the-greatest-day-sword-juno-and-gold-p-105",
@@ -1017,16 +1105,18 @@
       "Vietnam"
     ],
     "manual_data": {
-      "name": "Front Toward Enemy"
+      "name": "Front Toward Enemy",
       "counters": {
         "total": 528,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["44\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "44\"x34\""
+        ]
       },
       "numberOfScenarios": 8,
       "officialUrl": "https://mmpgamers.com/front-toward-enemy-p-7",
@@ -1042,16 +1132,18 @@
       "Vietnam"
     ],
     "manual_data": {
-      "name": "Vietnam: 1965-1975, GMT Edition"
+      "name": "Vietnam: 1965-1975, GMT Edition",
       "counters": {
         "total": 780,
         "size": "1/2\" & 9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["66\"x40\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "66\"x40\""
+        ]
       },
       "numberOfScenarios": 12,
       "officialUrl": "https://www.gmtgames.com/p-911-vietnam-1965-1975-gmt-edition.aspx",
@@ -1067,16 +1159,18 @@
       "Modern"
     ],
     "manual_data": {
-      "name": "Armageddon War: Platoon Level Combat in the End War"
+      "name": "Armageddon War: Platoon Level Combat in the End War",
       "counters": {
         "total": 288,
         "size": "1\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["44\"x33\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "44\"x33\""
+        ]
       },
       "numberOfScenarios": 16,
       "officialUrl": "https://flyingpiggames.com/shop/ols/products/armageddon-war",
@@ -1092,16 +1186,18 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "Combat! Volume 1"
+      "name": "Combat! Volume 1",
       "counters": {
         "total": 800,
         "size": "5/8\" & 1\""
       },
       "numberOfMaps": {
-        "number": 
-          [4],
-        "dimensions": 
-          ["25\"x38\""]
+        "number": [
+          4
+        ],
+        "dimensions": [
+          "25\"x38\""
+        ]
       },
       "numberOfScenarios": 14,
       "officialUrl": "https://www.compassgames.com/product/combat/",
@@ -1117,16 +1213,18 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "D-Day at Omaha Beach"
+      "name": "D-Day at Omaha Beach",
       "counters": {
         "total": 352,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1018%2D23",
@@ -1142,16 +1240,18 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "D-Day at Tarawa"
+      "name": "D-Day at Tarawa",
       "counters": {
         "total": 352,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1025",
@@ -1167,16 +1267,18 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "Tokyo Express: The Guadalcanal Naval Campaign: 1942"
+      "name": "Tokyo Express: The Guadalcanal Naval Campaign: 1942",
       "counters": {
         "total": 676,
         "size": "1/2\" & 3/4\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x32\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x32\""
+        ]
       },
       "numberOfScenarios": 11,
       "officialUrl": "",
@@ -1192,16 +1294,18 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "Raid on St. Nazaire"
+      "name": "Raid on St. Nazaire",
       "counters": {
         "total": 260,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["16\"x33\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "16\"x33\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "",
@@ -1217,16 +1321,18 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "Stalingrad: Advance to the Volga, 1942"
+      "name": "Stalingrad: Advance to the Volga, 1942",
       "counters": {
         "total": 176,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["17\"x22\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "17\"x22\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.revolutiongames.us/Stalingrad.html",
@@ -1242,16 +1348,18 @@
       "Solo"
     ],
     "manual_data": {
-      "name": "The MOG: Mogadishu 1993"
+      "name": "The MOG: Mogadishu 1993",
       "counters": {
         "total": 88,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["17\"x22\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "17\"x22\""
+        ]
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://www.whitedoggames.com/mogadishu",
@@ -1267,16 +1375,18 @@
       "3 Player"
     ],
     "manual_data": {
-      "name": "Brotherhood & Unity"
+      "name": "Brotherhood & Unity",
       "counters": {
         "total": 260,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.compassgames.com/product/brotherhood-unity/",
@@ -1292,16 +1402,18 @@
       "3 Player"
     ],
     "manual_data": {
-      "name": "Churchill"
+      "name": "Churchill",
       "counters": {
         "total": 176,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 3,
       "officialUrl": "https://www.gmtgames.com/p-719-churchill-3rd-printing.aspx",
@@ -1317,16 +1429,18 @@
       "3 Player"
     ],
     "manual_data": {
-      "name": "Cataclysm: A Second World War"
+      "name": "Cataclysm: A Second World War",
       "counters": {
         "total": 456,
         "size": "9/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["17\"x22\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "17\"x22\""
+        ]
       },
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-902-cataclysm.aspx",
@@ -1342,16 +1456,18 @@
       "3 Player"
     ],
     "manual_data": {
-      "name": "Conquest & Consequence"
+      "name": "Conquest & Consequence",
       "counters": {
         "total": 352,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://www.gmtgames.com/p-840-conquest-and-consequence.aspx",
@@ -1367,16 +1483,18 @@
       "3 Player"
     ],
     "manual_data": {
-      "name": "Triumph & Tragedy: European Balance of Power 1936-1945"
+      "name": "Triumph & Tragedy: European Balance of Power 1936-1945",
       "counters": {
         "total": 208,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://www.gmtgames.com/p-722-triumph-and-tragedy-3rd-printing.aspx",
@@ -1392,16 +1510,18 @@
       "American Revolution"
     ],
     "manual_data": {
-      "name": "The Battle of Monmouth"
+      "name": "The Battle of Monmouth",
       "counters": {
         "total": 176,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://www.gmtgames.com/p-110-monmouth.aspx",
@@ -1417,16 +1537,18 @@
       "American Revolution"
     ],
     "manual_data": {
-      "name": "End of Empire: 1744-1782"
+      "name": "End of Empire: 1744-1782",
       "counters": {
         "total": 792,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x68\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x68\""
+        ]
       },
       "numberOfScenarios": 15,
       "officialUrl": "https://www.compassgames.com/product/end-of-empire-1744-1782-deluxe-edition-pay-later/",
@@ -1442,16 +1564,18 @@
       "American Revolution"
     ],
     "manual_data": {
-      "name": "Washington's Crossing"
+      "name": "Washington's Crossing",
       "counters": {
         "total": 200,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 2,
       "officialUrl": "https://www.revolutiongames.us/WC_info.html",
@@ -1467,16 +1591,18 @@
       "American Revolution"
     ],
     "manual_data": {
-      "name": "Liberty: The American Revolution 1775-83"
+      "name": "Liberty: The American Revolution 1775-83",
       "counters": {
         "total": 50,
         "size": "13/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["11\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "11\"x34\""
+        ]
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=3021",
@@ -1492,16 +1618,18 @@
       "Age of Sail"
     ],
     "manual_data": {
-      "name": "Wooden Ships & Iron Men"
+      "name": "Wooden Ships & Iron Men",
       "counters": {
         "total": 180,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [2],
-        "dimensions": 
-          ["22\"x28\""]
+        "number": [
+          2
+        ],
+        "dimensions": [
+          "22\"x28\""
+        ]
       },
       "numberOfScenarios": 23,
       "officialUrl": "",
@@ -1517,16 +1645,18 @@
       "Age of Sail"
     ],
     "manual_data": {
-      "name": "Captain's Sea"
+      "name": "Captain's Sea",
       "counters": {
         "total": 84,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 10,
       "officialUrl": "https://legion-wargames2.mybigcommerce.com/captains-sea/",
@@ -1542,16 +1672,18 @@
       "Ancient"
     ],
     "manual_data": {
-      "name": "The Great Battles of Alexander, Deluxe Edition"
+      "name": "The Great Battles of Alexander, Deluxe Edition",
       "counters": {
         "total": 763,
         "size": "1/2\""
       },
       "numberOfMaps": {
-        "number": 
-          [3],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          3
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 3,
       "officialUrl": "https://www.gmtgames.com/p-770-great-battles-of-alexander-expanded-deluxe-edition-2nd-printing.aspx",
@@ -1567,16 +1699,18 @@
       "Ancient"
     ],
     "manual_data": {
-      "name": "SPQR, Deluxe 5th Edition"
+      "name": "SPQR, Deluxe 5th Edition",
       "counters": {
         "total": 968,
         "size": "5/8\""
       },
       "numberOfMaps": {
-        "number": 
-          [6],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          6
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 14,
       "officialUrl": "https://www.gmtgames.com/p-1118-spqr-deluxe-5th-edition.aspx",
@@ -1592,16 +1726,18 @@
       "Ancient"
     ],
     "manual_data": {
-      "name": "Iliad: The Siege of Troy"
+      "name": "Iliad: The Siege of Troy",
       "counters": {
         "total": 51,
         "size": "5/16\""
       },
       "numberOfMaps": {
-        "number": 
-          [1],
-        "dimensions": 
-          ["22\"x34\""]
+        "number": [
+          1
+        ],
+        "dimensions": [
+          "22\"x34\""
+        ]
       },
       "numberOfScenarios": 1,
       "officialUrl": "",
