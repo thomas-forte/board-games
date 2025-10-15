@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
 import type { Game } from "../../types/game";
+import { GameRatingComplexityText } from "./GameRatingComplexityText";
 
 type ComplexityRating = "good" | "medium" | "bad" | undefined;
 
@@ -32,10 +33,7 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
         }`}
       >
         {complexityRating === "good" && (
-          <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
-            {game.complexityRating.toFixed(2)}
-            <span className="text-[.625rem] leading-[.625rem]">/5</span>
-          </div>
+          <GameRatingComplexityText complexityRating={game.complexityRating} />
         )}
       </div>
       <div
@@ -44,10 +42,7 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
         }`}
       >
         {complexityRating === "medium" && (
-          <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
-            {game.complexityRating.toFixed(2)}
-            <span className="text-[.625rem] leading-[.625rem]">/5</span>
-          </div>
+          <GameRatingComplexityText complexityRating={game.complexityRating} />
         )}
       </div>
       <div
@@ -56,10 +51,7 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
         }`}
       >
         {complexityRating === "bad" && (
-          <div className="relative top-[150%] text-center text-[1rem] leading-[1rem]">
-            {game.complexityRating.toFixed(2)}
-            <span className="text-[.625rem] leading-[.625rem]">/5</span>
-          </div>
+          <GameRatingComplexityText complexityRating={game.complexityRating} />
         )}
       </div>
     </div>
