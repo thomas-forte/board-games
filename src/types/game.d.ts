@@ -30,8 +30,8 @@ export interface Game {
     max?: number;
   };
   maps?: {
-    length: number;
-    width: number;
+    size: string;
+    count: number;
   }[];
   scenarios?: number;
 }
