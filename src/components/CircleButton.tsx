@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router";
+import { CapitalizedText } from "./Capitalize";
 
 export const CircleButton = ({
   className,
@@ -86,9 +87,9 @@ export const CircleButton = ({
       </svg>
       <span
         onClick={() => to && navigate(to)}
-        className="first-letter:text-[1.25em] uppercase mt-2 text-sm font-lato font-normal text-center cursor-pointer"
+        className="uppercase mt-2 text-sm font-lato font-normal text-center cursor-pointer"
       >
-        {text}
+        <CapitalizedText text={text} />
       </span>
     </div>
   );
