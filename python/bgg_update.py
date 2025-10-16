@@ -1,98 +1,78 @@
 import json
-import uuid
-from datetime import datetime
+from datetime import datetime, time
+import logging
 
 from boardgamegeek import BGGClient
+from tags import load_tags
+from fmt_bgg import (
+    add_name_to_manual_data,
+    format_game_data,
+    add_manual_data_to_game_data,
+)
 
 """
 This script updates the bggLastUpdate field in the scrape_list.json file.
 """
 
-# Gather tags from tags.json
-with open("tags.json", "r") as file:
-    tags = json.load(file)
-
-# Format tags
-tags_data = []
-for index, tag in enumerate(tags):
-    tags_data.append(
-        {"position": index, "name": tag, "tag": tag.lower().replace(" ", "_")}
-    )
-
-# Write tags to src/assets/tags.json
-with open("../src/assets/tags.json", "w") as file:
-    json.dump(tags_data, file)
+CHUNK_SIZE = 20
+NOW = datetime.now()
 
 
-# Gather scrape_list.json
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+
+load_tags()
+
+
+logger.info("Loading scrape_list.json")
 with open("scrape_list.json", "r") as file:
     scrape_list = json.load(file)
+logger.info(f"Loaded {len(scrape_list)} games from scrape_list.json")
 
-# Break scrape_list.json into chunks as needed for BGG API
-CHUNK_SIZE = 20
+logger.info("Filtering scrape_list.json to only include games with a boardGameGeekId")
+scrape_list = [game for game in scrape_list if game.get("boardGameGeekId")]
+logger.info(f"Filtered to {len(scrape_list)} games with a boardGameGeekId")
+
 bgg_chunks = [
     scrape_list[i : i + CHUNK_SIZE] for i in range(0, len(scrape_list), CHUNK_SIZE)
 ]
+logger.info(f"Broken into {len(bgg_chunks)} chunks of max {CHUNK_SIZE} games")
 
-# Initialize variables
+
 bgg = BGGClient()
+logger.info("Initialized BGGClient")
+
 data = []
-now = datetime.now()
-
-# Loop through chunks and format data
 for bgg_chunk in bgg_chunks:
-    game_list = [
-        game.get("boardGameGeekId") for game in bgg_chunk if game.get("boardGameGeekId")
-    ]
-    games = bgg.game_list(game_list)
-    for game in games:
 
-        # find the index of the game in scrape_list.json
+    game_list = [game.get("boardGameGeekId") for game in bgg_chunk]
+
+    logger.info(f"Fetching {len(game_list)} games from BGG")
+    start_time = time.time()
+    results = bgg.game_list(game_list)
+    logger.info(f"Fetched {len(results)} games in {time.time() - start_time} s")
+
+    for bgg_game in results:
+
         scrape_list_index = next(
             i
             for i, item in enumerate(scrape_list)
-            if item.get("boardGameGeekId") == str(game.id)
+            if item.get("boardGameGeekId") == str(bgg_game.id)
         )
 
-        # update the bggLastUpdate field for updating the scrape_list.json
-        scrape_list[scrape_list_index]["bggLastUpdate"] = now.isoformat()
+        logger.info(f"Updating bggLastUpdate for game {bgg_game.id}")
+        scrape_list[scrape_list_index]["bggLastUpdate"] = NOW.isoformat()
 
-        # update the manual_data field for updating the scrape_list.json
-        if hasattr(scrape_list[scrape_list_index], "manual_data"):
-            if "name" not in scrape_list[scrape_list_index]["manual_data"]:
-                scrape_list[scrape_list_index]["manual_data"]["name"] = game.name
-        else:
-            scrape_list[scrape_list_index]["manual_data"] = {
-                "name": game.name,
-            }
+        add_name_to_manual_data(scrape_list[scrape_list_index], bgg_game)
 
-        # format data for src/assets/scraped.json
-        suggested_players = {
-            k: i.get("best_rating")
-            for k, i in game.suggested_players.get("results").items()
-        }
-        data.append(
-            {
-                "id": str(uuid.uuid1(node=game.id)),
-                "name": game.name,
-                "publishers": game.publishers,
-                "releaseYear": game.year,
-                "bggRating": game.rating_average,
-                "players": {
-                    "min": game.minplayers,
-                    "max": game.maxplayers,
-                    "best": max(suggested_players.items(), key=lambda i: i[1])[0],
-                },
-                "playtime": {
-                    "min": game.minplaytime,
-                    "max": game.maxplaytime,
-                },
-                "complexityRating": game.rating_average_weight,
-                "bggUrl": f"https://boardgamegeek.com/boardgame/{game.id}",
-                "nobleKnightUrl": f"https://www.nobleknight.com/P/{scrape_list[scrape_list_index].get('nobleKnightId')}",
-                "tags": scrape_list[scrape_list_index].get("tags"),
-            }
+        formatted_game_data = format_game_data(scrape_list[scrape_list_index], bgg_game)
+
+        add_manual_data_to_game_data(
+            formatted_game_data, scrape_list[scrape_list_index]
         )
+
+        data.append(formatted_game_data)
 
 # Write scrape_list.json
 with open("scrape_list.json", "w") as file:
