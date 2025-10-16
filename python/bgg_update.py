@@ -1,6 +1,7 @@
 import json
-from datetime import datetime, time
+from datetime import datetime
 import logging
+import time
 
 from boardgamegeek import BGGClient
 from tags import load_tags
