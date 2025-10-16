@@ -5,6 +5,7 @@ import type { Game } from "../types/game";
 
 import { Card } from "../components/Card";
 import { CircleButton } from "../components/CircleButton";
+import { CapitalizedText } from "../components/Capitalize";
 
 import gamesData from "../assets/scraped.json";
 import tagsData from "../assets/tags.json";
@@ -23,7 +24,7 @@ export const CategoryPage = () => {
   return (
     <>
       <h1 className="text-[4rem] font-semibold font-oswald text-primary uppercase text-center mt-8">
-        {tag.name}
+        <CapitalizedText text={tag.name} />
       </h1>
 
       <div className="grid place-items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4 mt-8">

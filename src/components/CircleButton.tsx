@@ -16,15 +16,15 @@ export const CircleButton = ({
 
   return (
     <div className={`p-4 flex flex-col items-center ${className}`}>
-      <svg width="88" height="88" viewBox="0 0 88 88">
+      <svg
+        width="88"
+        height="88"
+        viewBox="0 0 88 88"
+        className="cursor-pointer hover:scale-105 transition-all duration-300"
+        onClick={() => to && navigate(to)}
+      >
         <g filter="url(#filter0_ii_46_851)">
-          <circle
-            cx="44"
-            cy="44"
-            r="44"
-            className="cursor-pointer fill-background hover:fill-primary-hover"
-            onClick={() => to && navigate(to)}
-          />
+          <circle cx="44" cy="44" r="44" className="fill-background" />
         </g>
         {imageUrl && (
           <image href={imageUrl} width="50" height="50" x="19" y="19" />
