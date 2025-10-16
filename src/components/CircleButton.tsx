@@ -20,7 +20,7 @@ export const CircleButton = ({
         width="88"
         height="88"
         viewBox="0 0 88 88"
-        className="cursor-pointer hover:scale-105 transition-all duration-300"
+        className="cursor-pointer hover:scale-110 transition-all duration-300"
         onClick={() => to && navigate(to)}
       >
         <g filter="url(#filter0_ii_46_851)">
