@@ -86,7 +86,7 @@ export const CircleButton = ({
       </svg>
       <span
         onClick={() => to && navigate(to)}
-        className="mt-2 text-sm font-lato font-normal text-center cursor-pointer"
+        className="first-letter:text-[1.25em] uppercase mt-2 text-sm font-lato font-normal text-center cursor-pointer"
       >
         {text}
       </span>
