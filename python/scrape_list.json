@@ -16,7 +16,7 @@
       "numberOfScenarios": 10,
       "officialUrl": "https://www.compassgames.com/product/brothers-at-war-1862/",
       "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BAW_Rules_02-23-21.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 4
       }
@@ -39,7 +39,7 @@
       "numberOfScenarios": 3,
       "officialUrl": "https://stores.revolutiongames.us/the-day-was-ours-boxed-edition/",
       "rulesUrl": "https://www.revolutiongames.us/TheDayWasOurs/TDWO_Exclusive_Rules.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 1
       }
@@ -62,7 +62,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://www.gmtgames.com/p-463-clash-of-giants-civil-war.aspx",
       "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/cogcw/CoG_Living-Rules_Apr2018-Final.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 2
       }
@@ -85,7 +85,7 @@
       "numberOfScenarios": 6,
       "officialUrl": "https://mmpgamers.com/ardennes-ii-p-377",
       "rulesUrl": "https://www.mmpgamers.com/support/gamersarchive/scs/ARD2_Rules.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "34\"x44\"": 1
       }
@@ -108,7 +108,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://vucasims.com/products/traces-of-war",
       "rulesUrl": "https://www.dropbox.com/scl/fi/5xw17wv2i8suhvxuqg18v/ToW_06_Rules.pdf?rlkey=33njzy0435b45qwni517gofce&e=1&dl=0",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "40\"x28\"": 1
       }
@@ -131,7 +131,7 @@
       "numberOfScenarios": 1,
       "officialUrl": "https://www.gmtgames.com/p-938-holland-44-2nd-edition.aspx",
       "rulesUrl": "https://gamers-hq.de/media/pdf/f3/f9/20/HO44-RULES_2024-Final.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 1,
         "8.5\"x22\"": 1
@@ -155,7 +155,7 @@
       "numberOfScenarios": 3,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3003",
       "rulesUrl": "https://gamers-hq.de/media/pdf/86/85/2f/Bx_2020-Battle-For-Germany-Rules-WEB.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 1
       }
@@ -178,7 +178,7 @@
       "numberOfScenarios": 30,
       "officialUrl": "https://www.avalanchepress.com/gameEF.php",
       "rulesUrl": "https://www.avalanchepress.com/SWWRules.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x32\"": 1,
         "11\"x17\"": 1
@@ -202,7 +202,7 @@
       },
       "numberOfScenarios": 1,
       "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/FotTR_Rules_Final_R.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "44\"x34\"": 1
       }
@@ -223,7 +223,7 @@
       "numberOfScenarios": 15,
       "officialUrl": "https://www.gmtgames.com/p-976-commands-colors-napoleonics-5th-printing.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ccn/CCN-Rules_4thEd_2023.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "42\"x34\"": 1
       }
@@ -245,7 +245,7 @@
       "numberOfScenarios": 4,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3008",
       "rulesUrl": "https://gamers-hq.de/media/pdf/7a/98/6b/NLB-Rules-V6F.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 2
       }
@@ -266,7 +266,7 @@
       },
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-825-quatre-bras-1815-last-eagles.aspx",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "24\"x33\"": 2,
         "9\"x33\"": 2
@@ -287,7 +287,7 @@
         "size": "1/2\""
       },
       "numberOfScenarios": 1,
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "27\"x38\"": 1
       }
@@ -309,7 +309,7 @@
       "numberOfScenarios": 4,
       "officialUrl": "https://www.gmtgames.com/p-1165-the-us-civil-war-3rd-printing.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/USCW/TUSCW_RULES_2021-Final.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "30\"x44\"": 1
       }
@@ -330,7 +330,7 @@
       },
       "numberOfScenarios": 4,
       "rulesUrl": "http://www.wargameacademy.org/archives/CVW/CVW-Rulebook-WGA-3rd-110427.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x64\"": 2
       }
@@ -352,7 +352,7 @@
       "numberOfScenarios": 13,
       "officialUrl": "https://flyingpiggames.com/shop/ols/products/a-most-fearful-sacrifice-2nd-edition-reprint",
       "rulesUrl": "https://www.dropbox.com/scl/fi/pq7g8e12wt5szl0ub0ut4/A-Most-Fearful-Sacrifice-Rules_LAST_2ndEd_PNP.pdf?rlkey=4yiehzrbojqirwdsp44a3xhju&e=1&st=d2l7tqeg&dl=0",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "60\"x41\"": 2
       }
@@ -373,7 +373,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://www.columbiagames.com/cgi-bin/query/cfg/zoom-retailer.cfg?product_id=3322",
       "rulesUrl": "https://columbiagames.com/resources/3322/3322-shilohrules.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 1
       }
@@ -395,7 +395,7 @@
       "numberOfScenarios": 9,
       "officialUrl": "https://www.compassgames.com/product/balance-of-powers/",
       "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/BoP_Living_Rules_10_Jan_2017.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 3
       }
@@ -417,7 +417,7 @@
       "numberOfScenarios": 1,
       "officialUrl": "https://www.compassgames.com/product/death-in-the-trenches/",
       "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/DITT+LIVING+RULES.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 1,
         "8.5\"x11\"": 1
@@ -440,7 +440,7 @@
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-113-the-great-war-in-europe-deluxe-edition.aspx",
       "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/GWiE_rules%283-4-09%29.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 3
       }
@@ -462,7 +462,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://www.gmtgames.com/p-68-clash-of-giants-ii.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/living_rules/CoGII_Rules.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 2
       }
@@ -483,7 +483,7 @@
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=SPW109",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "55\"x68\"": 1
       }
@@ -505,7 +505,7 @@
       "numberOfScenarios": 15,
       "officialUrl": "https://assault-games.com/eastern-front-2/red-horizon-41-2/",
       "rulesUrl": "https://assault-games.com/wp-content/uploads/2022/12/PN008_Assault_rulebook_v1.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "11\"x15.5\"": 18
       }
@@ -527,7 +527,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://www.gmtgames.com/p-1136-salerno-43-2nd-printing.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Salerno43/SalernoRules-LR_Aug2022.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x25.5\"": 1
       }
@@ -549,7 +549,7 @@
       "numberOfScenarios": 6,
       "officialUrl": "https://mmpgamers.com/arracourt-p-342",
       "rulesUrl": "https://mmpgamers.com/support/gamersarchive/bcs/ArracourtRules.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 1
       }
@@ -571,7 +571,7 @@
       "numberOfScenarios": 1,
       "officialUrl": "https://vucasimulations.com/products/donnerschlag-escape-from-stalingrad?_pos=2&_psq=donnerschlag&_ss=e&_v=1.0",
       "rulesUrl": "https://www.dropbox.com/scl/fo/ronelqt1jqhhzx6pphd2j/APfjCCAl3smTMQFHXGyL7gU/DS_Rulebook_July_2023_Living_Rules_E.pdf?rlkey=12otmwy1ljh5m1297bxwe20jx&e=1&dl=0",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 1
       }
@@ -585,7 +585,7 @@
       "WWII"
     ],
     "manual_data": {
-      "name": "Old School Tactical Volume 3: The Pacific War 1942/45",
+      "name": "Old School tactical Volume 3: The Pacific War 1942/45",
       "counters": {
         "total": 432,
         "size": "5/8\""
@@ -593,7 +593,7 @@
       "numberOfScenarios": 16,
       "officialUrl": "https://flyingpiggames.com/shop/ols/products/old-school-tactical-v3pacific-war-194245",
       "rulesUrl": "https://gamers-hq.de/media/pdf/9c/ac/1b/OST-Rules-5-6-copy.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "30\"x41\"": 1
       }
@@ -615,7 +615,7 @@
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-1014-stalingrad-42-2nd-edition.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Stalingrad42/Stal42+RULES-FINAL_v2.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "43.5\"x48\"": 1
       }
@@ -637,7 +637,7 @@
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-509-the-dark-sands.aspx",
       "rulesUrl": "https://s3.us-west-2.amazonaws.com/gmtwebsiteassets/darksands/DS_Rules_FINAL.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x62\"": 1
       }
@@ -659,7 +659,7 @@
       "numberOfScenarios": 3,
       "officialUrl": "https://www.legionwargames.com/legion_DMS.html",
       "rulesUrl": "https://khybergames.com/legionwargames/docs/DMS_rules_final_print_17.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 1
       }
@@ -679,7 +679,7 @@
         "size": "5/8\""
       },
       "numberOfScenarios": 4,
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "34\"x44\"": 1
       }
@@ -700,7 +700,7 @@
       },
       "numberOfScenarios": 1,
       "officialUrl": "https://hollandspiele.com/products/the-scheldt-campaign",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "11\"x25.5\"": 1
       }
@@ -722,7 +722,7 @@
       "numberOfScenarios": 12,
       "officialUrl": "https://www.gmtgames.com/p-928-combat-commander-europe-5th-printing.aspx",
       "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/CC_Rulebook_v1.1.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "17\"x22\"": 12
       }
@@ -744,7 +744,7 @@
       "numberOfScenarios": 16,
       "officialUrl": "https://www.gmtgames.com/p-885-unconditional-surrender-3rd-printing.aspx",
       "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/us/USE2RulebookGMT2017-09.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "44\"x34\"": 1
       }
@@ -766,7 +766,7 @@
       "numberOfScenarios": 4,
       "officialUrl": "https://www.gmtgames.com/p-1114-empire-of-the-sun-5th-printing.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/EOTS_Rules-2021-LR.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 1
       }
@@ -786,7 +786,7 @@
         "size": "5/8\""
       },
       "numberOfScenarios": 8,
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "38\"x72\"": 1
       }
@@ -808,7 +808,7 @@
       "numberOfScenarios": 21,
       "officialUrl": "https://store.lnlpublishing.com/naw-white-star-rising-2nd-edition-upgraded-llp312841",
       "rulesUrl": "https://library.lnlpublishing.com/books/ggyn/#p=1",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "11\"x17\"": 4
       }
@@ -830,7 +830,7 @@
       "numberOfScenarios": 3,
       "officialUrl": "https://www.gmtgames.com/p-987-ardennes-44-4th-edition.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/nna4/A44+Rules-LR-Dec16-2020-1.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "44\"x34\"": 1
       }
@@ -851,7 +851,7 @@
       },
       "numberOfScenarios": 4,
       "rulesUrl": "http://www.wargameacademy.org/3R4/3R4-rulebook-070908.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x60\"": 1
       }
@@ -873,7 +873,7 @@
       "numberOfScenarios": 18,
       "officialUrl": "https://mmpgamers.com/the-greatest-day-sword-juno-and-gold-p-105",
       "rulesUrl": "https://mmpgamers.com/support/gts/TGD_Exclusive_Rules_2.0.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "44\"x68\"": 1
       }
@@ -895,7 +895,7 @@
       "numberOfScenarios": 8,
       "officialUrl": "https://mmpgamers.com/front-toward-enemy-p-7",
       "rulesUrl": "https://mmpgamers.com/support/other/FTE_Rules.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "44\"x34\"": 1
       }
@@ -917,7 +917,7 @@
       "numberOfScenarios": 12,
       "officialUrl": "https://www.gmtgames.com/p-911-vietnam-1965-1975-gmt-edition.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Vietnam/GMT_Vietnam_livingrules_v3.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "66\"x40\"": 1
       }
@@ -939,7 +939,7 @@
       "numberOfScenarios": 16,
       "officialUrl": "https://flyingpiggames.com/shop/ols/products/armageddon-war",
       "rulesUrl": "https://www.dropbox.com/scl/fi/kl5tt5asw7h9zwz7du53r/GeddonWar-2nd-printing.pdf?rlkey=15h1dookld81jh2xiqro9bv0d&e=1&st=87qtsomn&dl=0",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "44\"x33\"": 1
       }
@@ -961,7 +961,7 @@
       "numberOfScenarios": 14,
       "officialUrl": "https://www.compassgames.com/product/combat/",
       "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/Combat-2nd-Printing-Rules-print-ready-v4a+(1).pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "25\"x38\"": 4
       }
@@ -983,7 +983,7 @@
       "numberOfScenarios": 4,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1018%2D23",
       "rulesUrl": "https://gamers-hq.de/media/pdf/08/a8/e0/DDOB-Rules-Color_V5F.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1004,7 +1004,7 @@
       },
       "numberOfScenarios": 4,
       "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1025",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1024,7 +1024,7 @@
         "size": "1/2\" & 3/4\""
       },
       "numberOfScenarios": 11,
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x32\"": 1
       }
@@ -1044,7 +1044,7 @@
         "size": "1/2\""
       },
       "numberOfScenarios": 1,
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "16\"x33\"": 1
       }
@@ -1066,7 +1066,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://www.revolutiongames.us/Stalingrad.html",
       "rulesUrl": "https://www.revolutiongames.us/Stalingrad_ATV/Stalingrad_Rules_reduced_size.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "17\"x22\"": 1
       }
@@ -1087,7 +1087,7 @@
       },
       "numberOfScenarios": 6,
       "officialUrl": "https://www.whitedoggames.com/mogadishu",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "17\"x22\"": 1
       }
@@ -1109,7 +1109,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://www.compassgames.com/product/brotherhood-unity/",
       "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BrotherhoodUnity_rulebook.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1131,7 +1131,7 @@
       "numberOfScenarios": 3,
       "officialUrl": "https://www.gmtgames.com/p-719-churchill-3rd-printing.aspx",
       "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/churchill/Churchill_Rules2ndEd.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 2
       }
@@ -1153,7 +1153,7 @@
       "numberOfScenarios": 5,
       "officialUrl": "https://www.gmtgames.com/p-902-cataclysm.aspx",
       "rulesUrl": "https://www.goblins.net/files/downloads/cataclysm_rulebook_04-2022_eng.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "17\"x22\"": 2
       }
@@ -1175,7 +1175,7 @@
       "numberOfScenarios": 1,
       "officialUrl": "https://www.gmtgames.com/p-840-conquest-and-consequence.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ConquestAndConsequence/Conquest%26Consequence_Rulebook_v1.1e.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1197,7 +1197,7 @@
       "numberOfScenarios": 1,
       "officialUrl": "https://www.gmtgames.com/p-722-triumph-and-tragedy-3rd-printing.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/triumphtragedy/TnT3rdEdRulesFinal.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1219,7 +1219,7 @@
       "numberOfScenarios": 4,
       "officialUrl": "https://www.gmtgames.com/p-110-monmouth.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/armonm/Monmouth_playbook.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1241,7 +1241,7 @@
       "numberOfScenarios": 15,
       "officialUrl": "https://www.compassgames.com/product/end-of-empire-1744-1782-deluxe-edition-pay-later/",
       "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/EoE-Rules.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x68\"": 1
       }
@@ -1263,7 +1263,7 @@
       "numberOfScenarios": 2,
       "officialUrl": "https://www.revolutiongames.us/WC_info.html",
       "rulesUrl": "https://www.revolutiongames.us/WC/Washingtons_Crossing_Rules_final.pdf",
-      "warfareScale": "Operational",
+      "warfareScale": "operational",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1285,7 +1285,7 @@
       "numberOfScenarios": 4,
       "officialUrl": "https://columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=3021",
       "rulesUrl": "https://columbiagames.com/resources/3021/libertyrules1.02.pdf",
-      "warfareScale": "Strategic",
+      "warfareScale": "strategic",
       "maps": {
         "11\"x34\"": 1
       }
@@ -1306,7 +1306,7 @@
       },
       "numberOfScenarios": 23,
       "rulesUrl": "https://www.scribd.com/document/339876561/Wooden-Ship-and-Iron-Men-Manual",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x28\"": 2
       }
@@ -1328,7 +1328,7 @@
       "numberOfScenarios": 10,
       "officialUrl": "https://legion-wargames2.mybigcommerce.com/captains-sea/",
       "rulesUrl": "https://khybergames.com/legionwargames/docs/Cap%20Rules%20Booklet%2016pp%20PRINT.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 1
       }
@@ -1350,7 +1350,7 @@
       "numberOfScenarios": 3,
       "officialUrl": "https://www.gmtgames.com/p-770-great-battles-of-alexander-expanded-deluxe-edition-2nd-printing.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbad/Deluxe_Alexander_6th_Edition_Rules.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 3
       }
@@ -1372,7 +1372,7 @@
       "numberOfScenarios": 14,
       "officialUrl": "https://www.gmtgames.com/p-1118-spqr-deluxe-5th-edition.aspx",
       "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbsp/SPQR_4thEdition_Living_Rules_Draft_Oct2022.pdf",
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 6
       }
@@ -1392,7 +1392,7 @@
         "size": "5/16\""
       },
       "numberOfScenarios": 1,
-      "warfareScale": "Tactical",
+      "warfareScale": "tactical",
       "maps": {
         "22\"x34\"": 1
       }
