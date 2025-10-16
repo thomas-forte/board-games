@@ -1,10 +1,12 @@
+import { CapitalizedText } from "../Capitalize";
+
 import type { Game } from "../../types/game";
 
 export const GameTitle = ({ game }: { game: Game }) => {
   return (
     <>
       <h1 className="text-[2rem] font-semibold font-oswald text-primary uppercase text-center mt-8">
-        {game.name}
+        <CapitalizedText text={game.name} />
       </h1>
 
       {game.publishers.length > 0 && (
