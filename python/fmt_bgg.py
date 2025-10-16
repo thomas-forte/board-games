@@ -5,8 +5,8 @@ def add_name_to_manual_data(scrape_list_item: dict, bgg_game: dict) -> None:
     """
     Add the name to the manual data if it is not present
     """
-    if hasattr(scrape_list_item, "manual_data"):
-        if not hasattr(scrape_list_item["manual_data"], "name"):
+    if "manual_data" in scrape_list_item:
+        if not scrape_list_item["manual_data"].get("name"):
             scrape_list_item["manual_data"]["name"] = bgg_game.name
     else:
         scrape_list_item["manual_data"] = {
@@ -77,33 +77,33 @@ def add_manual_data_to_game_data(game_data: dict, scrape_list_item: dict) -> Non
     """
     Add the manual data to the game data
     """
-    if not hasattr(scrape_list_item, "manual_data"):
+    if "manual_data" not in scrape_list_item:
         return
 
-    if hasattr(scrape_list_item["manual_data"], "warfareLevel"):
+    if "warfareLevel" in scrape_list_item["manual_data"]:
         game_data["warfareLevel"] = scrape_list_item["manual_data"]["warfareLevel"]
 
-    if hasattr(scrape_list_item["manual_data"], "officialUrl"):
+    if "officialUrl" in scrape_list_item["manual_data"]:
         game_data["officialUrl"] = scrape_list_item["manual_data"]["officialUrl"]
 
-    if hasattr(scrape_list_item["manual_data"], "rulesUrl"):
+    if "rulesUrl" in scrape_list_item["manual_data"]:
         game_data["rulesUrl"] = scrape_list_item["manual_data"]["rulesUrl"]
 
-    if hasattr(scrape_list_item["manual_data"], "numberOfScenarios"):
+    if "numberOfScenarios" in scrape_list_item["manual_data"]:
         game_data["scenarios"] = scrape_list_item["manual_data"]["numberOfScenarios"]
 
-    if hasattr(scrape_list_item["manual_data"], "counters"):
+    if "counters" in scrape_list_item["manual_data"]:
         game_data["counters"] = {}
-        if hasattr(scrape_list_item["manual_data"]["counters"], "total"):
+        if "total" in scrape_list_item["manual_data"]["counters"]:
             game_data["counters"]["total"] = scrape_list_item["manual_data"][
                 "counters"
             ]["total"]
-        if hasattr(scrape_list_item["manual_data"]["counters"], "size"):
+        if "size" in scrape_list_item["manual_data"]["counters"]:
             game_data["counters"]["size"] = scrape_list_item["manual_data"]["counters"][
                 "size"
             ]
 
-    if hasattr(scrape_list_item["manual_data"], "maps"):
+    if "maps" in scrape_list_item["manual_data"]:
         game_data["maps"] = []
         for map_dimension, map_count in scrape_list_item["manual_data"]["maps"].items():
             game_data["maps"].append(
