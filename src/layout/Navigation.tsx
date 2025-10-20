@@ -25,26 +25,16 @@ const getBackLink = (location: Location) => {
   }
 };
 
-const getCurrentLinkText = (location: Location) => {
-  const [, , tag, game] = location.pathname.split("/");
-  if (game && tag) {
-    return "Details";
-  } else if (tag) {
-    return tag.replaceAll("_", " ");
-  } else {
-    return "Home";
-  }
-};
-
 export const Navigation = () => {
   const location = useLocation();
 
-  return (
-    <nav className="flex justify-between items-center font-lato font-light uppercase text-2xl">
-      {getBackLink(location)}
-      <div className="underline underline-offset-4">
-        {getCurrentLinkText(location)}
-      </div>
-    </nav>
-  );
+  if (location.pathname === "/") {
+    return <></>;
+  } else {
+    return (
+      <nav className="flex justify-between items-center font-lato font-light uppercase text-2xl">
+        {getBackLink(location)}
+      </nav>
+    );
+  }
 };

@@ -1,1 +1,2391 @@
-[{"id": "451d5e0e-aa35-11f0-bb36-00000004ea95", "name": "Brothers at War: 1862", "publishers": ["Compass Games"], "releaseYear": 2022, "bggRating": 8.084, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 60, "max": 240}, "complexityRating": 2.8333, "bggUrl": "https://boardgamegeek.com/boardgame/322197", "nobleKnightUrl": "https://www.nobleknight.com/P/2147841575", "tags": ["American Civil War"], "officialUrl": "https://www.compassgames.com/product/brothers-at-war-1862/", "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BAW_Rules_02-23-21.pdf", "scenarios": 10, "counters": {"total": 748, "size": "5/8\" & 3/4\""}, "maps": [{"size": "22\"x34\"", "count": 4}]}, {"id": "451d614c-aa35-11f0-8306-000000054082", "name": "The Day Was Ours: First Bull Run (July 21, 1861)", "publishers": ["Revolution Games (II)"], "releaseYear": 2021, "bggRating": 8.08742, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 240, "max": 640}, "complexityRating": 3.0, "bggUrl": "https://boardgamegeek.com/boardgame/344194", "nobleKnightUrl": "https://www.nobleknight.com/P/2147935128", "tags": ["American Civil War"], "officialUrl": "https://stores.revolutiongames.us/the-day-was-ours-boxed-edition/", "rulesUrl": "https://www.revolutiongames.us/TheDayWasOurs/TDWO_Exclusive_Rules.pdf", "scenarios": 3, "counters": {"total": 176, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "451d62d2-aa35-11f0-a145-000000024922", "name": "Clash of Giants: Civil War", "publishers": ["GMT Games"], "releaseYear": 2016, "bggRating": 7.03953, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 180, "max": 420}, "complexityRating": 2.25, "bggUrl": "https://boardgamegeek.com/boardgame/149794", "nobleKnightUrl": "https://www.nobleknight.com/P/2147654429", "tags": ["American Civil War"], "officialUrl": "https://www.gmtgames.com/p-463-clash-of-giants-civil-war.aspx", "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/cogcw/CoG_Living-Rules_Apr2018-Final.pdf", "scenarios": 2, "counters": {"total": 264, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 2}]}, {"id": "451d63fe-aa35-11f0-8c14-00000005c42a", "name": "Ardennes II", "publishers": ["Multi-Man Publishing"], "releaseYear": 2023, "bggRating": 7.97778, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 0, "max": 0}, "complexityRating": 2.8571, "bggUrl": "https://boardgamegeek.com/boardgame/377898", "nobleKnightUrl": "https://www.nobleknight.com/P/2148062679", "tags": ["WWII"], "officialUrl": "https://mmpgamers.com/ardennes-ii-p-377", "rulesUrl": "https://www.mmpgamers.com/support/gamersarchive/scs/ARD2_Rules.pdf", "scenarios": 6, "counters": {"total": 560, "size": "1/2\""}, "maps": [{"size": "34\"x44\"", "count": 1}]}, {"id": "451d64f8-aa35-11f0-94fc-00000005c66b", "name": "Traces of War", "publishers": ["VUCA Simulations"], "releaseYear": 2023, "bggRating": 7.87707, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 180, "max": 360}, "complexityRating": 2.5455, "bggUrl": "https://boardgamegeek.com/boardgame/378475", "nobleKnightUrl": "https://www.nobleknight.com/P/2148047339", "tags": ["WWII"], "officialUrl": "https://vucasims.com/products/traces-of-war", "rulesUrl": "https://www.dropbox.com/scl/fi/5xw17wv2i8suhvxuqg18v/ToW_06_Rules.pdf?rlkey=33njzy0435b45qwni517gofce&e=1&dl=0", "scenarios": 2, "counters": {"total": 321, "size": "5/8\""}, "maps": [{"size": "40\"x28\"", "count": 1}]}, {"id": "451d65e8-aa35-11f0-bc98-000000032ad4", "name": "Holland '44: Operation Market-Garden", "publishers": ["GMT Games", "Chrononauts Games", "Ediciones MasQueOca", "NAC Wargames"], "releaseYear": 2017, "bggRating": 8.26749, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 240, "max": 900}, "complexityRating": 3.8529, "bggUrl": "https://boardgamegeek.com/boardgame/207572", "nobleKnightUrl": "https://www.nobleknight.com/P/2148218554", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-938-holland-44-2nd-edition.aspx", "rulesUrl": "https://gamers-hq.de/media/pdf/f3/f9/20/HO44-RULES_2024-Final.pdf", "scenarios": 1, "counters": {"total": 468, "size": "9/16\""}, "maps": [{"size": "22\"x34\"", "count": 1}, {"size": "8.5\"x22\"", "count": 1}]}, {"id": "451d66c4-aa35-11f0-85da-00000004be60", "name": "Battle for Germany: Deluxe Edition", "publishers": ["Decision Games (I)", "Kilovolt Design", "SPI (Simulations Publications, Inc.)"], "releaseYear": 2021, "bggRating": 7.86223, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 180, "max": 240}, "complexityRating": 2.2222, "bggUrl": "https://boardgamegeek.com/boardgame/310880", "nobleKnightUrl": "https://www.nobleknight.com/P/2147855034", "tags": ["WWII"], "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3003", "rulesUrl": "https://gamers-hq.de/media/pdf/86/85/2f/Bx_2020-Battle-For-Germany-Rules-WEB.pdf", "scenarios": 3, "counters": {"total": 228, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "451d67be-aa35-11f0-a562-000000001646", "name": "Second World War at Sea: Eastern Fleet", "publishers": ["Avalanche Press Ltd."], "releaseYear": 2001, "bggRating": 7.2181, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 120, "max": 120}, "complexityRating": 2.7333, "bggUrl": "https://boardgamegeek.com/boardgame/5702", "nobleKnightUrl": "https://www.nobleknight.com/P/2148134627", "tags": ["WWII"], "officialUrl": "https://www.avalanchepress.com/gameEF.php", "rulesUrl": "https://www.avalanchepress.com/SWWRules.pdf", "scenarios": 30, "counters": {"total": 210, "size": "1/2\""}, "maps": [{"size": "22\"x32\"", "count": 1}, {"size": "11\"x17\"", "count": 1}]}, {"id": "451d68a4-aa35-11f0-a963-0000000333c7", "name": "The Fall Of The Third Reich", "publishers": ["Compass Games"], "releaseYear": 2016, "bggRating": 7.63289, "players": {"min": 1, "max": 4, "best": "2"}, "playtime": {"min": 360, "max": 600}, "complexityRating": 3.0, "bggUrl": "https://boardgamegeek.com/boardgame/209863", "nobleKnightUrl": "https://www.nobleknight.com/P/2147658886", "tags": ["WWII", "3 Player"], "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/FotTR_Rules_Final_R.pdf", "scenarios": 1, "counters": {"total": 351, "size": "1/2\""}, "maps": [{"size": "44\"x34\"", "count": 1}]}, {"id": "451d698a-aa35-11f0-a535-00000000f30e", "name": "Commands & Colors: Napoleonics", "publishers": ["Doit Games", "GMT Games"], "releaseYear": 2010, "bggRating": 8.04833, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 90, "max": 90}, "complexityRating": 2.7455, "bggUrl": "https://boardgamegeek.com/boardgame/62222", "nobleKnightUrl": "https://www.nobleknight.com/P/2148086945", "tags": ["Napoleonic"], "officialUrl": "https://www.gmtgames.com/p-976-commands-colors-napoleonics-5th-printing.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ccn/CCN-Rules_4thEd_2023.pdf", "scenarios": 15, "counters": {"total": 340}, "maps": [{"size": "42\"x34\"", "count": 1}]}, {"id": "451d6a66-aa35-11f0-b985-000000001086", "name": "Napoleon's Last Battles", "publishers": ["Decision Games (I)", "Kilovolt Design", "Nike and Cooper Espa\u00f1ola, S.A.", "SPI (Simulations Publications, Inc.)", "Tactical Studies Rules (TSR)", "War Drum Games"], "releaseYear": 1976, "bggRating": 7.26736, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 180, "max": 180}, "complexityRating": 2.3678, "bggUrl": "https://boardgamegeek.com/boardgame/4230", "nobleKnightUrl": "https://www.nobleknight.com/P/2147591624", "tags": ["Napoleonic"], "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3008", "rulesUrl": "https://gamers-hq.de/media/pdf/7a/98/6b/NLB-Rules-V6F.pdf", "scenarios": 4, "counters": {"total": 400, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 2}]}, {"id": "451d6b4c-aa35-11f0-a18b-00000003e11f", "name": "Quatre Bras 1815: Last Eagles", "publishers": ["Hexasim"], "releaseYear": 2019, "bggRating": 8.10873, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 120, "max": 600}, "complexityRating": 3.4545, "bggUrl": "https://boardgamegeek.com/boardgame/254239", "nobleKnightUrl": "https://www.nobleknight.com/P/2147761360", "tags": ["Napoleonic"], "officialUrl": "https://www.gmtgames.com/p-825-quatre-bras-1815-last-eagles.aspx", "scenarios": 5, "counters": {"total": 700, "size": "1/2\""}, "maps": [{"size": "24\"x33\"", "count": 2}, {"size": "9\"x33\"", "count": 2}]}, {"id": "451d6cfa-aa35-11f0-b2fb-000000003f45", "name": "Rivoli 1797", "publishers": ["SIMTAC"], "releaseYear": 1997, "bggRating": 8.13284, "players": {"min": 2, "max": 2, "best": "1"}, "playtime": {"min": 240, "max": 240}, "complexityRating": 3.4, "bggUrl": "https://boardgamegeek.com/boardgame/16197", "nobleKnightUrl": "https://www.nobleknight.com/P/2147347135", "tags": ["Napoleonic"], "scenarios": 1, "counters": {"total": 648, "size": "1/2\""}, "maps": [{"size": "27\"x38\"", "count": 1}]}, {"id": "451d6de0-aa35-11f0-b266-0000000278d9", "name": "The U.S. Civil War", "publishers": ["GMT Games"], "releaseYear": 2015, "bggRating": 8.3115, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 150, "max": 360}, "complexityRating": 3.8636, "bggUrl": "https://boardgamegeek.com/boardgame/162009", "nobleKnightUrl": "https://www.nobleknight.com/P/2147925222", "tags": ["American Civil War"], "officialUrl": "https://www.gmtgames.com/p-1165-the-us-civil-war-3rd-printing.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/USCW/TUSCW_RULES_2021-Final.pdf", "scenarios": 4, "counters": {"total": 576, "size": "9/16\""}, "maps": [{"size": "30\"x44\"", "count": 1}]}, {"id": "451d6ed0-aa35-11f0-81b9-000000000821", "name": "The Civil War 1861-1865", "publishers": ["Victory Games (I)"], "releaseYear": 1983, "bggRating": 7.73009, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 120, "max": 1200}, "complexityRating": 3.7884, "bggUrl": "https://boardgamegeek.com/boardgame/2081", "nobleKnightUrl": "https://www.nobleknight.com/P/10564", "tags": ["American Civil War"], "rulesUrl": "http://www.wargameacademy.org/archives/CVW/CVW-Rulebook-WGA-3rd-110427.pdf", "scenarios": 4, "counters": {"total": 520, "size": "1/2\""}, "maps": [{"size": "22\"x64\"", "count": 2}]}, {"id": "451d6fb6-aa35-11f0-a4c6-000000050581", "name": "A Most Fearful Sacrifice: The Three Days of Gettysburg", "publishers": ["Flying Pig Games", "Tiny Battle Publishing"], "releaseYear": 2022, "bggRating": 8.66887, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 60, "max": 4320}, "complexityRating": 3.1053, "bggUrl": "https://boardgamegeek.com/boardgame/329089", "nobleKnightUrl": "https://www.nobleknight.com/P/2147979579", "tags": ["American Civil War"], "officialUrl": "https://flyingpiggames.com/shop/ols/products/a-most-fearful-sacrifice-2nd-edition-reprint", "rulesUrl": "https://www.dropbox.com/scl/fi/pq7g8e12wt5szl0ub0ut4/A-Most-Fearful-Sacrifice-Rules_LAST_2ndEd_PNP.pdf?rlkey=4yiehzrbojqirwdsp44a3xhju&e=1&st=d2l7tqeg&dl=0", "scenarios": 13, "counters": {"total": 528, "size": "5/8\" & 13/16\""}, "maps": [{"size": "60\"x41\"", "count": 2}]}, {"id": "451d70b0-aa35-11f0-a3ca-000000004dbe", "name": "Shiloh: April Glory", "publishers": ["Columbia Games"], "releaseYear": 2010, "bggRating": 7.10091, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 180, "max": 180}, "complexityRating": 2.5, "bggUrl": "https://boardgamegeek.com/boardgame/19902", "nobleKnightUrl": "https://www.nobleknight.com/P/2147441397", "tags": ["American Civil War"], "officialUrl": "https://www.columbiagames.com/cgi-bin/query/cfg/zoom-retailer.cfg?product_id=3322", "rulesUrl": "https://columbiagames.com/resources/3322/3322-shilohrules.pdf", "scenarios": 2, "counters": {"total": 100}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "451d718c-aa35-11f0-b4f3-0000000264ab", "name": "Balance of Powers", "publishers": ["Compass Games"], "releaseYear": 2015, "bggRating": 7.71402, "players": {"min": 2, "max": 7, "best": "2"}, "playtime": {"min": 120, "max": 1440}, "complexityRating": 3.6364, "bggUrl": "https://boardgamegeek.com/boardgame/156843", "nobleKnightUrl": "https://www.nobleknight.com/P/2147580364", "tags": ["WWI"], "officialUrl": "https://www.compassgames.com/product/balance-of-powers/", "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/BoP_Living_Rules_10_Jan_2017.pdf", "scenarios": 9, "counters": {"total": 900, "size": "9/16\""}, "maps": [{"size": "22\"x34\"", "count": 3}]}, {"id": "451d727c-aa35-11f0-aa72-00000004e23d", "name": "Death in the Trenches: The Great War 1914-1918 (Second Edition)", "publishers": ["Compass Games"], "releaseYear": 2022, "bggRating": 7.61304, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 300, "max": 300}, "complexityRating": 3.6667, "bggUrl": "https://boardgamegeek.com/boardgame/320061", "nobleKnightUrl": "https://www.nobleknight.com/P/2147859951", "tags": ["WWI"], "officialUrl": "https://www.compassgames.com/product/death-in-the-trenches/", "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/DITT+LIVING+RULES.pdf", "scenarios": 1, "counters": {"total": 400, "size": "9/16\""}, "maps": [{"size": "22\"x34\"", "count": 1}, {"size": "8.5\"x11\"", "count": 1}]}, {"id": "451d736c-aa35-11f0-8a64-000000007608", "name": "The Great War in Europe: Deluxe Edition", "publishers": ["GMT Games"], "releaseYear": 2007, "bggRating": 6.99018, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 600, "max": 600}, "complexityRating": 3.62, "bggUrl": "https://boardgamegeek.com/boardgame/30216", "nobleKnightUrl": "https://www.nobleknight.com/P/2147375414", "tags": ["WWI"], "officialUrl": "https://www.gmtgames.com/p-113-the-great-war-in-europe-deluxe-edition.aspx", "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/GWiE_rules%283-4-09%29.pdf", "scenarios": 5, "counters": {"total": 1500, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 3}]}, {"id": "467159d6-aa35-11f0-ae02-00000000358d", "name": "Clash of Giants II: 1st Ypres & Galicia 1914", "publishers": ["GMT Games"], "releaseYear": 2006, "bggRating": 7.11155, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 300, "max": 300}, "complexityRating": 2.3607, "bggUrl": "https://boardgamegeek.com/boardgame/13709", "nobleKnightUrl": "https://www.nobleknight.com/P/2147367662", "tags": ["WWI"], "officialUrl": "https://www.gmtgames.com/p-68-clash-of-giants-ii.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/living_rules/CoGII_Rules.pdf", "scenarios": 2, "counters": {"total": 352, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 2}]}, {"id": "46715dfa-aa35-11f0-955a-000000021019", "name": "The Eastern Front: 1914-1917", "publishers": ["SPW (Schroeder Publishing & Wargames)"], "releaseYear": 2012, "bggRating": 8.37059, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 360, "max": 360}, "complexityRating": 3.2857, "bggUrl": "https://boardgamegeek.com/boardgame/135193", "nobleKnightUrl": "https://www.nobleknight.com/P/2147487695", "tags": ["WWI"], "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=SPW109", "scenarios": 6, "counters": {"total": 1680, "size": "1/2\""}, "maps": [{"size": "55\"x68\"", "count": 1}]}, {"id": "46716002-aa35-11f0-8987-000000037143", "name": "Assault Red Horizon 41", "publishers": ["Assault Games"], "releaseYear": 2021, "bggRating": 8.47603, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 30, "max": 180}, "complexityRating": 3.0, "bggUrl": "https://boardgamegeek.com/boardgame/225603", "nobleKnightUrl": "https://www.nobleknight.com/P/2147976272", "tags": ["WWII"], "officialUrl": "https://assault-games.com/eastern-front-2/red-horizon-41-2/", "rulesUrl": "https://assault-games.com/wp-content/uploads/2022/12/PN008_Assault_rulebook_v1.pdf", "scenarios": 15, "counters": {"total": 600, "size": "1/2\""}, "maps": [{"size": "11\"x15.5\"", "count": 18}]}, {"id": "467161f6-aa35-11f0-a1b7-00000004c6f1", "name": "Salerno '43", "publishers": ["GMT Games"], "releaseYear": 2022, "bggRating": 8.01446, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 120, "max": 360}, "complexityRating": 3.4286, "bggUrl": "https://boardgamegeek.com/boardgame/313073", "nobleKnightUrl": "https://www.nobleknight.com/P/2147922940", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-1136-salerno-43-2nd-printing.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Salerno43/SalernoRules-LR_Aug2022.pdf", "scenarios": 2, "counters": {"total": 192, "size": "9/16\""}, "maps": [{"size": "22\"x25.5\"", "count": 1}]}, {"id": "467163ea-aa35-11f0-81e8-000000054c19", "name": "Arracourt", "publishers": ["Multi-Man Publishing"], "releaseYear": 2022, "bggRating": 8.38403, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 120, "max": 120}, "complexityRating": 3.75, "bggUrl": "https://boardgamegeek.com/boardgame/347161", "nobleKnightUrl": "https://www.nobleknight.com/P/2147948148", "tags": ["WWII"], "officialUrl": "https://mmpgamers.com/arracourt-p-342", "rulesUrl": "https://mmpgamers.com/support/gamersarchive/bcs/ArracourtRules.pdf", "scenarios": 6, "counters": {"total": 352, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "467165d4-aa35-11f0-add4-000000058aea", "name": "Donnerschlag: Escape from Stalingrad", "publishers": ["VUCA Simulations"], "releaseYear": 2022, "bggRating": 8.02038, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 300, "max": 480}, "complexityRating": 2.8182, "bggUrl": "https://boardgamegeek.com/boardgame/363242", "nobleKnightUrl": "https://www.nobleknight.com/P/2147992508", "tags": ["WWII"], "officialUrl": "https://vucasimulations.com/products/donnerschlag-escape-from-stalingrad?_pos=2&_psq=donnerschlag&_ss=e&_v=1.0", "rulesUrl": "https://www.dropbox.com/scl/fo/ronelqt1jqhhzx6pphd2j/APfjCCAl3smTMQFHXGyL7gU/DS_Rulebook_July_2023_Living_Rules_E.pdf?rlkey=12otmwy1ljh5m1297bxwe20jx&e=1&dl=0", "scenarios": 1, "counters": {"total": 184, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "467167a0-aa35-11f0-a8b3-000000044d59", "name": "Old School Tactical: Volume 3 \u2013 Pacific 1942/45", "publishers": ["Flying Pig Games"], "releaseYear": 2020, "bggRating": 8.76819, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 60, "max": 60}, "complexityRating": 3.3333, "bggUrl": "https://boardgamegeek.com/boardgame/281945", "nobleKnightUrl": "https://www.nobleknight.com/P/2147794880", "tags": ["WWII"], "officialUrl": "https://flyingpiggames.com/shop/ols/products/old-school-tactical-v3pacific-war-194245", "rulesUrl": "https://gamers-hq.de/media/pdf/9c/ac/1b/OST-Rules-5-6-copy.pdf", "scenarios": 16, "counters": {"total": 432, "size": "5/8\""}, "maps": [{"size": "30\"x41\"", "count": 1}]}, {"id": "4671699e-aa35-11f0-87ee-00000003e5a1", "name": "Stalingrad '42: Southern Russia, June-December, 1942", "publishers": ["GMT Games"], "releaseYear": 2019, "bggRating": 8.41161, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 120, "max": 480}, "complexityRating": 3.4878, "bggUrl": "https://boardgamegeek.com/boardgame/255393", "nobleKnightUrl": "https://www.nobleknight.com/P/2147769226", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-1014-stalingrad-42-2nd-edition.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Stalingrad42/Stal42+RULES-FINAL_v2.pdf", "scenarios": 5, "counters": {"total": 576, "size": "9/16\""}, "maps": [{"size": "43.5\"x48\"", "count": 1}]}, {"id": "46716b7e-aa35-11f0-ba91-0000000285ac", "name": "The Dark Sands: War in North Africa, 1940-42", "publishers": ["GMT Games"], "releaseYear": 2018, "bggRating": 7.43816, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 90, "max": 1500}, "complexityRating": 2.9259, "bggUrl": "https://boardgamegeek.com/boardgame/165292", "nobleKnightUrl": "https://www.nobleknight.com/P/2147741130", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-509-the-dark-sands.aspx", "rulesUrl": "https://s3.us-west-2.amazonaws.com/gmtwebsiteassets/darksands/DS_Rules_FINAL.pdf", "scenarios": 5, "counters": {"total": 264, "size": "5/8\""}, "maps": [{"size": "22\"x62\"", "count": 1}]}, {"id": "46716d54-aa35-11f0-a410-00000002ee17", "name": "Demyansk Shield: the Frozen Fortress, February-May 1942", "publishers": ["Legion Wargames LLC"], "releaseYear": 2017, "bggRating": 7.56301, "players": {"min": 2, "max": 2, "best": "1"}, "playtime": {"min": 120, "max": 240}, "complexityRating": 2.9, "bggUrl": "https://boardgamegeek.com/boardgame/192023", "nobleKnightUrl": "https://www.nobleknight.com/P/2147670430", "tags": ["WWII"], "officialUrl": "https://www.legionwargames.com/legion_DMS.html", "rulesUrl": "https://khybergames.com/legionwargames/docs/DMS_rules_final_print_17.pdf", "scenarios": 3, "counters": {"total": 352, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "46716f16-aa35-11f0-ab0c-000000035cab", "name": "Saipan: The Bloody Rock", "publishers": ["Compass Games"], "releaseYear": 2017, "bggRating": 8.00265, "players": {"min": 1, "max": 4, "best": "2"}, "playtime": {"min": 120, "max": 2100}, "complexityRating": 4.0, "bggUrl": "https://boardgamegeek.com/boardgame/220331", "nobleKnightUrl": "https://www.nobleknight.com/P/2148122512", "tags": ["WWII"], "scenarios": 4, "counters": {"total": 819, "size": "5/8\""}, "maps": [{"size": "34\"x44\"", "count": 1}]}, {"id": "467170ba-aa35-11f0-822d-00000001e9e8", "name": "The Scheldt Campaign", "publishers": ["Hollandspiele", "Microgame Design Group"], "releaseYear": 2012, "bggRating": 7.41047, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 150, "max": 150}, "complexityRating": 2.0, "bggUrl": "https://boardgamegeek.com/boardgame/125416", "nobleKnightUrl": "https://www.nobleknight.com/P/2147683279", "tags": ["WWII"], "officialUrl": "https://hollandspiele.com/products/the-scheldt-campaign", "scenarios": 1, "counters": {"total": 264, "size": "5/8\""}, "maps": [{"size": "11\"x25.5\"", "count": 1}]}, {"id": "46717268-aa35-11f0-b166-00000000523a", "name": "Combat Commander: Europe", "publishers": ["GMT Games", "Devir"], "releaseYear": 2006, "bggRating": 7.95268, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 60, "max": 180}, "complexityRating": 3.2592, "bggUrl": "https://boardgamegeek.com/boardgame/21050", "nobleKnightUrl": "https://www.nobleknight.com/P/2147746554", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-928-combat-commander-europe-5th-printing.aspx", "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/CC_Rulebook_v1.1.pdf", "scenarios": 12, "counters": {"total": 632, "size": "1/2\" & 5/8\""}, "maps": [{"size": "17\"x22\"", "count": 12}]}, {"id": "46717420-aa35-11f0-9193-00000000f02f", "name": "Unconditional Surrender! World War 2 in Europe", "publishers": ["GMT Games"], "releaseYear": 2014, "bggRating": 7.99696, "players": {"min": 2, "max": 4, "best": "2"}, "playtime": {"min": 60, "max": 3000}, "complexityRating": 3.7928, "bggUrl": "https://boardgamegeek.com/boardgame/61487", "nobleKnightUrl": "https://www.nobleknight.com/P/2147679753", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-885-unconditional-surrender-3rd-printing.aspx", "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/us/USE2RulebookGMT2017-09.pdf", "scenarios": 16, "counters": {"total": 840, "size": "1/2\""}, "maps": [{"size": "44\"x34\"", "count": 1}]}, {"id": "467175e2-aa35-11f0-a019-000000002e31", "name": "Empire of the Sun: The Pacific War 1941-1945", "publishers": ["GMT Games", "Devir"], "releaseYear": 2005, "bggRating": 8.26218, "players": {"min": 1, "max": 2, "best": "2"}, "playtime": {"min": 360, "max": 360}, "complexityRating": 4.3936, "bggUrl": "https://boardgamegeek.com/boardgame/11825", "nobleKnightUrl": "https://www.nobleknight.com/P/2147925223", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-1114-empire-of-the-sun-5th-printing.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/EOTS_Rules-2021-LR.pdf", "scenarios": 4, "counters": {"total": 368, "size": "9/16\" & 5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "46717790-aa35-11f0-a8b7-000000002f17", "name": "Streets of Stalingrad (Third Edition)", "publishers": ["L2 Design Group"], "releaseYear": 2003, "bggRating": 7.44, "players": {"min": 2, "max": 8, "best": "4"}, "playtime": {"min": 120, "max": 120}, "complexityRating": 4.1667, "bggUrl": "https://boardgamegeek.com/boardgame/12055", "nobleKnightUrl": "https://www.nobleknight.com/P/1736263893", "tags": ["WWII"], "scenarios": 8, "counters": {"total": 2304, "size": "5/8\""}, "maps": [{"size": "38\"x72\"", "count": 1}]}, {"id": "4671795c-aa35-11f0-bfa1-000000008a48", "name": "Nations at War: White Star Rising", "publishers": ["Lock 'n Load Publishing, LLC.", "Spielworxx"], "releaseYear": 2010, "bggRating": 7.32747, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 45, "max": 240}, "complexityRating": 2.6, "bggUrl": "https://boardgamegeek.com/boardgame/35400", "nobleKnightUrl": "https://www.nobleknight.com/P/2147677908", "tags": ["WWII"], "officialUrl": "https://store.lnlpublishing.com/naw-white-star-rising-2nd-edition-upgraded-llp312841", "rulesUrl": "https://library.lnlpublishing.com/books/ggyn/#p=1", "scenarios": 21, "counters": {"total": 350, "size": "3/4\""}, "maps": [{"size": "11\"x17\"", "count": 4}]}, {"id": "46717b1e-aa35-11f0-8d46-000000001eb2", "name": "Ardennes '44: The Battle of the Bulge", "publishers": ["GMT Games"], "releaseYear": 2003, "bggRating": 7.99385, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 360, "max": 360}, "complexityRating": 3.6842, "bggUrl": "https://boardgamegeek.com/boardgame/7858", "nobleKnightUrl": "https://www.nobleknight.com/P/2147473615", "tags": ["WWII"], "officialUrl": "https://www.gmtgames.com/p-987-ardennes-44-4th-edition.aspx", "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/nna4/A44+Rules-LR-Dec16-2020-1.pdf", "scenarios": 3, "counters": {"total": 570, "size": "9/16\""}, "maps": [{"size": "44\"x34\"", "count": 1}]}, {"id": "46717dda-aa35-11f0-9c2b-00000000061b", "name": "Rise and Decline of the Third Reich", "publishers": ["The Avalon Hill Game Co", "Hobby Japan"], "releaseYear": 1974, "bggRating": 6.97698, "players": {"min": 2, "max": 6, "best": "2"}, "playtime": {"min": 240, "max": 720}, "complexityRating": 4.3365, "bggUrl": "https://boardgamegeek.com/boardgame/1563", "nobleKnightUrl": "https://www.nobleknight.com/P/2147427474", "tags": ["WWII"], "rulesUrl": "http://www.wargameacademy.org/3R4/3R4-rulebook-070908.pdf", "scenarios": 4, "counters": {"total": 560, "size": "1/2\""}, "maps": [{"size": "22\"x60\"", "count": 1}]}, {"id": "4671810e-aa35-11f0-a87e-00000002a5c0", "name": "The Greatest Day: Sword, Juno, and Gold Beaches", "publishers": ["Multi-Man Publishing"], "releaseYear": 2015, "bggRating": 8.55044, "players": {"min": 2, "max": 8, "best": "2"}, "playtime": {"min": 60, "max": 6000}, "complexityRating": 4.0, "bggUrl": "https://boardgamegeek.com/boardgame/173504", "nobleKnightUrl": "https://www.nobleknight.com/P/2147597492", "tags": ["WWII"], "officialUrl": "https://mmpgamers.com/the-greatest-day-sword-juno-and-gold-p-105", "rulesUrl": "https://mmpgamers.com/support/gts/TGD_Exclusive_Rules_2.0.pdf", "scenarios": 18, "counters": {"total": 2816, "size": "5/8\""}, "maps": [{"size": "44\"x68\"", "count": 1}]}, {"id": "478b7c34-aa35-11f0-9278-00000002dda0", "name": "Front Toward Enemy", "publishers": ["Multi-Man Publishing"], "releaseYear": 2019, "bggRating": 7.58962, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 60, "max": 180}, "complexityRating": 2.75, "bggUrl": "https://boardgamegeek.com/boardgame/187808", "nobleKnightUrl": "https://www.nobleknight.com/P/2147764043", "tags": ["Vietnam"], "officialUrl": "https://mmpgamers.com/front-toward-enemy-p-7", "rulesUrl": "https://mmpgamers.com/support/other/FTE_Rules.pdf", "scenarios": 8, "counters": {"total": 528, "size": "5/8\""}, "maps": [{"size": "44\"x34\"", "count": 1}]}, {"id": "478b8058-aa35-11f0-b651-000000051272", "name": "Vietnam: 1965-1975 (2nd Edition)", "publishers": ["GMT Games"], "releaseYear": 2022, "bggRating": 8.73931, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 120, "max": 6000}, "complexityRating": 4.375, "bggUrl": "https://boardgamegeek.com/boardgame/332402", "nobleKnightUrl": "https://www.nobleknight.com/P/2147948136", "tags": ["Vietnam"], "officialUrl": "https://www.gmtgames.com/p-911-vietnam-1965-1975-gmt-edition.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Vietnam/GMT_Vietnam_livingrules_v3.pdf", "scenarios": 12, "counters": {"total": 780, "size": "1/2\" & 9/16\""}, "maps": [{"size": "66\"x40\"", "count": 1}]}, {"id": "478b824c-aa35-11f0-adfe-0000000371df", "name": "Armageddon War: Platoon Level Combat in the End War", "publishers": ["Banana Games", "Flying Pig Games"], "releaseYear": 2018, "bggRating": 7.98333, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 60, "max": 240}, "complexityRating": 3.0909, "bggUrl": "https://boardgamegeek.com/boardgame/225759", "nobleKnightUrl": "https://www.nobleknight.com/P/2147705929", "tags": ["Modern"], "officialUrl": "https://flyingpiggames.com/shop/ols/products/armageddon-war", "rulesUrl": "https://www.dropbox.com/scl/fi/kl5tt5asw7h9zwz7du53r/GeddonWar-2nd-printing.pdf?rlkey=15h1dookld81jh2xiqro9bv0d&e=1&st=87qtsomn&dl=0", "scenarios": 16, "counters": {"total": 288, "size": "1\""}, "maps": [{"size": "44\"x33\"", "count": 1}]}, {"id": "478b842c-aa35-11f0-89a4-00000003ded4", "name": "Combat! Volume 1", "publishers": ["Compass Games"], "releaseYear": 2019, "bggRating": 8.35793, "players": {"min": 1, "max": 1, "best": "1"}, "playtime": {"min": 120, "max": 360}, "complexityRating": 3.4902, "bggUrl": "https://boardgamegeek.com/boardgame/253652", "nobleKnightUrl": "https://www.nobleknight.com/P/2148061445", "tags": ["Solo"], "officialUrl": "https://www.compassgames.com/product/combat/", "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/Combat-2nd-Printing-Rules-print-ready-v4a+(1).pdf", "scenarios": 14, "counters": {"total": 800, "size": "5/8\" & 1\""}, "maps": [{"size": "25\"x38\"", "count": 4}]}, {"id": "478b860c-aa35-11f0-9c5b-0000000073a3", "name": "D-Day at Omaha Beach", "publishers": ["Decision Games (I)"], "releaseYear": 2009, "bggRating": 8.29825, "players": {"min": 1, "max": 1, "best": "1"}, "playtime": {"min": 120, "max": 480}, "complexityRating": 3.4805, "bggUrl": "https://boardgamegeek.com/boardgame/29603", "nobleKnightUrl": "https://www.nobleknight.com/P/2148064895", "tags": ["Solo"], "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1018%2D23", "rulesUrl": "https://gamers-hq.de/media/pdf/08/a8/e0/DDOB-Rules-Color_V5F.pdf", "scenarios": 4, "counters": {"total": 352, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "478b87e2-aa35-11f0-ac06-000000010810", "name": "D-Day at Tarawa", "publishers": ["Decision Games (I)"], "releaseYear": 2014, "bggRating": 8.22686, "players": {"min": 1, "max": 1, "best": "1"}, "playtime": {"min": 120, "max": 420}, "complexityRating": 3.7037, "bggUrl": "https://boardgamegeek.com/boardgame/67600", "nobleKnightUrl": "https://www.nobleknight.com/P/2147675123", "tags": ["Solo"], "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1025", "scenarios": 4, "counters": {"total": 352, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "478b89b8-aa35-11f0-8a6f-000000000691", "name": "Tokyo Express: The Guadalcanal Naval Campaign \u2013 1942", "publishers": ["Victory Games (I)"], "releaseYear": 1988, "bggRating": 7.30919, "players": {"min": 1, "max": 2, "best": "1"}, "playtime": {"min": 60, "max": 360}, "complexityRating": 4.0328, "bggUrl": "https://boardgamegeek.com/boardgame/1681", "nobleKnightUrl": "https://www.nobleknight.com/P/821415085", "tags": ["Solo"], "scenarios": 11, "counters": {"total": 676, "size": "1/2\" & 3/4\""}, "maps": [{"size": "22\"x32\"", "count": 1}]}, {"id": "478b8b98-aa35-11f0-b0f5-000000000591", "name": "Raid on St. Nazaire", "publishers": ["The Avalon Hill Game Co"], "releaseYear": 1987, "bggRating": 7.26578, "players": {"min": 1, "max": 1, "best": "1"}, "playtime": {"min": 180, "max": 180}, "complexityRating": 3.0198, "bggUrl": "https://boardgamegeek.com/boardgame/1425", "nobleKnightUrl": "https://www.nobleknight.com/P/2147429522", "tags": ["Solo"], "scenarios": 1, "counters": {"total": 260, "size": "1/2\""}, "maps": [{"size": "16\"x33\"", "count": 1}]}, {"id": "478b8d64-aa35-11f0-b9f4-00000005b88e", "name": "Stalingrad: Advance to the Volga, 1942", "publishers": ["Revolution Games (II)", "Take Aim Designs"], "releaseYear": 2023, "bggRating": 7.70532, "players": {"min": 1, "max": 1, "best": "1"}, "playtime": {"min": 120, "max": 300}, "complexityRating": 1.9697, "bggUrl": "https://boardgamegeek.com/boardgame/374926", "nobleKnightUrl": "https://www.nobleknight.com/P/2148039207", "tags": ["Solo"], "officialUrl": "https://www.revolutiongames.us/Stalingrad.html", "rulesUrl": "https://www.revolutiongames.us/Stalingrad_ATV/Stalingrad_Rules_reduced_size.pdf", "scenarios": 2, "counters": {"total": 176, "size": "5/8\""}, "maps": [{"size": "17\"x22\"", "count": 1}]}, {"id": "478b8f44-aa35-11f0-a2e9-00000005cda5", "name": "The MOG: Mogadishu 1993", "publishers": ["White Dog Games"], "releaseYear": 2023, "bggRating": 8.03672, "players": {"min": 1, "max": 1, "best": "1"}, "playtime": {"min": 60, "max": 90}, "complexityRating": 2.25, "bggUrl": "https://boardgamegeek.com/boardgame/380325", "nobleKnightUrl": "https://www.nobleknight.com/P/2148039799", "tags": ["Solo"], "officialUrl": "https://www.whitedoggames.com/mogadishu", "scenarios": 6, "counters": {"total": 88, "size": "5/8\""}, "maps": [{"size": "17\"x22\"", "count": 1}]}, {"id": "478b9106-aa35-11f0-b6c3-00000003e652", "name": "Brotherhood & Unity", "publishers": ["Compass Games", "Ediciones MasQueOca", "NAC Wargames"], "releaseYear": 2020, "bggRating": 8.0042, "players": {"min": 2, "max": 3, "best": "3"}, "playtime": {"min": 120, "max": 240}, "complexityRating": 3.0, "bggUrl": "https://boardgamegeek.com/boardgame/255570", "nobleKnightUrl": "https://www.nobleknight.com/P/2147816385", "tags": ["3 Player"], "officialUrl": "https://www.compassgames.com/product/brotherhood-unity/", "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BrotherhoodUnity_rulebook.pdf", "scenarios": 2, "counters": {"total": 260, "size": "9/16\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "478b92dc-aa35-11f0-af64-0000000203b2", "name": "Churchill", "publishers": ["GMT Games", "Devir", "Ergo Ludo Editions", "Fox in the Box", "Rawstone"], "releaseYear": 2015, "bggRating": 7.66954, "players": {"min": 1, "max": 3, "best": "3"}, "playtime": {"min": 60, "max": 300}, "complexityRating": 3.3855, "bggUrl": "https://boardgamegeek.com/boardgame/132018", "nobleKnightUrl": "https://www.nobleknight.com/P/2147993914", "tags": ["3 Player"], "officialUrl": "https://www.gmtgames.com/p-719-churchill-3rd-printing.aspx", "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/churchill/Churchill_Rules2ndEd.pdf", "scenarios": 3, "counters": {"total": 176, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 2}]}, {"id": "478b94bc-aa35-11f0-b928-00000001ec19", "name": "Cataclysm: A Second World War", "publishers": ["GMT Games"], "releaseYear": 2018, "bggRating": 7.52088, "players": {"min": 2, "max": 5, "best": "3"}, "playtime": {"min": 90, "max": 600}, "complexityRating": 3.9459, "bggUrl": "https://boardgamegeek.com/boardgame/125977", "nobleKnightUrl": "https://www.nobleknight.com/P/2147691673", "tags": ["3 Player"], "officialUrl": "https://www.gmtgames.com/p-902-cataclysm.aspx", "rulesUrl": "https://www.goblins.net/files/downloads/cataclysm_rulebook_04-2022_eng.pdf", "scenarios": 5, "counters": {"total": 456, "size": "9/16\""}, "maps": [{"size": "17\"x22\"", "count": 2}]}, {"id": "478b96a6-aa35-11f0-b918-000000049523", "name": "Conquest & Consequence", "publishers": ["GMT Games"], "releaseYear": 2021, "bggRating": 7.88158, "players": {"min": 2, "max": 3, "best": "3"}, "playtime": {"min": 240, "max": 360}, "complexityRating": 3.8077, "bggUrl": "https://boardgamegeek.com/boardgame/300323", "nobleKnightUrl": "https://www.nobleknight.com/P/2147922942", "tags": ["3 Player"], "officialUrl": "https://www.gmtgames.com/p-840-conquest-and-consequence.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ConquestAndConsequence/Conquest%26Consequence_Rulebook_v1.1e.pdf", "scenarios": 1, "counters": {"total": 352, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "478b9886-aa35-11f0-ac88-00000001ff90", "name": "Triumph & Tragedy: European Balance of Power 1936-1945", "publishers": ["GMT Games"], "releaseYear": 2015, "bggRating": 8.13869, "players": {"min": 2, "max": 3, "best": "3"}, "playtime": {"min": 240, "max": 360}, "complexityRating": 3.4211, "bggUrl": "https://boardgamegeek.com/boardgame/130960", "nobleKnightUrl": "https://www.nobleknight.com/P/2147922941", "tags": ["3 Player"], "officialUrl": "https://www.gmtgames.com/p-722-triumph-and-tragedy-3rd-printing.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/triumphtragedy/TnT3rdEdRulesFinal.pdf", "scenarios": 1, "counters": {"total": 208, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "478b9a66-aa35-11f0-aa8c-000000004dbf", "name": "The Battle of Monmouth", "publishers": ["Clash of Arms Games"], "releaseYear": 2008, "bggRating": 7.86667, "players": {"min": 2, "max": 2, "best": "1"}, "playtime": {"min": 240, "max": 1200}, "complexityRating": 3.8667, "bggUrl": "https://boardgamegeek.com/boardgame/19903", "nobleKnightUrl": "https://www.nobleknight.com/P/2147383273", "tags": ["American Revolution"], "officialUrl": "https://www.gmtgames.com/p-110-monmouth.aspx", "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/armonm/Monmouth_playbook.pdf", "scenarios": 4, "counters": {"total": 176, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "478b9c46-aa35-11f0-850a-0000000237ee", "name": "End of Empire: 1744-1782", "publishers": ["Compass Games"], "releaseYear": 2014, "bggRating": 7.72174, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 360, "max": 360}, "complexityRating": 2.7692, "bggUrl": "https://boardgamegeek.com/boardgame/145390", "nobleKnightUrl": "https://www.nobleknight.com/P/2147552462", "tags": ["American Revolution"], "officialUrl": "https://www.compassgames.com/product/end-of-empire-1744-1782-deluxe-edition-pay-later/", "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/EoE-Rules.pdf", "scenarios": 15, "counters": {"total": 792, "size": "5/8\""}, "maps": [{"size": "22\"x68\"", "count": 1}]}, {"id": "478b9e30-aa35-11f0-a13a-00000001ac43", "name": "Washington's Crossing", "publishers": ["Revolution Games (II)"], "releaseYear": 2012, "bggRating": 7.57895, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 480, "max": 480}, "complexityRating": 3.0, "bggUrl": "https://boardgamegeek.com/boardgame/109635", "nobleKnightUrl": "https://www.nobleknight.com/P/2147472500", "tags": ["American Revolution"], "officialUrl": "https://www.revolutiongames.us/WC_info.html", "rulesUrl": "https://www.revolutiongames.us/WC/Washingtons_Crossing_Rules_final.pdf", "scenarios": 2, "counters": {"total": 200, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "478ba04c-aa35-11f0-9680-000000001a3f", "name": "Liberty: The American Revolution 1775-83", "publishers": ["Columbia Games"], "releaseYear": 2003, "bggRating": 7.17644, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 120, "max": 180}, "complexityRating": 2.5873, "bggUrl": "https://boardgamegeek.com/boardgame/6719", "nobleKnightUrl": "https://www.nobleknight.com/P/2147354206", "tags": ["American Revolution"], "officialUrl": "https://columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=3021", "rulesUrl": "https://columbiagames.com/resources/3021/libertyrules1.02.pdf", "scenarios": 4, "counters": {"total": 50, "size": "13/16\""}, "maps": [{"size": "11\"x34\"", "count": 1}]}, {"id": "478ba236-aa35-11f0-816a-0000000000ed", "name": "Wooden Ships & Iron Men", "publishers": ["The Avalon Hill Game Co", "Battleline"], "releaseYear": 1974, "bggRating": 7.08867, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 60, "max": 300}, "complexityRating": 3.0887, "bggUrl": "https://boardgamegeek.com/boardgame/237", "nobleKnightUrl": "https://www.nobleknight.com/P/2147430463", "tags": ["Age of Sail"], "rulesUrl": "https://www.scribd.com/document/339876561/Wooden-Ship-and-Iron-Men-Manual", "scenarios": 23, "counters": {"total": 180, "size": "5/8\""}, "maps": [{"size": "22\"x28\"", "count": 2}]}, {"id": "489ff712-aa35-11f0-90da-000000025e79", "name": "Captain's Sea", "publishers": ["Legion Wargames LLC"], "releaseYear": 2021, "bggRating": 7.45208, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 0, "max": 0}, "complexityRating": 3.2, "bggUrl": "https://boardgamegeek.com/boardgame/155257", "nobleKnightUrl": "https://www.nobleknight.com/P/2147922302", "tags": ["Age of Sail"], "officialUrl": "https://legion-wargames2.mybigcommerce.com/captains-sea/", "rulesUrl": "https://khybergames.com/legionwargames/docs/Cap%20Rules%20Booklet%2016pp%20PRINT.pdf", "scenarios": 10, "counters": {"total": 84, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}, {"id": "489ffb90-aa35-11f0-bebf-000000002b31", "name": "The Great Battles of Alexander: Deluxe Edition", "publishers": ["GMT Games"], "releaseYear": 1995, "bggRating": 7.70623, "players": {"min": 1, "max": 4, "best": "2"}, "playtime": {"min": 240, "max": 240}, "complexityRating": 3.5726, "bggUrl": "https://boardgamegeek.com/boardgame/11057", "nobleKnightUrl": "https://www.nobleknight.com/P/2148094778", "tags": ["Ancient"], "officialUrl": "https://www.gmtgames.com/p-770-great-battles-of-alexander-expanded-deluxe-edition-2nd-printing.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbad/Deluxe_Alexander_6th_Edition_Rules.pdf", "scenarios": 3, "counters": {"total": 763, "size": "1/2\""}, "maps": [{"size": "22\"x34\"", "count": 3}]}, {"id": "489ffe10-aa35-11f0-ad2f-00000000542f", "name": "SPQR (Deluxe Edition)", "publishers": ["GMT Games"], "releaseYear": 2008, "bggRating": 8.03402, "players": {"min": 1, "max": 4, "best": "2"}, "playtime": {"min": 240, "max": 240}, "complexityRating": 3.9167, "bggUrl": "https://boardgamegeek.com/boardgame/21551", "nobleKnightUrl": "https://www.nobleknight.com/P/2147741053", "tags": ["Ancient"], "officialUrl": "https://www.gmtgames.com/p-1118-spqr-deluxe-5th-edition.aspx", "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbsp/SPQR_4thEdition_Living_Rules_Draft_Oct2022.pdf", "scenarios": 14, "counters": {"total": 968, "size": "5/8\""}, "maps": [{"size": "22\"x34\"", "count": 6}]}, {"id": "48a00072-aa35-11f0-bd51-0000000010a9", "name": "Iliad: The Siege of Troy", "publishers": ["Conflict Games", "Game Designers' Workshop (GDW Games)"], "releaseYear": 1978, "bggRating": 7.30213, "players": {"min": 2, "max": 2, "best": "2"}, "playtime": {"min": 120, "max": 180}, "complexityRating": 2.7778, "bggUrl": "https://boardgamegeek.com/boardgame/4265", "nobleKnightUrl": "https://www.nobleknight.com/P/16826", "tags": ["Ancient"], "scenarios": 1, "counters": {"total": 51, "size": "5/16\""}, "maps": [{"size": "22\"x34\"", "count": 1}]}]
+[
+    {
+        "id": "451d5e0e-aa35-11f0-bb36-00000004ea95",
+        "name": "Brothers at War: 1862",
+        "publishers": [
+            "Compass Games"
+        ],
+        "releaseYear": 2022,
+        "bggRating": 8.084,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 240
+        },
+        "complexityRating": 2.8333,
+        "bggUrl": "https://boardgamegeek.com/boardgame/322197",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147841575",
+        "tags": [
+            "american_civil_war"
+        ],
+        "officialUrl": "https://www.compassgames.com/product/brothers-at-war-1862/",
+        "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BAW_Rules_02-23-21.pdf",
+        "scenarios": 10,
+        "counters": {
+            "total": 748,
+            "size": "5/8\" & 3/4\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "id": "451d614c-aa35-11f0-8306-000000054082",
+        "name": "The Day Was Ours: First Bull Run (July 21, 1861)",
+        "publishers": [
+            "Revolution Games (II)"
+        ],
+        "releaseYear": 2021,
+        "bggRating": 8.08742,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 640
+        },
+        "complexityRating": 3.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/344194",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147935128",
+        "tags": [
+            "american_civil_war"
+        ],
+        "officialUrl": "https://stores.revolutiongames.us/the-day-was-ours-boxed-edition/",
+        "rulesUrl": "https://www.revolutiongames.us/TheDayWasOurs/TDWO_Exclusive_Rules.pdf",
+        "scenarios": 3,
+        "counters": {
+            "total": 176,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d62d2-aa35-11f0-a145-000000024922",
+        "name": "Clash of Giants: Civil War",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2016,
+        "bggRating": 7.03953,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 180,
+            "max": 420
+        },
+        "complexityRating": 2.25,
+        "bggUrl": "https://boardgamegeek.com/boardgame/149794",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147654429",
+        "tags": [
+            "american_civil_war"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-463-clash-of-giants-civil-war.aspx",
+        "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/cogcw/CoG_Living-Rules_Apr2018-Final.pdf",
+        "scenarios": 2,
+        "counters": {
+            "total": 264,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "451d63fe-aa35-11f0-8c14-00000005c42a",
+        "name": "Ardennes II",
+        "publishers": [
+            "Multi-Man Publishing"
+        ],
+        "releaseYear": 2023,
+        "bggRating": 7.97778,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 0,
+            "max": 0
+        },
+        "complexityRating": 2.8571,
+        "bggUrl": "https://boardgamegeek.com/boardgame/377898",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148062679",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://mmpgamers.com/ardennes-ii-p-377",
+        "rulesUrl": "https://www.mmpgamers.com/support/gamersarchive/scs/ARD2_Rules.pdf",
+        "scenarios": 6,
+        "counters": {
+            "total": 560,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "34\"x44\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d64f8-aa35-11f0-94fc-00000005c66b",
+        "name": "Traces of War",
+        "publishers": [
+            "VUCA Simulations"
+        ],
+        "releaseYear": 2023,
+        "bggRating": 7.87707,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 180,
+            "max": 360
+        },
+        "complexityRating": 2.5455,
+        "bggUrl": "https://boardgamegeek.com/boardgame/378475",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148047339",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://vucasims.com/products/traces-of-war",
+        "rulesUrl": "https://www.dropbox.com/scl/fi/5xw17wv2i8suhvxuqg18v/ToW_06_Rules.pdf?rlkey=33njzy0435b45qwni517gofce&e=1&dl=0",
+        "scenarios": 2,
+        "counters": {
+            "total": 321,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "40\"x28\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d65e8-aa35-11f0-bc98-000000032ad4",
+        "name": "Holland '44: Operation Market-Garden",
+        "publishers": [
+            "GMT Games",
+            "Chrononauts Games",
+            "Ediciones MasQueOca",
+            "NAC Wargames"
+        ],
+        "releaseYear": 2017,
+        "bggRating": 8.26749,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 900
+        },
+        "complexityRating": 3.8529,
+        "bggUrl": "https://boardgamegeek.com/boardgame/207572",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148218554",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-938-holland-44-2nd-edition.aspx",
+        "rulesUrl": "https://gamers-hq.de/media/pdf/f3/f9/20/HO44-RULES_2024-Final.pdf",
+        "scenarios": 1,
+        "counters": {
+            "total": 468,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            },
+            {
+                "size": "8.5\"x22\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d66c4-aa35-11f0-85da-00000004be60",
+        "name": "Battle for Germany: Deluxe Edition",
+        "publishers": [
+            "Decision Games (I)",
+            "Kilovolt Design",
+            "SPI (Simulations Publications, Inc.)"
+        ],
+        "releaseYear": 2021,
+        "bggRating": 7.86223,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 180,
+            "max": 240
+        },
+        "complexityRating": 2.2222,
+        "bggUrl": "https://boardgamegeek.com/boardgame/310880",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147855034",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3003",
+        "rulesUrl": "https://gamers-hq.de/media/pdf/86/85/2f/Bx_2020-Battle-For-Germany-Rules-WEB.pdf",
+        "scenarios": 3,
+        "counters": {
+            "total": 228,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d67be-aa35-11f0-a562-000000001646",
+        "name": "Second World War at Sea: Eastern Fleet",
+        "publishers": [
+            "Avalanche Press Ltd."
+        ],
+        "releaseYear": 2001,
+        "bggRating": 7.2181,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 120
+        },
+        "complexityRating": 2.7333,
+        "bggUrl": "https://boardgamegeek.com/boardgame/5702",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148134627",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.avalanchepress.com/gameEF.php",
+        "rulesUrl": "https://www.avalanchepress.com/SWWRules.pdf",
+        "scenarios": 30,
+        "counters": {
+            "total": 210,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x32\"",
+                "count": 1
+            },
+            {
+                "size": "11\"x17\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d68a4-aa35-11f0-a963-0000000333c7",
+        "name": "The Fall Of The Third Reich",
+        "publishers": [
+            "Compass Games"
+        ],
+        "releaseYear": 2016,
+        "bggRating": 7.63289,
+        "players": {
+            "min": 1,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 360,
+            "max": 600
+        },
+        "complexityRating": 3.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/209863",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147658886",
+        "tags": [
+            "wwii",
+            "3_player"
+        ],
+        "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/FotTR_Rules_Final_R.pdf",
+        "scenarios": 1,
+        "counters": {
+            "total": 351,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "44\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d698a-aa35-11f0-a535-00000000f30e",
+        "name": "Commands & Colors: Napoleonics",
+        "publishers": [
+            "Doit Games",
+            "GMT Games"
+        ],
+        "releaseYear": 2010,
+        "bggRating": 8.04833,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 90,
+            "max": 90
+        },
+        "complexityRating": 2.7455,
+        "bggUrl": "https://boardgamegeek.com/boardgame/62222",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148086945",
+        "tags": [
+            "napoleonic"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-976-commands-colors-napoleonics-5th-printing.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ccn/CCN-Rules_4thEd_2023.pdf",
+        "scenarios": 15,
+        "counters": {
+            "total": 340
+        },
+        "maps": [
+            {
+                "size": "42\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d6a66-aa35-11f0-b985-000000001086",
+        "name": "Napoleon's Last Battles",
+        "publishers": [
+            "Decision Games (I)",
+            "Kilovolt Design",
+            "Nike and Cooper Espa\u00f1ola, S.A.",
+            "SPI (Simulations Publications, Inc.)",
+            "Tactical Studies Rules (TSR)",
+            "War Drum Games"
+        ],
+        "releaseYear": 1976,
+        "bggRating": 7.26736,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 180,
+            "max": 180
+        },
+        "complexityRating": 2.3678,
+        "bggUrl": "https://boardgamegeek.com/boardgame/4230",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147591624",
+        "tags": [
+            "napoleonic"
+        ],
+        "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=3008",
+        "rulesUrl": "https://gamers-hq.de/media/pdf/7a/98/6b/NLB-Rules-V6F.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 400,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "451d6b4c-aa35-11f0-a18b-00000003e11f",
+        "name": "Quatre Bras 1815: Last Eagles",
+        "publishers": [
+            "Hexasim"
+        ],
+        "releaseYear": 2019,
+        "bggRating": 8.10873,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 600
+        },
+        "complexityRating": 3.4545,
+        "bggUrl": "https://boardgamegeek.com/boardgame/254239",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147761360",
+        "tags": [
+            "napoleonic"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-825-quatre-bras-1815-last-eagles.aspx",
+        "scenarios": 5,
+        "counters": {
+            "total": 700,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "24\"x33\"",
+                "count": 2
+            },
+            {
+                "size": "9\"x33\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "451d6cfa-aa35-11f0-b2fb-000000003f45",
+        "name": "Rivoli 1797",
+        "publishers": [
+            "SIMTAC"
+        ],
+        "releaseYear": 1997,
+        "bggRating": 8.13284,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 240
+        },
+        "complexityRating": 3.4,
+        "bggUrl": "https://boardgamegeek.com/boardgame/16197",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147347135",
+        "tags": [
+            "napoleonic"
+        ],
+        "scenarios": 1,
+        "counters": {
+            "total": 648,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "27\"x38\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d6de0-aa35-11f0-b266-0000000278d9",
+        "name": "The U.S. Civil War",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2015,
+        "bggRating": 8.3115,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 150,
+            "max": 360
+        },
+        "complexityRating": 3.8636,
+        "bggUrl": "https://boardgamegeek.com/boardgame/162009",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147925222",
+        "tags": [
+            "american_civil_war"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-1165-the-us-civil-war-3rd-printing.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/USCW/TUSCW_RULES_2021-Final.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 576,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "30\"x44\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d6ed0-aa35-11f0-81b9-000000000821",
+        "name": "The Civil War 1861-1865",
+        "publishers": [
+            "Victory Games (I)"
+        ],
+        "releaseYear": 1983,
+        "bggRating": 7.73009,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 1200
+        },
+        "complexityRating": 3.7884,
+        "bggUrl": "https://boardgamegeek.com/boardgame/2081",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/10564",
+        "tags": [
+            "american_civil_war"
+        ],
+        "rulesUrl": "http://www.wargameacademy.org/archives/CVW/CVW-Rulebook-WGA-3rd-110427.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 520,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x64\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "451d6fb6-aa35-11f0-a4c6-000000050581",
+        "name": "A Most Fearful Sacrifice: The Three Days of Gettysburg",
+        "publishers": [
+            "Flying Pig Games",
+            "Tiny Battle Publishing"
+        ],
+        "releaseYear": 2022,
+        "bggRating": 8.66887,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 4320
+        },
+        "complexityRating": 3.1053,
+        "bggUrl": "https://boardgamegeek.com/boardgame/329089",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147979579",
+        "tags": [
+            "american_civil_war"
+        ],
+        "officialUrl": "https://flyingpiggames.com/shop/ols/products/a-most-fearful-sacrifice-2nd-edition-reprint",
+        "rulesUrl": "https://www.dropbox.com/scl/fi/pq7g8e12wt5szl0ub0ut4/A-Most-Fearful-Sacrifice-Rules_LAST_2ndEd_PNP.pdf?rlkey=4yiehzrbojqirwdsp44a3xhju&e=1&st=d2l7tqeg&dl=0",
+        "scenarios": 13,
+        "counters": {
+            "total": 528,
+            "size": "5/8\" & 13/16\""
+        },
+        "maps": [
+            {
+                "size": "60\"x41\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "451d70b0-aa35-11f0-a3ca-000000004dbe",
+        "name": "Shiloh: April Glory",
+        "publishers": [
+            "Columbia Games"
+        ],
+        "releaseYear": 2010,
+        "bggRating": 7.10091,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 180,
+            "max": 180
+        },
+        "complexityRating": 2.5,
+        "bggUrl": "https://boardgamegeek.com/boardgame/19902",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147441397",
+        "tags": [
+            "american_civil_war"
+        ],
+        "officialUrl": "https://www.columbiagames.com/cgi-bin/query/cfg/zoom-retailer.cfg?product_id=3322",
+        "rulesUrl": "https://columbiagames.com/resources/3322/3322-shilohrules.pdf",
+        "scenarios": 2,
+        "counters": {
+            "total": 100
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d718c-aa35-11f0-b4f3-0000000264ab",
+        "name": "Balance of Powers",
+        "publishers": [
+            "Compass Games"
+        ],
+        "releaseYear": 2015,
+        "bggRating": 7.71402,
+        "players": {
+            "min": 2,
+            "max": 7,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 1440
+        },
+        "complexityRating": 3.6364,
+        "bggUrl": "https://boardgamegeek.com/boardgame/156843",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147580364",
+        "tags": [
+            "wwi"
+        ],
+        "officialUrl": "https://www.compassgames.com/product/balance-of-powers/",
+        "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/BoP_Living_Rules_10_Jan_2017.pdf",
+        "scenarios": 9,
+        "counters": {
+            "total": 900,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": "451d727c-aa35-11f0-aa72-00000004e23d",
+        "name": "Death in the Trenches: The Great War 1914-1918 (Second Edition)",
+        "publishers": [
+            "Compass Games"
+        ],
+        "releaseYear": 2022,
+        "bggRating": 7.61304,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 300,
+            "max": 300
+        },
+        "complexityRating": 3.6667,
+        "bggUrl": "https://boardgamegeek.com/boardgame/320061",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147859951",
+        "tags": [
+            "wwi"
+        ],
+        "officialUrl": "https://www.compassgames.com/product/death-in-the-trenches/",
+        "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/DITT+LIVING+RULES.pdf",
+        "scenarios": 1,
+        "counters": {
+            "total": 400,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            },
+            {
+                "size": "8.5\"x11\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "451d736c-aa35-11f0-8a64-000000007608",
+        "name": "The Great War in Europe: Deluxe Edition",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2007,
+        "bggRating": 6.99018,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 600,
+            "max": 600
+        },
+        "complexityRating": 3.62,
+        "bggUrl": "https://boardgamegeek.com/boardgame/30216",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147375414",
+        "tags": [
+            "wwi"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-113-the-great-war-in-europe-deluxe-edition.aspx",
+        "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/GWiE_rules%283-4-09%29.pdf",
+        "scenarios": 5,
+        "counters": {
+            "total": 1500,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": "467159d6-aa35-11f0-ae02-00000000358d",
+        "name": "Clash of Giants II: 1st Ypres & Galicia 1914",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2006,
+        "bggRating": 7.11155,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 300,
+            "max": 300
+        },
+        "complexityRating": 2.3607,
+        "bggUrl": "https://boardgamegeek.com/boardgame/13709",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147367662",
+        "tags": [
+            "wwi"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-68-clash-of-giants-ii.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/living_rules/CoGII_Rules.pdf",
+        "scenarios": 2,
+        "counters": {
+            "total": 352,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "46715dfa-aa35-11f0-955a-000000021019",
+        "name": "The Eastern Front: 1914-1917",
+        "publishers": [
+            "SPW (Schroeder Publishing & Wargames)"
+        ],
+        "releaseYear": 2012,
+        "bggRating": 8.37059,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 360,
+            "max": 360
+        },
+        "complexityRating": 3.2857,
+        "bggUrl": "https://boardgamegeek.com/boardgame/135193",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147487695",
+        "tags": [
+            "wwi"
+        ],
+        "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=SPW109",
+        "scenarios": 6,
+        "counters": {
+            "total": 1680,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "55\"x68\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "46716002-aa35-11f0-8987-000000037143",
+        "name": "Assault Red Horizon 41",
+        "publishers": [
+            "Assault Games"
+        ],
+        "releaseYear": 2021,
+        "bggRating": 8.47603,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 30,
+            "max": 180
+        },
+        "complexityRating": 3.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/225603",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147976272",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://assault-games.com/eastern-front-2/red-horizon-41-2/",
+        "rulesUrl": "https://assault-games.com/wp-content/uploads/2022/12/PN008_Assault_rulebook_v1.pdf",
+        "scenarios": 15,
+        "counters": {
+            "total": 600,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "11\"x15.5\"",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": "467161f6-aa35-11f0-a1b7-00000004c6f1",
+        "name": "Salerno '43",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2022,
+        "bggRating": 8.01446,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 360
+        },
+        "complexityRating": 3.4286,
+        "bggUrl": "https://boardgamegeek.com/boardgame/313073",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147922940",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-1136-salerno-43-2nd-printing.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Salerno43/SalernoRules-LR_Aug2022.pdf",
+        "scenarios": 2,
+        "counters": {
+            "total": 192,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "22\"x25.5\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "467163ea-aa35-11f0-81e8-000000054c19",
+        "name": "Arracourt",
+        "publishers": [
+            "Multi-Man Publishing"
+        ],
+        "releaseYear": 2022,
+        "bggRating": 8.38403,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 120
+        },
+        "complexityRating": 3.75,
+        "bggUrl": "https://boardgamegeek.com/boardgame/347161",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147948148",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://mmpgamers.com/arracourt-p-342",
+        "rulesUrl": "https://mmpgamers.com/support/gamersarchive/bcs/ArracourtRules.pdf",
+        "scenarios": 6,
+        "counters": {
+            "total": 352,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "467165d4-aa35-11f0-add4-000000058aea",
+        "name": "Donnerschlag: Escape from Stalingrad",
+        "publishers": [
+            "VUCA Simulations"
+        ],
+        "releaseYear": 2022,
+        "bggRating": 8.02038,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 300,
+            "max": 480
+        },
+        "complexityRating": 2.8182,
+        "bggUrl": "https://boardgamegeek.com/boardgame/363242",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147992508",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://vucasimulations.com/products/donnerschlag-escape-from-stalingrad?_pos=2&_psq=donnerschlag&_ss=e&_v=1.0",
+        "rulesUrl": "https://www.dropbox.com/scl/fo/ronelqt1jqhhzx6pphd2j/APfjCCAl3smTMQFHXGyL7gU/DS_Rulebook_July_2023_Living_Rules_E.pdf?rlkey=12otmwy1ljh5m1297bxwe20jx&e=1&dl=0",
+        "scenarios": 1,
+        "counters": {
+            "total": 184,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "467167a0-aa35-11f0-a8b3-000000044d59",
+        "name": "Old School Tactical: Volume 3 \u2013 Pacific 1942/45",
+        "publishers": [
+            "Flying Pig Games"
+        ],
+        "releaseYear": 2020,
+        "bggRating": 8.76819,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 60
+        },
+        "complexityRating": 3.3333,
+        "bggUrl": "https://boardgamegeek.com/boardgame/281945",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147794880",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://flyingpiggames.com/shop/ols/products/old-school-tactical-v3pacific-war-194245",
+        "rulesUrl": "https://gamers-hq.de/media/pdf/9c/ac/1b/OST-Rules-5-6-copy.pdf",
+        "scenarios": 16,
+        "counters": {
+            "total": 432,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "30\"x41\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "4671699e-aa35-11f0-87ee-00000003e5a1",
+        "name": "Stalingrad '42: Southern Russia, June-December, 1942",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2019,
+        "bggRating": 8.41161,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 480
+        },
+        "complexityRating": 3.4878,
+        "bggUrl": "https://boardgamegeek.com/boardgame/255393",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147769226",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-1014-stalingrad-42-2nd-edition.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Stalingrad42/Stal42+RULES-FINAL_v2.pdf",
+        "scenarios": 5,
+        "counters": {
+            "total": 576,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "43.5\"x48\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "46716b7e-aa35-11f0-ba91-0000000285ac",
+        "name": "The Dark Sands: War in North Africa, 1940-42",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2018,
+        "bggRating": 7.43816,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 90,
+            "max": 1500
+        },
+        "complexityRating": 2.9259,
+        "bggUrl": "https://boardgamegeek.com/boardgame/165292",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147741130",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-509-the-dark-sands.aspx",
+        "rulesUrl": "https://s3.us-west-2.amazonaws.com/gmtwebsiteassets/darksands/DS_Rules_FINAL.pdf",
+        "scenarios": 5,
+        "counters": {
+            "total": 264,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x62\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "46716d54-aa35-11f0-a410-00000002ee17",
+        "name": "Demyansk Shield: the Frozen Fortress, February-May 1942",
+        "publishers": [
+            "Legion Wargames LLC"
+        ],
+        "releaseYear": 2017,
+        "bggRating": 7.56301,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 240
+        },
+        "complexityRating": 2.9,
+        "bggUrl": "https://boardgamegeek.com/boardgame/192023",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147670430",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.legionwargames.com/legion_DMS.html",
+        "rulesUrl": "https://khybergames.com/legionwargames/docs/DMS_rules_final_print_17.pdf",
+        "scenarios": 3,
+        "counters": {
+            "total": 352,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "46716f16-aa35-11f0-ab0c-000000035cab",
+        "name": "Saipan: The Bloody Rock",
+        "publishers": [
+            "Compass Games"
+        ],
+        "releaseYear": 2017,
+        "bggRating": 8.00265,
+        "players": {
+            "min": 1,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 2100
+        },
+        "complexityRating": 4.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/220331",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148122512",
+        "tags": [
+            "wwii"
+        ],
+        "scenarios": 4,
+        "counters": {
+            "total": 819,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "34\"x44\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "467170ba-aa35-11f0-822d-00000001e9e8",
+        "name": "The Scheldt Campaign",
+        "publishers": [
+            "Hollandspiele",
+            "Microgame Design Group"
+        ],
+        "releaseYear": 2012,
+        "bggRating": 7.41047,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 150,
+            "max": 150
+        },
+        "complexityRating": 2.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/125416",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147683279",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://hollandspiele.com/products/the-scheldt-campaign",
+        "scenarios": 1,
+        "counters": {
+            "total": 264,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "11\"x25.5\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "46717268-aa35-11f0-b166-00000000523a",
+        "name": "Combat Commander: Europe",
+        "publishers": [
+            "GMT Games",
+            "Devir"
+        ],
+        "releaseYear": 2006,
+        "bggRating": 7.95268,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 180
+        },
+        "complexityRating": 3.2592,
+        "bggUrl": "https://boardgamegeek.com/boardgame/21050",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147746554",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-928-combat-commander-europe-5th-printing.aspx",
+        "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/living_rules/CC_Rulebook_v1.1.pdf",
+        "scenarios": 12,
+        "counters": {
+            "total": 632,
+            "size": "1/2\" & 5/8\""
+        },
+        "maps": [
+            {
+                "size": "17\"x22\"",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": "46717420-aa35-11f0-9193-00000000f02f",
+        "name": "Unconditional Surrender! World War 2 in Europe",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2014,
+        "bggRating": 7.99696,
+        "players": {
+            "min": 2,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 3000
+        },
+        "complexityRating": 3.7928,
+        "bggUrl": "https://boardgamegeek.com/boardgame/61487",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147679753",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-885-unconditional-surrender-3rd-printing.aspx",
+        "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/us/USE2RulebookGMT2017-09.pdf",
+        "scenarios": 16,
+        "counters": {
+            "total": 840,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "44\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "467175e2-aa35-11f0-a019-000000002e31",
+        "name": "Empire of the Sun: The Pacific War 1941-1945",
+        "publishers": [
+            "GMT Games",
+            "Devir"
+        ],
+        "releaseYear": 2005,
+        "bggRating": 8.26218,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 360,
+            "max": 360
+        },
+        "complexityRating": 4.3936,
+        "bggUrl": "https://boardgamegeek.com/boardgame/11825",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147925223",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-1114-empire-of-the-sun-5th-printing.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/EOTS_Rules-2021-LR.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 368,
+            "size": "9/16\" & 5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "46717790-aa35-11f0-a8b7-000000002f17",
+        "name": "Streets of Stalingrad (Third Edition)",
+        "publishers": [
+            "L2 Design Group"
+        ],
+        "releaseYear": 2003,
+        "bggRating": 7.44,
+        "players": {
+            "min": 2,
+            "max": 8,
+            "best": "4"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 120
+        },
+        "complexityRating": 4.1667,
+        "bggUrl": "https://boardgamegeek.com/boardgame/12055",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/1736263893",
+        "tags": [
+            "wwii"
+        ],
+        "scenarios": 8,
+        "counters": {
+            "total": 2304,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "38\"x72\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "4671795c-aa35-11f0-bfa1-000000008a48",
+        "name": "Nations at War: White Star Rising",
+        "publishers": [
+            "Lock 'n Load Publishing, LLC.",
+            "Spielworxx"
+        ],
+        "releaseYear": 2010,
+        "bggRating": 7.32747,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 45,
+            "max": 240
+        },
+        "complexityRating": 2.6,
+        "bggUrl": "https://boardgamegeek.com/boardgame/35400",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147677908",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://store.lnlpublishing.com/naw-white-star-rising-2nd-edition-upgraded-llp312841",
+        "rulesUrl": "https://library.lnlpublishing.com/books/ggyn/#p=1",
+        "scenarios": 21,
+        "counters": {
+            "total": 350,
+            "size": "3/4\""
+        },
+        "maps": [
+            {
+                "size": "11\"x17\"",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "id": "46717b1e-aa35-11f0-8d46-000000001eb2",
+        "name": "Ardennes '44: The Battle of the Bulge",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2003,
+        "bggRating": 7.99385,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 360,
+            "max": 360
+        },
+        "complexityRating": 3.6842,
+        "bggUrl": "https://boardgamegeek.com/boardgame/7858",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147473615",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-987-ardennes-44-4th-edition.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/nna4/A44+Rules-LR-Dec16-2020-1.pdf",
+        "scenarios": 3,
+        "counters": {
+            "total": 570,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "44\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "46717dda-aa35-11f0-9c2b-00000000061b",
+        "name": "Rise and Decline of the Third Reich",
+        "publishers": [
+            "The Avalon Hill Game Co",
+            "Hobby Japan"
+        ],
+        "releaseYear": 1974,
+        "bggRating": 6.97698,
+        "players": {
+            "min": 2,
+            "max": 6,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 720
+        },
+        "complexityRating": 4.3365,
+        "bggUrl": "https://boardgamegeek.com/boardgame/1563",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147427474",
+        "tags": [
+            "wwii"
+        ],
+        "rulesUrl": "http://www.wargameacademy.org/3R4/3R4-rulebook-070908.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 560,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x60\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "4671810e-aa35-11f0-a87e-00000002a5c0",
+        "name": "The Greatest Day: Sword, Juno, and Gold Beaches",
+        "publishers": [
+            "Multi-Man Publishing"
+        ],
+        "releaseYear": 2015,
+        "bggRating": 8.55044,
+        "players": {
+            "min": 2,
+            "max": 8,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 6000
+        },
+        "complexityRating": 4.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/173504",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147597492",
+        "tags": [
+            "wwii"
+        ],
+        "officialUrl": "https://mmpgamers.com/the-greatest-day-sword-juno-and-gold-p-105",
+        "rulesUrl": "https://mmpgamers.com/support/gts/TGD_Exclusive_Rules_2.0.pdf",
+        "scenarios": 18,
+        "counters": {
+            "total": 2816,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "44\"x68\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b7c34-aa35-11f0-9278-00000002dda0",
+        "name": "Front Toward Enemy",
+        "publishers": [
+            "Multi-Man Publishing"
+        ],
+        "releaseYear": 2019,
+        "bggRating": 7.58962,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 180
+        },
+        "complexityRating": 2.75,
+        "bggUrl": "https://boardgamegeek.com/boardgame/187808",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147764043",
+        "tags": [
+            "vietnam"
+        ],
+        "officialUrl": "https://mmpgamers.com/front-toward-enemy-p-7",
+        "rulesUrl": "https://mmpgamers.com/support/other/FTE_Rules.pdf",
+        "scenarios": 8,
+        "counters": {
+            "total": 528,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "44\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b8058-aa35-11f0-b651-000000051272",
+        "name": "Vietnam: 1965-1975 (2nd Edition)",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2022,
+        "bggRating": 8.73931,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 6000
+        },
+        "complexityRating": 4.375,
+        "bggUrl": "https://boardgamegeek.com/boardgame/332402",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147948136",
+        "tags": [
+            "vietnam"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-911-vietnam-1965-1975-gmt-edition.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/Vietnam/GMT_Vietnam_livingrules_v3.pdf",
+        "scenarios": 12,
+        "counters": {
+            "total": 780,
+            "size": "1/2\" & 9/16\""
+        },
+        "maps": [
+            {
+                "size": "66\"x40\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b824c-aa35-11f0-adfe-0000000371df",
+        "name": "Armageddon War: Platoon Level Combat in the End War",
+        "publishers": [
+            "Banana Games",
+            "Flying Pig Games"
+        ],
+        "releaseYear": 2018,
+        "bggRating": 7.98333,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 240
+        },
+        "complexityRating": 3.0909,
+        "bggUrl": "https://boardgamegeek.com/boardgame/225759",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147705929",
+        "tags": [
+            "modern"
+        ],
+        "officialUrl": "https://flyingpiggames.com/shop/ols/products/armageddon-war",
+        "rulesUrl": "https://www.dropbox.com/scl/fi/kl5tt5asw7h9zwz7du53r/GeddonWar-2nd-printing.pdf?rlkey=15h1dookld81jh2xiqro9bv0d&e=1&st=87qtsomn&dl=0",
+        "scenarios": 16,
+        "counters": {
+            "total": 288,
+            "size": "1\""
+        },
+        "maps": [
+            {
+                "size": "44\"x33\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b842c-aa35-11f0-89a4-00000003ded4",
+        "name": "Combat! Volume 1",
+        "publishers": [
+            "Compass Games"
+        ],
+        "releaseYear": 2019,
+        "bggRating": 8.35793,
+        "players": {
+            "min": 1,
+            "max": 1,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 360
+        },
+        "complexityRating": 3.4902,
+        "bggUrl": "https://boardgamegeek.com/boardgame/253652",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148061445",
+        "tags": [
+            "solo"
+        ],
+        "officialUrl": "https://www.compassgames.com/product/combat/",
+        "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/Combat-2nd-Printing-Rules-print-ready-v4a+(1).pdf",
+        "scenarios": 14,
+        "counters": {
+            "total": 800,
+            "size": "5/8\" & 1\""
+        },
+        "maps": [
+            {
+                "size": "25\"x38\"",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "id": "478b860c-aa35-11f0-9c5b-0000000073a3",
+        "name": "D-Day at Omaha Beach",
+        "publishers": [
+            "Decision Games (I)"
+        ],
+        "releaseYear": 2009,
+        "bggRating": 8.29825,
+        "players": {
+            "min": 1,
+            "max": 1,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 480
+        },
+        "complexityRating": 3.4805,
+        "bggUrl": "https://boardgamegeek.com/boardgame/29603",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148064895",
+        "tags": [
+            "solo"
+        ],
+        "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1018%2D23",
+        "rulesUrl": "https://gamers-hq.de/media/pdf/08/a8/e0/DDOB-Rules-Color_V5F.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 352,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b87e2-aa35-11f0-ac06-000000010810",
+        "name": "D-Day at Tarawa",
+        "publishers": [
+            "Decision Games (I)"
+        ],
+        "releaseYear": 2014,
+        "bggRating": 8.22686,
+        "players": {
+            "min": 1,
+            "max": 1,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 420
+        },
+        "complexityRating": 3.7037,
+        "bggUrl": "https://boardgamegeek.com/boardgame/67600",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147675123",
+        "tags": [
+            "solo"
+        ],
+        "officialUrl": "https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1025",
+        "scenarios": 4,
+        "counters": {
+            "total": 352,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b89b8-aa35-11f0-8a6f-000000000691",
+        "name": "Tokyo Express: The Guadalcanal Naval Campaign \u2013 1942",
+        "publishers": [
+            "Victory Games (I)"
+        ],
+        "releaseYear": 1988,
+        "bggRating": 7.30919,
+        "players": {
+            "min": 1,
+            "max": 2,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 360
+        },
+        "complexityRating": 4.0328,
+        "bggUrl": "https://boardgamegeek.com/boardgame/1681",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/821415085",
+        "tags": [
+            "solo"
+        ],
+        "scenarios": 11,
+        "counters": {
+            "total": 676,
+            "size": "1/2\" & 3/4\""
+        },
+        "maps": [
+            {
+                "size": "22\"x32\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b8b98-aa35-11f0-b0f5-000000000591",
+        "name": "Raid on St. Nazaire",
+        "publishers": [
+            "The Avalon Hill Game Co"
+        ],
+        "releaseYear": 1987,
+        "bggRating": 7.26578,
+        "players": {
+            "min": 1,
+            "max": 1,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 180,
+            "max": 180
+        },
+        "complexityRating": 3.0198,
+        "bggUrl": "https://boardgamegeek.com/boardgame/1425",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147429522",
+        "tags": [
+            "solo"
+        ],
+        "scenarios": 1,
+        "counters": {
+            "total": 260,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "16\"x33\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b8d64-aa35-11f0-b9f4-00000005b88e",
+        "name": "Stalingrad: Advance to the Volga, 1942",
+        "publishers": [
+            "Revolution Games (II)",
+            "Take Aim Designs"
+        ],
+        "releaseYear": 2023,
+        "bggRating": 7.70532,
+        "players": {
+            "min": 1,
+            "max": 1,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 300
+        },
+        "complexityRating": 1.9697,
+        "bggUrl": "https://boardgamegeek.com/boardgame/374926",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148039207",
+        "tags": [
+            "solo"
+        ],
+        "officialUrl": "https://www.revolutiongames.us/Stalingrad.html",
+        "rulesUrl": "https://www.revolutiongames.us/Stalingrad_ATV/Stalingrad_Rules_reduced_size.pdf",
+        "scenarios": 2,
+        "counters": {
+            "total": 176,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "17\"x22\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b8f44-aa35-11f0-a2e9-00000005cda5",
+        "name": "The MOG: Mogadishu 1993",
+        "publishers": [
+            "White Dog Games"
+        ],
+        "releaseYear": 2023,
+        "bggRating": 8.03672,
+        "players": {
+            "min": 1,
+            "max": 1,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 90
+        },
+        "complexityRating": 2.25,
+        "bggUrl": "https://boardgamegeek.com/boardgame/380325",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148039799",
+        "tags": [
+            "solo"
+        ],
+        "officialUrl": "https://www.whitedoggames.com/mogadishu",
+        "scenarios": 6,
+        "counters": {
+            "total": 88,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "17\"x22\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b9106-aa35-11f0-b6c3-00000003e652",
+        "name": "Brotherhood & Unity",
+        "publishers": [
+            "Compass Games",
+            "Ediciones MasQueOca",
+            "NAC Wargames"
+        ],
+        "releaseYear": 2020,
+        "bggRating": 8.0042,
+        "players": {
+            "min": 2,
+            "max": 3,
+            "best": "3"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 240
+        },
+        "complexityRating": 3.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/255570",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147816385",
+        "tags": [
+            "3_player"
+        ],
+        "officialUrl": "https://www.compassgames.com/product/brotherhood-unity/",
+        "rulesUrl": "https://compassgamesbucket.s3.us-east-2.amazonaws.com/downloads/BrotherhoodUnity_rulebook.pdf",
+        "scenarios": 2,
+        "counters": {
+            "total": 260,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b92dc-aa35-11f0-af64-0000000203b2",
+        "name": "Churchill",
+        "publishers": [
+            "GMT Games",
+            "Devir",
+            "Ergo Ludo Editions",
+            "Fox in the Box",
+            "Rawstone"
+        ],
+        "releaseYear": 2015,
+        "bggRating": 7.66954,
+        "players": {
+            "min": 1,
+            "max": 3,
+            "best": "3"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 300
+        },
+        "complexityRating": 3.3855,
+        "bggUrl": "https://boardgamegeek.com/boardgame/132018",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147993914",
+        "tags": [
+            "3_player"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-719-churchill-3rd-printing.aspx",
+        "rulesUrl": "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/churchill/Churchill_Rules2ndEd.pdf",
+        "scenarios": 3,
+        "counters": {
+            "total": 176,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "478b94bc-aa35-11f0-b928-00000001ec19",
+        "name": "Cataclysm: A Second World War",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2018,
+        "bggRating": 7.52088,
+        "players": {
+            "min": 2,
+            "max": 5,
+            "best": "3"
+        },
+        "playtime": {
+            "min": 90,
+            "max": 600
+        },
+        "complexityRating": 3.9459,
+        "bggUrl": "https://boardgamegeek.com/boardgame/125977",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147691673",
+        "tags": [
+            "3_player"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-902-cataclysm.aspx",
+        "rulesUrl": "https://www.goblins.net/files/downloads/cataclysm_rulebook_04-2022_eng.pdf",
+        "scenarios": 5,
+        "counters": {
+            "total": 456,
+            "size": "9/16\""
+        },
+        "maps": [
+            {
+                "size": "17\"x22\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "478b96a6-aa35-11f0-b918-000000049523",
+        "name": "Conquest & Consequence",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2021,
+        "bggRating": 7.88158,
+        "players": {
+            "min": 2,
+            "max": 3,
+            "best": "3"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 360
+        },
+        "complexityRating": 3.8077,
+        "bggUrl": "https://boardgamegeek.com/boardgame/300323",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147922942",
+        "tags": [
+            "3_player"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-840-conquest-and-consequence.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/ConquestAndConsequence/Conquest%26Consequence_Rulebook_v1.1e.pdf",
+        "scenarios": 1,
+        "counters": {
+            "total": 352,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b9886-aa35-11f0-ac88-00000001ff90",
+        "name": "Triumph & Tragedy: European Balance of Power 1936-1945",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2015,
+        "bggRating": 8.13869,
+        "players": {
+            "min": 2,
+            "max": 3,
+            "best": "3"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 360
+        },
+        "complexityRating": 3.4211,
+        "bggUrl": "https://boardgamegeek.com/boardgame/130960",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147922941",
+        "tags": [
+            "3_player"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-722-triumph-and-tragedy-3rd-printing.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/triumphtragedy/TnT3rdEdRulesFinal.pdf",
+        "scenarios": 1,
+        "counters": {
+            "total": 208,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b9a66-aa35-11f0-aa8c-000000004dbf",
+        "name": "The Battle of Monmouth",
+        "publishers": [
+            "Clash of Arms Games"
+        ],
+        "releaseYear": 2008,
+        "bggRating": 7.86667,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "1"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 1200
+        },
+        "complexityRating": 3.8667,
+        "bggUrl": "https://boardgamegeek.com/boardgame/19903",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147383273",
+        "tags": [
+            "american_revolution"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-110-monmouth.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/armonm/Monmouth_playbook.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 176,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b9c46-aa35-11f0-850a-0000000237ee",
+        "name": "End of Empire: 1744-1782",
+        "publishers": [
+            "Compass Games"
+        ],
+        "releaseYear": 2014,
+        "bggRating": 7.72174,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 360,
+            "max": 360
+        },
+        "complexityRating": 2.7692,
+        "bggUrl": "https://boardgamegeek.com/boardgame/145390",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147552462",
+        "tags": [
+            "american_revolution"
+        ],
+        "officialUrl": "https://www.compassgames.com/product/end-of-empire-1744-1782-deluxe-edition-pay-later/",
+        "rulesUrl": "https://s3.us-east-2.amazonaws.com/compassgamesbucket/downloads/EoE-Rules.pdf",
+        "scenarios": 15,
+        "counters": {
+            "total": 792,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x68\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478b9e30-aa35-11f0-a13a-00000001ac43",
+        "name": "Washington's Crossing",
+        "publishers": [
+            "Revolution Games (II)"
+        ],
+        "releaseYear": 2012,
+        "bggRating": 7.57895,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 480,
+            "max": 480
+        },
+        "complexityRating": 3.0,
+        "bggUrl": "https://boardgamegeek.com/boardgame/109635",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147472500",
+        "tags": [
+            "american_revolution"
+        ],
+        "officialUrl": "https://www.revolutiongames.us/WC_info.html",
+        "rulesUrl": "https://www.revolutiongames.us/WC/Washingtons_Crossing_Rules_final.pdf",
+        "scenarios": 2,
+        "counters": {
+            "total": 200,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478ba04c-aa35-11f0-9680-000000001a3f",
+        "name": "Liberty: The American Revolution 1775-83",
+        "publishers": [
+            "Columbia Games"
+        ],
+        "releaseYear": 2003,
+        "bggRating": 7.17644,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 180
+        },
+        "complexityRating": 2.5873,
+        "bggUrl": "https://boardgamegeek.com/boardgame/6719",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147354206",
+        "tags": [
+            "american_revolution"
+        ],
+        "officialUrl": "https://columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=3021",
+        "rulesUrl": "https://columbiagames.com/resources/3021/libertyrules1.02.pdf",
+        "scenarios": 4,
+        "counters": {
+            "total": 50,
+            "size": "13/16\""
+        },
+        "maps": [
+            {
+                "size": "11\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "478ba236-aa35-11f0-816a-0000000000ed",
+        "name": "Wooden Ships & Iron Men",
+        "publishers": [
+            "The Avalon Hill Game Co",
+            "Battleline"
+        ],
+        "releaseYear": 1974,
+        "bggRating": 7.08867,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 60,
+            "max": 300
+        },
+        "complexityRating": 3.0887,
+        "bggUrl": "https://boardgamegeek.com/boardgame/237",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147430463",
+        "tags": [
+            "age_of_sail"
+        ],
+        "rulesUrl": "https://www.scribd.com/document/339876561/Wooden-Ship-and-Iron-Men-Manual",
+        "scenarios": 23,
+        "counters": {
+            "total": 180,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x28\"",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "489ff712-aa35-11f0-90da-000000025e79",
+        "name": "Captain's Sea",
+        "publishers": [
+            "Legion Wargames LLC"
+        ],
+        "releaseYear": 2021,
+        "bggRating": 7.45208,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 0,
+            "max": 0
+        },
+        "complexityRating": 3.2,
+        "bggUrl": "https://boardgamegeek.com/boardgame/155257",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147922302",
+        "tags": [
+            "age_of_sail"
+        ],
+        "officialUrl": "https://legion-wargames2.mybigcommerce.com/captains-sea/",
+        "rulesUrl": "https://khybergames.com/legionwargames/docs/Cap%20Rules%20Booklet%2016pp%20PRINT.pdf",
+        "scenarios": 10,
+        "counters": {
+            "total": 84,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "489ffb90-aa35-11f0-bebf-000000002b31",
+        "name": "The Great Battles of Alexander: Deluxe Edition",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 1995,
+        "bggRating": 7.70623,
+        "players": {
+            "min": 1,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 240
+        },
+        "complexityRating": 3.5726,
+        "bggUrl": "https://boardgamegeek.com/boardgame/11057",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2148094778",
+        "tags": [
+            "ancient"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-770-great-battles-of-alexander-expanded-deluxe-edition-2nd-printing.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbad/Deluxe_Alexander_6th_Edition_Rules.pdf",
+        "scenarios": 3,
+        "counters": {
+            "total": 763,
+            "size": "1/2\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": "489ffe10-aa35-11f0-ad2f-00000000542f",
+        "name": "SPQR (Deluxe Edition)",
+        "publishers": [
+            "GMT Games"
+        ],
+        "releaseYear": 2008,
+        "bggRating": 8.03402,
+        "players": {
+            "min": 1,
+            "max": 4,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 240,
+            "max": 240
+        },
+        "complexityRating": 3.9167,
+        "bggUrl": "https://boardgamegeek.com/boardgame/21551",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/2147741053",
+        "tags": [
+            "ancient"
+        ],
+        "officialUrl": "https://www.gmtgames.com/p-1118-spqr-deluxe-5th-edition.aspx",
+        "rulesUrl": "https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/gbsp/SPQR_4thEdition_Living_Rules_Draft_Oct2022.pdf",
+        "scenarios": 14,
+        "counters": {
+            "total": 968,
+            "size": "5/8\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "id": "48a00072-aa35-11f0-bd51-0000000010a9",
+        "name": "Iliad: The Siege of Troy",
+        "publishers": [
+            "Conflict Games",
+            "Game Designers' Workshop (GDW Games)"
+        ],
+        "releaseYear": 1978,
+        "bggRating": 7.30213,
+        "players": {
+            "min": 2,
+            "max": 2,
+            "best": "2"
+        },
+        "playtime": {
+            "min": 120,
+            "max": 180
+        },
+        "complexityRating": 2.7778,
+        "bggUrl": "https://boardgamegeek.com/boardgame/4265",
+        "nobleKnightUrl": "https://www.nobleknight.com/P/16826",
+        "tags": [
+            "ancient"
+        ],
+        "scenarios": 1,
+        "counters": {
+            "total": 51,
+            "size": "5/16\""
+        },
+        "maps": [
+            {
+                "size": "22\"x34\"",
+                "count": 1
+            }
+        ]
+    }
+]

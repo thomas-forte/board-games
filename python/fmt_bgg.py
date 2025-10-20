@@ -54,7 +54,7 @@ def _format_noble_knight_url(scrape_list_item: dict) -> str:
     return f"https://www.nobleknight.com/P/{scrape_list_item.get('nobleKnightId')}"
 
 
-def format_game_data(scrape_list_item: dict, bgg_game: dict) -> dict:
+def format_game_data(scrape_list_item: dict, bgg_game: dict, tags: list[dict]) -> dict:
     """
     Format the game data from the scrape list item and bgg game
     """
@@ -69,7 +69,9 @@ def format_game_data(scrape_list_item: dict, bgg_game: dict) -> dict:
         "complexityRating": bgg_game.rating_average_weight,
         "bggUrl": _format_bgg_url(bgg_game),
         "nobleKnightUrl": _format_noble_knight_url(scrape_list_item),
-        "tags": scrape_list_item.get("tags"),
+        "tags": [
+            tag["tag"] for tag in tags if tag["name"] in scrape_list_item.get("tags")
+        ],
     }
 
 

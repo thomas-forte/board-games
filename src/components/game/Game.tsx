@@ -83,8 +83,15 @@ export const Game = ({ game }: { game: GameType }) => {
       {game.rulesUrl && (
         <>
           <hr className="my-4 border-secondary-neutral border-1" />
-          <div className="text-[1.5rem] leading-[1.5rem] font-lato text-primary-neutral uppercase text-center">
-            Rules
+          <div className="flex justify-center">
+            <a
+              className="text-[1.5rem] leading-[1.5rem] font-lato text-primary-neutral uppercase"
+              href={game.rulesUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Rules
+            </a>
           </div>
         </>
       )}

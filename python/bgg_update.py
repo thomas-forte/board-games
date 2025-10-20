@@ -23,7 +23,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-load_tags()
+tags = load_tags()
 
 
 logger.info("Loading scrape_list.json")
