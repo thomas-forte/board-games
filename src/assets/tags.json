@@ -5,11 +5,6 @@
         "tag": "ancient"
     },
     {
-        "position": 1,
-        "name": "Medieval",
-        "tag": "medieval"
-    },
-    {
         "position": 2,
         "name": "Age of Sail",
         "tag": "age_of_sail"
@@ -30,11 +25,6 @@
         "tag": "american_civil_war"
     },
     {
-        "position": 6,
-        "name": "Victorian Era",
-        "tag": "victorian_era"
-    },
-    {
         "position": 7,
         "name": "WWI",
         "tag": "wwi"
@@ -48,11 +38,6 @@
         "position": 9,
         "name": "Vietnam",
         "tag": "vietnam"
-    },
-    {
-        "position": 10,
-        "name": "Cold War",
-        "tag": "cold_war"
     },
     {
         "position": 11,
