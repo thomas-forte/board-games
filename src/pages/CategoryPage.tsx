@@ -25,13 +25,18 @@ export const CategoryPage = () => {
     <>
       <PageHeading title={tag.name} />
 
-      <div className="grid place-items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4 mt-8">
+      <div className="flex flex-wrap justify-center gap-4 mt-8">
         {games
           .filter((game) => game.tags.includes(tag.tag))
           .map((game) => (
-            <Card key={game.id} className="w-[10rem] h-[14rem]">
-              <CircleButton text={game.name} to={`./${game.id}`} />
-            </Card>
+            <div
+              key={game.id}
+              className="w-1/3 sm:w-1/5 md:w-1/5 lg:w-1/6 xl:w-1/7 2xl:w-1/8"
+            >
+              <Card className="h-full">
+                <CircleButton text={game.name} to={`./${game.id}`} />
+              </Card>
+            </div>
           ))}
       </div>
     </>
