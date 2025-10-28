@@ -14,11 +14,12 @@ export const HomePage = () => {
 
       <PageHeading title="War Games" />
 
-      <div className="grid  grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 2xl:grid-cols-8 gap-4 mt-8 ">
+      <div className="flex flex-wrap justify-center gap-4 mt-8">
         {tags.map((tag) => (
           <CircleButton
             key={tag.tag}
             text={tag.name}
+            className="w-1/3 sm:w-1/5 md:w-1/5 lg:w-1/6 xl:w-1/7 2xl:w-1/8"
             to={`/category/${tag.tag}`}
             imageUrl={`/tag_icons/${tag.name}.svg`}
           />
