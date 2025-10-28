@@ -15,7 +15,7 @@ export const CircleButton = ({
   const navigate = useNavigate();
 
   return (
-    <div className={`p-4 flex flex-col items-center ${className}`}>
+    <div className={`p-4 flex flex-col items-center ${className ?? ""}`}>
       <svg
         width="88"
         height="88"
