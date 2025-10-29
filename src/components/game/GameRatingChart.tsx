@@ -97,12 +97,15 @@ export const GameRatingChart = ({ rating }: { rating: number }) => (
         </filter>
       </defs>
     </svg>
-    <div className="relative top-[-50%] flex flex-col items-center gap-1">
-      <div className="text-center text-[1.5rem] leading-[1.5rem]">
-        {rating.toFixed(2)}
-        <span className="text-[1rem] leading-[1rem]">/10</span>
+
+    <div className="relative pb-5">
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-[130%] flex flex-col items-center gap-1">
+        <div className="text-center text-[1.5rem] leading-none">
+          {rating.toFixed(2)}
+          <span className="text-[1rem] leading-none">/10</span>
+        </div>
+        <div className="text-center uppercase text-[.625rem]">Avg. Rating</div>
       </div>
-      <div className="text-center uppercase text-[.625rem]">Avg. Rating</div>
     </div>
   </div>
 );

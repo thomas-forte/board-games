@@ -34,15 +34,23 @@
   }
 
   .search-bar {
-    input {
-      box-shadow: 5px 5px 10px 0px #a6a6a6 inset;
-      box-shadow: -5px -5px 10px 0px #ffffff inset;
-    }
+    box-shadow: 5px 5px 10px 0px #a6a6a6 inset, -5px -5px 10px 0px #ffffff inset;
   }
 
   .card {
     background-color: var(--color-background);
-    box-shadow: 10px 10px 20px 0px #a6a6a6;
-    box-shadow: -10px -10px 20px 0px #ffffff;
+    box-shadow: 10px 10px 20px 0px #a6a6a6, -10px -10px 20px 0px #ffffff;
+  }
+  .good-inset {
+    box-shadow: 3px 3px 6px 0px #a6a6a6, -3px -3px 6px 0px #ffffff,
+      5px 5px 10px 0px #027a64 inset, -5px -5px 10px 0px #02a488 inset;
+  }
+  .medium-inset {
+    box-shadow: 3px 3px 6px 0px #a6a6a6, -3px -3px 6px 0px #ffffff,
+      5px 5px 10px 0px #cc8a02 inset, -5px -5px 10px 0px #ffba02 inset;
+  }
+  .bad-inset {
+    box-shadow: 3px 3px 6px 0px #a6a6a6, -3px -3px 6px 0px #ffffff,
+      5px 5px 10px 0px #be5b42 inset, -5px -5px 10px 0px #ff7b5a inset;
   }
 }

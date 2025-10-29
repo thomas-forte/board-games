@@ -35,7 +35,8 @@ export const SearchBar = () => {
     >
       <div className="relative mt-2">
         <ComboboxInput
-          className="block w-full rounded-full search-bar py-1.5 pr-12 pl-3 text-base text-gray-300 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
+          className="block w-full rounded-full search-bar py-1.5 pr-12 pl-15 text-base text-primary-neutral-300 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-primary sm:text-sm/6"
+          placeholder="Search"
           onChange={(event) => setQuery(event.target.value)}
           onBlur={() => setQuery("")}
         />
@@ -49,7 +50,7 @@ export const SearchBar = () => {
           {query.length > 0 && (
             <ComboboxOption
               value={{ id: null, name: query }}
-              className="cursor-default px-3 py-2 text-gray-900 select-none data-focus:bg-indigo-600 data-focus:text-white data-focus:outline-hidden"
+              className="cursor-default px-3 py-2 text-gray-900 select-none data-focus:bg-primary data-focus:text-background data-focus:outline-hidden"
             >
               {query}
             </ComboboxOption>
@@ -58,7 +59,7 @@ export const SearchBar = () => {
             <ComboboxOption
               key={game.id}
               value={game}
-              className="cursor-default px-3 py-2 text-gray-900 select-none data-focus:bg-indigo-600 data-focus:text-white data-focus:outline-hidden"
+              className="cursor-default px-3 py-2 text-gray-900 select-none data-focus:bg-primary data-focus:text-background data-focus:outline-hidden"
             >
               <span className="block truncate">{game.name}</span>
             </ComboboxOption>

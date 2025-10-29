@@ -26,19 +26,19 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
   }, [game]);
 
   return (
-    <div className="w-full flex justify-center items-center gap-4 mb-[2rem]">
+    <div className="w-full flex justify-center items-center gap-4 mb-[4rem]">
       <div
-        className={`bg-good-accent rounded-full  flex-grow border-1 border-background ${
-          complexityRating === "good" ? "h-7" : "h-4"
+        className={`bad-inset bg-bad-accent rounded-full flex-grow border-[1.5px] border-background ${
+          complexityRating === "bad" ? "h-10" : "h-5"
         }`}
       >
-        {complexityRating === "good" && (
+        {complexityRating === "bad" && (
           <GameRatingComplexityText complexityRating={game.complexityRating} />
         )}
       </div>
       <div
-        className={`bg-medium-accent rounded-full flex-grow border-1 border-background ${
-          complexityRating === "medium" ? "h-7" : "h-4"
+        className={`medium-inset bg-medium-accent rounded-full flex-grow border-[1.5px] border-background ${
+          complexityRating === "medium" ? "h-10" : "h-5"
         }`}
       >
         {complexityRating === "medium" && (
@@ -46,11 +46,11 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
         )}
       </div>
       <div
-        className={`bg-bad-accent rounded-full flex-grow border-1 border-background ${
-          complexityRating === "bad" ? "h-7" : "h-4"
+        className={`good-inset bg-good-accent rounded-full  flex-grow border-[1.5px] border-background ${
+          complexityRating === "good" ? "h-10" : "h-5"
         }`}
       >
-        {complexityRating === "bad" && (
+        {complexityRating === "good" && (
           <GameRatingComplexityText complexityRating={game.complexityRating} />
         )}
       </div>
