@@ -57,41 +57,41 @@ export const GameDetails = ({ game }: { game: Game }) => {
   }, [game]);
 
   return (
-    <div className="mt-4 grid grid-cols-2 gap-4">
+    <div className="mt-8 grid grid-cols-2 gap-4">
       {formattedPlaytime && (
         <GameDetail
           Icon={ClockIcon}
           value={formattedPlaytime}
-          label="minutes"
+          label="Minutes"
         />
       )}
 
       {formattedPlayers && (
-        <GameDetail Icon={UserIcon} value={formattedPlayers} label="players" />
+        <GameDetail Icon={UserIcon} value={formattedPlayers} label="Players" />
       )}
 
       <GameDetail
         Icon={PuzzlePieceIcon}
         value={game.counters?.total?.toFixed(0) || "-"}
-        label="counters"
+        label="Counters"
       />
 
       <GameDetail
         Icon={MapIcon}
         value={game.maps?.length?.toFixed(0) || "-"}
-        label="maps"
+        label="Maps"
       />
 
       <GameDetail
         Icon={ArrowsPointingOutIcon}
         value={game.counters?.size || "-"}
-        label="counter size"
+        label="Counter Size"
       />
 
       <GameDetail
         Icon={DocumentTextIcon}
         value={game.scenarios?.toFixed(0) || "-"}
-        label="scenarios"
+        label="Scenarios"
       />
     </div>
   );

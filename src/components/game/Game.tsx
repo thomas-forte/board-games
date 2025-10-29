@@ -9,11 +9,12 @@ import { GameDetails } from "./GameDetails";
 
 import bggLogo from "../../assets/bgg_logo.svg";
 import nkLogo from "../../assets/nk_logo.png";
+import { CapitalizedText } from "../Capitalize";
 
 const formatCost = (game: GameType) => {
   const cost = game.cost;
   if (!cost) {
-    return "Out of stock";
+    return "Out Of Stock";
   }
   if (cost.min && cost.max) {
     return `${cost.min} - ${cost.max}`;
@@ -22,7 +23,7 @@ const formatCost = (game: GameType) => {
   } else if (cost.max) {
     return `${cost.max}`;
   } else {
-    return "Out of stock";
+    return "Out Of Stock";
   }
 };
 
@@ -43,10 +44,10 @@ export const Game = ({ game }: { game: GameType }) => {
         <CurrencyDollarIcon className="size-12 text-primary" />
         <div className="flex flex-col items-center">
           <div className="text-[1.5rem] leading-[1.5rem] font-lato text-primary-neutral uppercase">
-            {formatCost(game)}
+            <CapitalizedText text={formatCost(game)} />
           </div>
           <div className="text-[1rem] font-lato text-primary-neutral uppercase">
-            Cost
+            <CapitalizedText text="Cost" />
           </div>
         </div>
       </div>
@@ -90,7 +91,7 @@ export const Game = ({ game }: { game: GameType }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Rules
+              <CapitalizedText text="Rules" />
             </a>
           </div>
         </>
