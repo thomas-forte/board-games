@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
 import type { Game } from "../../types/game";
+import { CapitalizedText } from "../Capitalize";
 import { GameRatingComplexityText } from "./GameRatingComplexityText";
 
 type ComplexityRating = "good" | "medium" | "bad" | undefined;
@@ -26,33 +27,44 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
   }, [game]);
 
   return (
-    <div className="w-full flex justify-center items-center gap-4 mb-[4rem]">
-      <div
-        className={`bad-inset bg-bad-accent rounded-full flex-grow border-[1.5px] border-background ${
-          complexityRating === "bad" ? "h-10" : "h-5"
-        }`}
-      >
-        {complexityRating === "bad" && (
-          <GameRatingComplexityText complexityRating={game.complexityRating} />
-        )}
+    <div className="w-full">
+      <div className="text-center text-[0.75rem] leading-[0.75rem] mb-2 uppercase">
+        <CapitalizedText text="Complexity Rating" />
       </div>
-      <div
-        className={`medium-inset bg-medium-accent rounded-full flex-grow border-[1.5px] border-background ${
-          complexityRating === "medium" ? "h-10" : "h-5"
-        }`}
-      >
-        {complexityRating === "medium" && (
-          <GameRatingComplexityText complexityRating={game.complexityRating} />
-        )}
-      </div>
-      <div
-        className={`good-inset bg-good-accent rounded-full  flex-grow border-[1.5px] border-background ${
-          complexityRating === "good" ? "h-10" : "h-5"
-        }`}
-      >
-        {complexityRating === "good" && (
-          <GameRatingComplexityText complexityRating={game.complexityRating} />
-        )}
+      <div className="flex justify-center items-center gap-4 mb-[4rem]">
+        <div
+          className={`bad-inset bg-bad-accent rounded-full flex-grow border-[1.5px] border-background ${
+            complexityRating === "bad" ? "h-10" : "h-5"
+          }`}
+        >
+          {complexityRating === "bad" && (
+            <GameRatingComplexityText
+              complexityRating={game.complexityRating}
+            />
+          )}
+        </div>
+        <div
+          className={`medium-inset bg-medium-accent rounded-full flex-grow border-[1.5px] border-background ${
+            complexityRating === "medium" ? "h-10" : "h-5"
+          }`}
+        >
+          {complexityRating === "medium" && (
+            <GameRatingComplexityText
+              complexityRating={game.complexityRating}
+            />
+          )}
+        </div>
+        <div
+          className={`good-inset bg-good-accent rounded-full  flex-grow border-[1.5px] border-background ${
+            complexityRating === "good" ? "h-10" : "h-5"
+          }`}
+        >
+          {complexityRating === "good" && (
+            <GameRatingComplexityText
+              complexityRating={game.complexityRating}
+            />
+          )}
+        </div>
       </div>
     </div>
   );

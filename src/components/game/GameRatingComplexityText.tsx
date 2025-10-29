@@ -10,9 +10,9 @@ export const GameRatingComplexityText = ({
         className="fill-primary-neutral"
       />
     </svg>
-    <div className="text-center text-[1rem] leading-[1rem]">
+    <div className="text-center text-[1.25rem] leading-[1.25rem]">
       {complexityRating.toFixed(2)}
-      <span className="text-[.625rem] leading-[.625rem]">/5</span>
+      <span className="text-[.875rem] leading-[.875rem]">/5</span>
     </div>
   </div>
 );
