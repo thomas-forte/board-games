@@ -14,7 +14,7 @@ import { CapitalizedText } from "../Capitalize";
 const formatCost = (game: GameType) => {
   const cost = game.cost;
   if (!cost) {
-    return "Out Of Stock";
+    return "Out of Stock";
   }
   if (cost.min && cost.max) {
     return `${cost.min} - ${cost.max}`;
@@ -23,7 +23,7 @@ const formatCost = (game: GameType) => {
   } else if (cost.max) {
     return `${cost.max}`;
   } else {
-    return "Out Of Stock";
+    return "Out of Stock";
   }
 };
 
