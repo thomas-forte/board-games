@@ -94,8 +94,15 @@ export const GameDetails = ({ game }: { game: Game }) => {
 
         <GameDetail
           Icon={MapIcon}
-          value={game.maps?.length?.toFixed(0) || "-"}
-          label="Maps"
+          value={
+            game.maps?.reduce((acc, map) => acc + map.count, 0).toFixed(0) ||
+            "-"
+          }
+          label={
+            (game.maps?.reduce((acc, map) => acc + map.count, 0) ?? 2) != 1
+              ? "Maps"
+              : "Map"
+          }
         />
 
         <GameDetail
