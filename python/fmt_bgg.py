@@ -82,8 +82,8 @@ def add_manual_data_to_game_data(game_data: dict, scrape_list_item: dict) -> Non
     if "manual_data" not in scrape_list_item:
         return
 
-    if "warfareLevel" in scrape_list_item["manual_data"]:
-        game_data["warfareLevel"] = scrape_list_item["manual_data"]["warfareLevel"]
+    if "warfareScale" in scrape_list_item["manual_data"]:
+        game_data["warfareLevel"] = scrape_list_item["manual_data"]["warfareScale"]
 
     if "officialUrl" in scrape_list_item["manual_data"]:
         game_data["officialUrl"] = scrape_list_item["manual_data"]["officialUrl"]
