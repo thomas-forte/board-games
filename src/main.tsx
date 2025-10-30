@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 
 import "@fontsource/lato/300.css";
 import "@fontsource/lato/400.css";
+import "@fontsource/lato/400-italic.css";
 import "@fontsource/oswald/600.css";
 import "./index.css";
 

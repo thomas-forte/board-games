@@ -22,7 +22,7 @@ export const GameTitle = ({ game }: { game: Game }) => {
       )}
 
       {game.warfareLevel && (
-        <h4 className="text-[.875rem] font-lato text-primary-neutral uppercase text-center">
+        <h4 className="text-[.875rem] font-lato italic text-primary-neutral uppercase text-center">
           {game.warfareLevel}
         </h4>
       )}
