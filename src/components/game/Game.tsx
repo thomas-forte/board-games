@@ -7,7 +7,7 @@ import { GameTitle } from "./GameTitle";
 import { GameRating } from "./GameRating";
 import { GameDetails } from "./GameDetails";
 
-import bggLogo from "../../assets/bgg_logo.svg";
+import bggLogo from "../../assets/bgg_logo_sm.svg";
 import nkLogo from "../../assets/nk_logo.png";
 import { CapitalizedText } from "../Capitalize";
 
