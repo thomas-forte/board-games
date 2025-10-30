@@ -18,7 +18,7 @@ export interface Game {
   nobleKnightUrl: string;
   tags: string[];
   // manual data
-  warfareLevel?: "tactical" | "strategic" | "operational";
+  warfareLevel?: string;
   officialUrl?: string;
   rulesUrl?: string;
   counters?: {
