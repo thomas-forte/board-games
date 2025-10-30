@@ -33,11 +33,11 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
       </div>
       <div className="flex justify-center items-center gap-4 mb-[4rem]">
         <div
-          className={`bad-inset bg-bad-accent rounded-full flex-grow border-[1.5px] border-background ${
-            complexityRating === "bad" ? "h-10" : "h-5"
+          className={`good-inset bg-good-accent rounded-full  flex-grow border-[1.5px] border-background ${
+            complexityRating === "good" ? "h-10" : "h-5"
           }`}
         >
-          {complexityRating === "bad" && (
+          {complexityRating === "good" && (
             <GameRatingComplexityText
               complexityRating={game.complexityRating}
             />
@@ -55,11 +55,11 @@ export const GameRatingComplexity = ({ game }: { game: Game }) => {
           )}
         </div>
         <div
-          className={`good-inset bg-good-accent rounded-full  flex-grow border-[1.5px] border-background ${
-            complexityRating === "good" ? "h-10" : "h-5"
+          className={`bad-inset bg-bad-accent rounded-full flex-grow border-[1.5px] border-background ${
+            complexityRating === "bad" ? "h-10" : "h-5"
           }`}
         >
-          {complexityRating === "good" && (
+          {complexityRating === "bad" && (
             <GameRatingComplexityText
               complexityRating={game.complexityRating}
             />
