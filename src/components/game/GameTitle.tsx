@@ -5,7 +5,7 @@ import type { Game } from "../../types/game";
 export const GameTitle = ({ game }: { game: Game }) => {
   return (
     <>
-      <h1 className="text-[2rem] font-semibold font-oswald text-primary uppercase text-center mt-8">
+      <h1 className="text-[2rem] font-semibold font-oswald text-primary uppercase text-center">
         <CapitalizedText text={game.name} />
       </h1>
 

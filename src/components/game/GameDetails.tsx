@@ -11,6 +11,7 @@ import {
 import type { Game } from "../../types/game";
 
 import { GameDetail } from "./GameDetail";
+import { GameRating } from "./GameRating";
 
 const formatPlaytime = (game: Game) => {
   const playtime = game.playtime;
@@ -57,42 +58,52 @@ export const GameDetails = ({ game }: { game: Game }) => {
   }, [game]);
 
   return (
-    <div className="mt-8 grid grid-cols-2 gap-4">
-      {formattedPlaytime && (
+    <div className="mt-8 flex justify-around gap-4 max-w-4xl mx-auto">
+      <div className="flex flex-col justify-evenly gap-4">
+        {formattedPlaytime && (
+          <GameDetail
+            Icon={ClockIcon}
+            value={formattedPlaytime}
+            label="Minutes"
+          />
+        )}
         <GameDetail
-          Icon={ClockIcon}
-          value={formattedPlaytime}
-          label="Minutes"
+          Icon={PuzzlePieceIcon}
+          value={game.counters?.total?.toFixed(0) || "-"}
+          label="Counters"
         />
-      )}
+        <GameDetail
+          Icon={ArrowsPointingOutIcon}
+          value={game.counters?.size || "-"}
+          label="Counter Size"
+        />
+      </div>
 
-      {formattedPlayers && (
-        <GameDetail Icon={UserIcon} value={formattedPlayers} label="Players" />
-      )}
+      <div className="hidden lg:block">
+        <GameRating game={game} />
+      </div>
 
-      <GameDetail
-        Icon={PuzzlePieceIcon}
-        value={game.counters?.total?.toFixed(0) || "-"}
-        label="Counters"
-      />
+      <div className="flex flex-col justify-evenly gap-4">
+        {formattedPlayers && (
+          <GameDetail
+            Icon={UserIcon}
+            value={formattedPlayers}
+            label="Players"
+          />
+        )}
 
-      <GameDetail
-        Icon={MapIcon}
-        value={game.maps?.length?.toFixed(0) || "-"}
-        label="Maps"
-      />
+        <GameDetail
+          Icon={MapIcon}
+          value={game.maps?.length?.toFixed(0) || "-"}
+          label="Maps"
+        />
 
-      <GameDetail
-        Icon={ArrowsPointingOutIcon}
-        value={game.counters?.size || "-"}
-        label="Counter Size"
-      />
-
-      <GameDetail
-        Icon={DocumentTextIcon}
-        value={game.scenarios?.toFixed(0) || "-"}
-        label="Scenarios"
-      />
+        <GameDetail
+          Icon={DocumentTextIcon}
+          value={game.scenarios?.toFixed(0) || "-"}
+          label="Scenarios"
+        />
+      </div>
     </div>
   );
 };

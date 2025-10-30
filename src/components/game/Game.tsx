@@ -34,13 +34,17 @@ export const Game = ({ game }: { game: GameType }) => {
 
   return (
     <>
-      <GameTitle game={game} />
-      <GameRating game={game} />
-      <GameDetails game={game} />
+      <div className="mt-4">
+        <GameTitle game={game} />
+      </div>
+      <div className="mt-6 flex justify-center lg:hidden">
+        <GameRating game={game} />
+      </div>
+      <div className="mt-6">
+        <GameDetails game={game} />
+      </div>
 
-      <hr className="my-4 border-secondary-neutral border-1" />
-
-      <div className="flex justify-center items-center gap-4">
+      <div className="mt-6 flex justify-center items-center gap-4">
         <CurrencyDollarIcon className="size-12 text-primary" />
         <div className="flex flex-col items-center">
           <div className="text-[1.5rem] leading-[1.5rem] font-lato text-primary-neutral uppercase">
@@ -48,6 +52,8 @@ export const Game = ({ game }: { game: GameType }) => {
           </div>
         </div>
       </div>
+
+      <hr className="my-4 border-secondary-neutral border-1" />
 
       <div className="flex justify-center items-center gap-10 mt-4">
         <a
