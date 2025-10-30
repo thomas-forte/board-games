@@ -46,9 +46,6 @@ export const Game = ({ game }: { game: GameType }) => {
           <div className="text-[1.5rem] leading-[1.5rem] font-lato text-primary-neutral uppercase">
             <CapitalizedText text={formatCost(game)} />
           </div>
-          <div className="text-[1rem] font-lato text-primary-neutral uppercase">
-            <CapitalizedText text="Cost" />
-          </div>
         </div>
       </div>
 
