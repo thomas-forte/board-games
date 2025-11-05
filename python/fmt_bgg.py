@@ -54,10 +54,17 @@ def _format_noble_knight_url(scrape_list_item: dict) -> str:
     return f"https://www.nobleknight.com/P/{scrape_list_item.get('nobleKnightId')}"
 
 
-def format_game_data(scrape_list_item: dict, bgg_game: dict, tags: list[dict]) -> dict:
+def format_game_data(
+    scrape_list_item: dict,
+    bgg_game: dict,
+    tags: list[dict],
+) -> tuple[dict, set[str]]:
     """
     Format the game data from the scrape list item and bgg game
     """
+    mapped_tags = [
+        tag["tag"] for tag in tags if tag["name"] in scrape_list_item.get("tags")
+    ]
     return {
         "id": str(uuid.uuid1(node=bgg_game.id)),
         "name": bgg_game.name,
@@ -69,10 +76,8 @@ def format_game_data(scrape_list_item: dict, bgg_game: dict, tags: list[dict]) -
         "complexityRating": bgg_game.rating_average_weight,
         "bggUrl": _format_bgg_url(bgg_game),
         "nobleKnightUrl": _format_noble_knight_url(scrape_list_item),
-        "tags": [
-            tag["tag"] for tag in tags if tag["name"] in scrape_list_item.get("tags")
-        ],
-    }
+        "tags": mapped_tags,
+    }, set(mapped_tags)
 
 
 def add_manual_data_to_game_data(game_data: dict, scrape_list_item: dict) -> None:
@@ -114,3 +119,10 @@ def add_manual_data_to_game_data(game_data: dict, scrape_list_item: dict) -> Non
                     "count": map_count,
                 }
             )
+
+
+def format_image_data(game_data: dict, bgg_game: dict) -> dict:
+    return {
+        "id": game_data["id"],
+        "imageUrl": bgg_game.image,
+    }

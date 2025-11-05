@@ -4,12 +4,15 @@ import logging
 import time
 
 from boardgamegeek import BGGClient
-from tags import load_tags
+from tags import load_tags, write_tags
 from fmt_bgg import (
     add_name_to_manual_data,
     format_game_data,
     add_manual_data_to_game_data,
+    format_image_data,
 )
+
+from TOKEN import TOKEN
 
 """
 This script updates the bggLastUpdate field in the scrape_list.json file.
@@ -24,7 +27,7 @@ logger = logging.getLogger(__name__)
 
 
 tags = load_tags()
-
+tags_set = set()
 
 logger.info("Loading scrape_list.json")
 with open("scrape_list.json", "r") as file:
@@ -41,10 +44,11 @@ bgg_chunks = [
 logger.info(f"Broken into {len(bgg_chunks)} chunks of max {CHUNK_SIZE} games")
 
 
-bgg = BGGClient()
+bgg = BGGClient(access_token=TOKEN)
 logger.info("Initialized BGGClient")
 
 data = []
+images = []
 for bgg_chunk in bgg_chunks:
 
     game_list = [game.get("boardGameGeekId") for game in bgg_chunk]
@@ -67,13 +71,22 @@ for bgg_chunk in bgg_chunks:
 
         add_name_to_manual_data(scrape_list[scrape_list_index], bgg_game)
 
-        formatted_game_data = format_game_data(scrape_list[scrape_list_index], bgg_game)
+        formatted_game_data, mapped_tags = format_game_data(
+            scrape_list[scrape_list_index],
+            bgg_game,
+            tags,
+        )
+        tags_set.update(mapped_tags)
+        image_data = format_image_data(formatted_game_data, bgg_game)
 
         add_manual_data_to_game_data(
             formatted_game_data, scrape_list[scrape_list_index]
         )
 
         data.append(formatted_game_data)
+        images.append(image_data)
+
+write_tags([tag for tag in tags if tag["tag"] in tags_set])
 
 # Write scrape_list.json
 with open("scrape_list.json", "w") as file:
@@ -82,3 +95,8 @@ with open("scrape_list.json", "w") as file:
 # Write scraped.json
 with open("../src/assets/scraped.json", "w") as file:
     json.dump(data, file)
+
+
+# Write images.json
+with open("images.json", "w") as file:
+    json.dump(images, file, indent=2)

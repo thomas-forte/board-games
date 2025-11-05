@@ -27,9 +27,14 @@ def load_tags() -> list[dict]:
             }
         )
 
-    logger.info(f"Writing {len(tags_data)} tags to src/assets/tags.json")
-    with open("../src/assets/tags.json", "w") as file:
-        json.dump(tags_data, file)
-    logger.info("Tags loaded and written to src/assets/tags.json")
-
     return tags_data
+
+
+def write_tags(tags: list[dict]) -> None:
+    """
+    Writes tags to src/assets/tags.json
+    """
+    logger.info(f"Writing {len(tags)} tags to src/assets/tags.json")
+    with open("../src/assets/tags.json", "w") as file:
+        json.dump(tags, file)
+    logger.info("Tags written to src/assets/tags.json")
