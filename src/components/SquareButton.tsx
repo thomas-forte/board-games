@@ -25,11 +25,21 @@ export const SquareButton = ({
       >
         <g filter="url(#filter0_ii_163_3)">
           <rect width="88" height="88" rx="15" className="fill-background" />
+          {imageUrl && (
+            <image
+              href={imageUrl}
+              width="88"
+              height="88"
+              x="0"
+              y="0"
+              clip-path="url(#cut-filter0_ii_163_3-clip)"
+            />
+          )}
         </g>
-        {imageUrl && (
-          <image href={imageUrl} width="68" height="68" x="10" y="10" />
-        )}
         <defs>
+          <clipPath id="cut-filter0_ii_163_3-clip">
+            <rect width="88" height="88" rx="15" />
+          </clipPath>
           <filter
             id="filter0_ii_163_3"
             x="-5"
