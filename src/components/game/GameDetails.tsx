@@ -15,7 +15,7 @@ import { GameRating } from "./GameRating";
 
 const formatPlaytime = (game: Game) => {
   const playtime = game.playtime;
-  if (playtime.min === playtime.max) {
+  if (playtime.min === playtime.max && playtime.min !== 0) {
     return `${playtime.min}`;
   } else if (playtime.min && playtime.max) {
     return `${playtime.min} - ${playtime.max}`;
