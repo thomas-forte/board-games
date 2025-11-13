@@ -4,7 +4,7 @@ import type { Tag } from "../types/tag";
 import type { Game } from "../types/game";
 
 import { Card } from "../components/Card";
-import { CircleButton } from "../components/CircleButton";
+import { SquareButton } from "../components/SquareButton";
 import { PageHeading } from "../components/PageHeading";
 
 import gamesData from "../assets/scraped.json";
@@ -34,7 +34,7 @@ export const CategoryPage = () => {
                 className="h-full hover:scale-110 transition-all duration-300 cursor-pointer"
                 to={`./${game.id}`}
               >
-                <CircleButton text={game.name} />
+                <SquareButton text={game.name} />
               </Card>
             </div>
           ))}
