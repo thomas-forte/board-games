@@ -95,12 +95,12 @@ export const SquareButton = ({
           </filter>
         </defs>
       </svg>
-      <span
+      <div
         onClick={() => to && navigate(to)}
-        className="uppercase mt-2 text-sm font-lato font-normal text-center cursor-pointer"
+        className="uppercase mt-5 text-sm font-lato font-normal text-center cursor-pointer"
       >
         <CapitalizedText text={text} />
-      </span>
+      </div>
     </div>
   );
 };
