@@ -20,14 +20,14 @@ export const SquareButton = ({
         width="88"
         height="88"
         viewBox="0 0 88 88"
-        className="cursor-pointer hover:scale-110 transition-all duration-300"
+        className="cursor-pointer"
         onClick={() => to && navigate(to)}
       >
         <g filter="url(#filter0_ii_163_3)">
           <rect width="88" height="88" rx="15" className="fill-background" />
         </g>
         {imageUrl && (
-          <image href={imageUrl} width="50" height="50" x="19" y="19" />
+          <image href={imageUrl} width="68" height="68" x="10" y="10" />
         )}
         <defs>
           <filter
