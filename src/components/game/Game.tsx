@@ -10,6 +10,7 @@ import { GameDetails } from "./GameDetails";
 import bggLogo from "../../assets/bgg_logo_sm.svg";
 import nkLogo from "../../assets/nk_logo.png";
 import { CapitalizedText } from "../Capitalize";
+import { Card } from "../Card";
 
 const formatCost = (game: GameType) => {
   const cost = game.cost;
@@ -37,9 +38,21 @@ export const Game = ({ game }: { game: GameType }) => {
       <div className="mt-4">
         <GameTitle game={game} />
       </div>
-      <div className="mt-6 flex justify-center lg:hidden">
+
+      <div className="mt-6 flex justify-center">
+        <Card>
+          <img
+            className="rounded-lg w-[10rem] lg:w-[13.33rem]"
+            src={`/images/${game.id}.jpg`}
+            alt={game.name}
+          />
+        </Card>
+      </div>
+
+      <div className="mt-8 flex justify-center lg:hidden">
         <GameRating game={game} />
       </div>
+
       <div className="mt-6">
         <GameDetails game={game} />
       </div>
