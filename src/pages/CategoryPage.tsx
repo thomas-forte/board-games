@@ -31,9 +31,9 @@ export const CategoryPage = () => {
           {games
             .filter((game) => game.tags.includes(tag.tag))
             .map((game) => (
-              <div key={game.id} className="sm:w-1/4 lg:w-1/5 xl:w-1/6">
+              <div key={game.id} className="w-full md:w-1/5">
                 <Card
-                  className="h-full hover:scale-110 transition-all duration-300 cursor-pointer py-4 m-4 mx-10"
+                  className="h-full hover:scale-110 transition-all duration-300 cursor-pointer py-4"
                   to={`./${game.id}`}
                 >
                   <SquareButton

@@ -79,7 +79,7 @@ export const Carousel = ({ children }: { children: ReactNode }) => {
           {childArray.map((child, index) => (
             <div
               key={index}
-              className="min-w-full flex justify-center items-center"
+              className="min-w-full flex justify-center items-center p-12"
             >
               {child}
             </div>
