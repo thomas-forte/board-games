@@ -26,7 +26,7 @@ export const CategoryPage = () => {
     <>
       <PageHeading title={tag.name} />
 
-      <div className="flex flex-wrap justify-center gap-10 mt-8 max-w-7xl mx-auto">
+      <div className="flex flex-wrap justify-center gap-10 md:mt-8 max-w-7xl mx-auto">
         <Carousel>
           {games
             .filter((game) => game.tags.includes(tag.tag))

@@ -23,16 +23,9 @@
   --color-bad-accent-dark: #be5b42;
 
   --color-bad-accent: #e06b4e;
-
-  --spacing-edge: 38px;
 }
 
 @layer components {
-  .app-container {
-    padding: var(--spacing-edge);
-    color: var(--color-primary-neutral);
-  }
-
   .search-bar {
     box-shadow: 5px 5px 10px 0px #a6a6a6 inset, -5px -5px 10px 0px #ffffff inset;
   }

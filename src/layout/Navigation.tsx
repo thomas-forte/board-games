@@ -7,7 +7,7 @@ const getBackLink = (location: Location) => {
     return (
       <Link to={`/category/${tag}`}>
         <div className="inline-flex items-center gap-2">
-          <ArrowLeftIcon className="size-6" />
+          <ArrowLeftIcon className="size-5 md:size-6" />
           {tag.replaceAll("_", " ")}
         </div>
       </Link>
@@ -16,7 +16,7 @@ const getBackLink = (location: Location) => {
     return (
       <Link to="/">
         <div className="inline-flex items-center gap-2">
-          <ArrowLeftIcon className="size-6" /> Home
+          <ArrowLeftIcon className="size-5 md:size-6" /> Home
         </div>
       </Link>
     );
@@ -32,7 +32,7 @@ export const Navigation = () => {
     return <></>;
   } else {
     return (
-      <nav className="flex justify-between items-center font-lato font-light uppercase text-2xl">
+      <nav className="flex justify-between items-center font-lato font-light uppercase md:text-2xl text-xl">
         {getBackLink(location)}
       </nav>
     );
