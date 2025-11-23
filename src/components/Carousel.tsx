@@ -1,6 +1,8 @@
 import { useState, type ReactNode, Children } from "react";
+import { useScreenWidth } from "../hooks/useScreenWidth";
 
 export const Carousel = ({ children }: { children: ReactNode }) => {
+  const { isMobile } = useScreenWidth();
   const [currentIndex, setCurrentIndex] = useState(0);
   const [touchStart, setTouchStart] = useState<number | null>(null);
   const [touchEnd, setTouchEnd] = useState<number | null>(null);
@@ -56,6 +58,10 @@ export const Carousel = ({ children }: { children: ReactNode }) => {
 
   if (totalSlides === 0) {
     return null;
+  }
+
+  if (!isMobile) {
+    return children;
   }
 
   return (

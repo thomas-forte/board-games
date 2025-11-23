@@ -8,9 +8,12 @@ import "@fontsource/oswald/600.css";
 import "./index.css";
 
 import { Router } from "./router";
+import { ScreenWidthProvider } from "./contexts/ScreenWidthProvider";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <Router />
+    <ScreenWidthProvider>
+      <Router />
+    </ScreenWidthProvider>
   </StrictMode>
 );
