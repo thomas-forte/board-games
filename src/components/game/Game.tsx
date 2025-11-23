@@ -3,6 +3,8 @@ import { GlobeAltIcon } from "@heroicons/react/24/solid";
 
 import type { Game as GameType } from "../../types/game";
 
+import { useScreenWidth } from "../../hooks/useScreenWidth";
+
 import { GameTitle } from "./GameTitle";
 import { GameRating } from "./GameRating";
 import { GameDetails } from "./GameDetails";
@@ -29,6 +31,8 @@ const formatCost = (game: GameType) => {
 };
 
 export const Game = ({ game }: { game: GameType }) => {
+  const { isDesktop } = useScreenWidth();
+
   if (!game) {
     return <div>Game not found</div>;
   }
@@ -49,9 +53,11 @@ export const Game = ({ game }: { game: GameType }) => {
         </Card>
       </div>
 
-      <div className="mt-8 flex justify-center lg:hidden">
-        <GameRating game={game} />
-      </div>
+      {!isDesktop && (
+        <div className="mt-8 flex justify-center">
+          <GameRating game={game} />
+        </div>
+      )}
 
       <div className="mt-6">
         <GameDetails game={game} />

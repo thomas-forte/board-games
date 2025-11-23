@@ -1,4 +1,5 @@
 import { useState, type ReactNode, Children } from "react";
+
 import { useScreenWidth } from "../hooks/useScreenWidth";
 
 export const Carousel = ({ children }: { children: ReactNode }) => {

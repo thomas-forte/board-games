@@ -10,6 +10,8 @@ import {
 
 import type { Game } from "../../types/game";
 
+import { useScreenWidth } from "../../hooks/useScreenWidth";
+
 import { GameDetail } from "./GameDetail";
 import { GameRating } from "./GameRating";
 
@@ -49,6 +51,7 @@ const formatPlayers = (game: Game) => {
 };
 
 export const GameDetails = ({ game }: { game: Game }) => {
+  const { isDesktop } = useScreenWidth();
   const [formattedPlaytime, setFormattedPlaytime] = useState<string>("");
   const [formattedPlayers, setFormattedPlayers] = useState<string>("");
 
@@ -79,9 +82,7 @@ export const GameDetails = ({ game }: { game: Game }) => {
         />
       </div>
 
-      <div className="hidden lg:block">
-        <GameRating game={game} />
-      </div>
+      {isDesktop && <GameRating game={game} />}
 
       <div className="flex flex-col justify-evenly gap-4">
         {formattedPlayers && (
