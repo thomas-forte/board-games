@@ -4,6 +4,7 @@ import type { Tag } from "../types/tag";
 import type { Game } from "../types/game";
 
 import { Card } from "../components/Card";
+import { Carousel } from "../components/Carousel";
 import { SquareButton } from "../components/SquareButton";
 import { PageHeading } from "../components/PageHeading";
 
@@ -26,21 +27,23 @@ export const CategoryPage = () => {
       <PageHeading title={tag.name} />
 
       <div className="flex flex-wrap justify-center gap-10 mt-8 max-w-7xl mx-auto">
-        {games
-          .filter((game) => game.tags.includes(tag.tag))
-          .map((game) => (
-            <div key={game.id} className="w-1/3 sm:w-1/4 lg:w-1/5 xl:w-1/6">
-              <Card
-                className="h-full hover:scale-110 transition-all duration-300 cursor-pointer py-4"
-                to={`./${game.id}`}
-              >
-                <SquareButton
-                  text={game.name}
-                  imageUrl={`/images/${game.id}.jpg`}
-                />
-              </Card>
-            </div>
-          ))}
+        <Carousel>
+          {games
+            .filter((game) => game.tags.includes(tag.tag))
+            .map((game) => (
+              <div key={game.id} className="sm:w-1/4 lg:w-1/5 xl:w-1/6">
+                <Card
+                  className="h-full hover:scale-110 transition-all duration-300 cursor-pointer py-4 m-4 mx-10"
+                  to={`./${game.id}`}
+                >
+                  <SquareButton
+                    text={game.name}
+                    imageUrl={`/images/${game.id}.jpg`}
+                  />
+                </Card>
+              </div>
+            ))}
+        </Carousel>
       </div>
     </>
   );
