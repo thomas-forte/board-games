@@ -89,7 +89,7 @@ export const Carousel = ({ children }: { children: ReactNode }) => {
       </div>
 
       {totalSlides > 1 && (
-        <div className="flex justify-center gap-2 mt-4">
+        <div className="flex justify-center flex-wrap gap-x-2 gap-y-4 mt-4">
           {childArray.map((_, index) => (
             <button
               key={index}
