@@ -33,7 +33,7 @@ export const CategoryPage = () => {
             .map((game) => (
               <div key={game.id} className="w-full md:w-1/4 lg:w-1/5">
                 <Card
-                  className="h-full min-h-[14rem] hover:scale-110 transition-all duration-300 cursor-pointer py-4"
+                  className="hover:scale-110 transition-all duration-300 cursor-pointer py-4"
                   to={`./${game.id}`}
                 >
                   <SquareButton
