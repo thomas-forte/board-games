@@ -95,7 +95,7 @@ export const SquareButton = ({
       </svg>
       <div
         onClick={() => to && navigate(to)}
-        className="uppercase mt-5 text-sm font-lato font-normal text-center cursor-pointer h-[3.5lh]"
+        className="uppercase mt-5 text-sm font-lato font-normal text-center cursor-pointer h-[4.5lh] md:h-[3.5lh]"
       >
         <CapitalizedText text={text} />
       </div>
