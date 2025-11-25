@@ -17,10 +17,8 @@ export const SquareButton = ({
   return (
     <div className={`p-4 flex flex-col items-center ${className ?? ""}`}>
       <svg
-        width="88"
-        height="88"
         viewBox="0 0 88 88"
-        className="cursor-pointer"
+        className="cursor-pointer size-26 md:size-22"
         onClick={() => to && navigate(to)}
       >
         <g filter="url(#filter0_ii_163_3)">
