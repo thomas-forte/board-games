@@ -29,7 +29,8 @@ export const SearchBar = () => {
   return (
     <Combobox
       as="div"
-      onChange={(game: Game) => {
+      onChange={(game: Game | null) => {
+        if (!game?.tags?.[0]) return;
         navigate(`/category/${game.tags[0]}/${game.id}`);
       }}
     >
