@@ -23,15 +23,15 @@ export const SearchBar = () => {
     query === ""
       ? games
       : games.filter((game) => {
-          return game.name.toLowerCase().includes(query.toLowerCase());
-        });
+        return game.name.toLowerCase().includes(query.toLowerCase());
+      });
 
   return (
     <Combobox
       as="div"
       onChange={(game: Game | null) => {
         if (!game?.tags?.[0]) return;
-        navigate(`/category/${game.tags[0]}/${game.id}`);
+        void navigate(`/category/${game.tags[0]}/${game.id}`);
       }}
     >
       <div className="relative mt-2">
